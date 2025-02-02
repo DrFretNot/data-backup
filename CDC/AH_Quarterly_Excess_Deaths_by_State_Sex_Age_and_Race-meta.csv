@@ -1,0 +1,21 @@
+Common Core
+Contact Name,National Center for Health Statistics
+Contact Email,cdcinfo@cdc.gov
+Publisher,National Center for Health Statistics
+Public Access Level,public
+Issued,2021-05-20
+Bureau Code,009:20
+Program Code,009:020
+Geographic Coverage,United States
+Update Frequency,irregular
+Homepage,https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm
+Data Quality
+Suggested Citation,"National Center for Health Statistics. AH Quarterly Excess Deaths by State, Sex, Age, and Race. Date accessed [Last accessed date]. Available from https://data.cdc.gov/d/jqg8-ycmh."
+Analytical Methods Reference,https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm
+Footnotes,"Both unweighted and weighted (predicted) provisional counts are provided. Weighting of provisional counts is done to account for potential underreporting in the most recent time periods. However, data for the most recent time periods are still likely to be incomplete. Only about 60% of deaths are reported within 10 days of the date of death. The completeness of provisional data varies by cause of death and by age group. However, the weights applied do not account for this variability. Therefore, the predicted numbers of deaths may be too low for some age groups. For example, provisional data on deaths among younger age groups is typically less complete than among older age groups. Predicted counts may therefore be too low among the younger age groups. Numbers in 2020 and 2021 are compared with the average numbers from the same quarters in 2015-2019. More detail about the methods, weighting, data, and limitations can be found in the Technical Notes. https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm and https://www.cdc.gov/nchs/nvss/vsrr/covid19/tech_notes.htm."
+Topics
+Category,NCHS
+Tags,"excess deaths, covid-19, nchs, nvss, provisional, mortality, deaths, united states, weekly, age, age group, race, hispanic origin, sex, all causes, coronavirus, state"
+Licensing and Attribution
+License,Public Domain U.S. Government
+Source Link,https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm

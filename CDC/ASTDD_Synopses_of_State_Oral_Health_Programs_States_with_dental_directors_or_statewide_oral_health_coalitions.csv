@@ -1,0 +1,103 @@
+Year,LocationAbbr,LocationDesc,DataSource,Class,Topic,Question,Data_Value_Unit,Data_Value_Type,Data_Value,Data_Value_Footnote_Symbol,Data_Value_Footnote,GeoLocation,QuestionID,LocationID
+2018,NJ,New Jersey,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(40.130570048, -74.273691288)",LEAD1_1,34
+2018,MO,Missouri,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(38.635790776, -92.566300053)",LEAD1_1,29
+2018,WA,Washington,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(47.522278629, -120.47001079)",LEAD1_6,53
+2018,HI,Hawaii,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(21.304850435, -157.857749403)",LEAD1_1,15
+2018,UT,Utah,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(39.360700171, -111.587130635)",LEAD1_6,49
+2018,PA,Pennsylvania,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(40.793730152, -77.860700294)",LEAD1_6,42
+2018,AK,Alaska,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(64.845079957001, -147.722059036)",LEAD1_1,02
+2018,MO,Missouri,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(38.635790776, -92.566300053)",LEAD1_6,29
+2018,UT,Utah,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(39.360700171, -111.587130635)",LEAD1_1,49
+2018,MT,Montana,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(47.066528972, -109.424420645)",LEAD1_1,30
+2018,CT,Connecticut,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(41.56266102, -72.649840952)",LEAD1_1,09
+2018,DC,District of Columbia,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,No,,,"(38.890371385, -77.031961127)",LEAD1_6,11
+2018,NV,Nevada,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(39.49324039, -117.071840564)",LEAD1_6,32
+2018,NH,New Hampshire,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(43.655950113, -71.50036092)",LEAD1_1,33
+2018,SC,South Carolina,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(33.998821303, -81.045371207)",LEAD1_6,45
+2018,KY,Kentucky,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(37.645970271, -84.774971048)",LEAD1_1,21
+2018,DC,District of Columbia,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,No,,,"(38.890371385, -77.031961127)",LEAD1_1,11
+2018,AR,Arkansas,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(34.748650124, -92.274490743)",LEAD1_1,05
+2018,CO,Colorado,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(38.843840757, -106.133610921)",LEAD1_1,08
+2018,VT,Vermont,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(43.625381239, -72.517640791)",LEAD1_6,50
+2018,WV,West Virginia,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(38.665510202, -80.712640135)",LEAD1_6,54
+2018,MI,Michigan,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(44.661319543001, -84.71439027)",LEAD1_6,26
+2018,NE,Nebraska,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(41.641040988001, -99.365720623)",LEAD1_1,31
+2018,SD,South Dakota,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(44.353130053, -100.373530637)",LEAD1_1,46
+2018,MN,Minnesota,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(46.355648736, -94.794200503)",LEAD1_1,27
+2018,IA,Iowa,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,No,,,"(42.469400913, -93.816490556)",LEAD1_6,19
+2018,MD,Maryland,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(39.290580964, -76.609260111)",LEAD1_6,24
+2018,WI,Wisconsin,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(44.393191174, -89.816370742)",LEAD1_6,55
+2018,AL,Alabama,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(32.840571122, -86.631860762)",LEAD1_6,01
+2018,CT,Connecticut,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(41.56266102, -72.649840952)",LEAD1_6,09
+2018,OR,Oregon,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(44.567449424, -120.155031326)",LEAD1_1,41
+2018,TN,Tennessee,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(35.68094058, -85.774490914)",LEAD1_1,47
+2018,TX,Texas,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(31.827240407, -99.426770206)",LEAD1_1,48
+2018,OR,Oregon,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(44.567449424, -120.155031326)",LEAD1_6,41
+2018,IL,Illinois,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(40.485010283, -88.997710178)",LEAD1_6,17
+2018,IN,Indiana,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(39.766910452, -86.149960194)",LEAD1_6,18
+2018,ID,Idaho,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(43.682630005, -114.363730042)",LEAD1_1,16
+2018,IA,Iowa,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(42.469400913, -93.816490556)",LEAD1_1,19
+2018,MI,Michigan,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(44.661319543001, -84.71439027)",LEAD1_1,26
+2018,WY,Wyoming,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,No,,,"(43.235541343, -108.109830353)",LEAD1_1,56
+2018,MT,Montana,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,No,,,"(47.066528972, -109.424420645)",LEAD1_6,30
+2018,VT,Vermont,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(43.625381239, -72.517640791)",LEAD1_1,50
+2018,MS,Mississippi,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(32.745510099, -89.538030825)",LEAD1_6,28
+2018,OK,Oklahoma,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(35.472031356, -97.521070214)",LEAD1_1,40
+2018,RI,Rhode Island,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(41.708280193, -71.522470314)",LEAD1_6,44
+2018,RI,Rhode Island,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(41.708280193, -71.522470314)",LEAD1_1,44
+2018,VA,Virginia,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(37.542680674, -78.457890463)",LEAD1_6,51
+2018,NJ,New Jersey,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(40.130570048, -74.273691288)",LEAD1_6,34
+2018,AL,Alabama,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(32.840571122, -86.631860762)",LEAD1_1,01
+2018,ME,Maine,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(45.254228894001, -68.985031336)",LEAD1_6,23
+2018,OH,Ohio,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,No,,,"(40.060210141, -82.404260056)",LEAD1_1,39
+2018,DE,Delaware,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(39.008830667, -75.577741168)",LEAD1_1,10
+2018,CO,Colorado,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(38.843840757, -106.133610921)",LEAD1_6,08
+2018,GA,Georgia,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(32.839681093, -83.627580346)",LEAD1_1,13
+2018,NY,New York,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(42.827001032, -75.543970427)",LEAD1_1,36
+2018,KS,Kansas,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(38.3477403, -98.200781227)",LEAD1_1,20
+2018,IN,Indiana,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(39.766910452, -86.149960194)",LEAD1_1,18
+2018,OK,Oklahoma,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(35.472031356, -97.521070214)",LEAD1_6,40
+2018,HI,Hawaii,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(21.304850435, -157.857749403)",LEAD1_6,15
+2018,MN,Minnesota,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(46.355648736, -94.794200503)",LEAD1_6,27
+2018,KS,Kansas,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,No,,,"(38.3477403, -98.200781227)",LEAD1_6,20
+2018,ID,Idaho,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(43.682630005, -114.363730042)",LEAD1_6,16
+2018,CA,California,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(37.638640123, -120.999999538)",LEAD1_1,06
+2018,IL,Illinois,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(40.485010283, -88.997710178)",LEAD1_1,17
+2018,KY,Kentucky,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(37.645970271, -84.774971048)",LEAD1_6,21
+2018,VA,Virginia,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(37.542680674, -78.457890463)",LEAD1_1,51
+2018,AZ,Arizona,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(34.86597028, -111.763811277)",LEAD1_6,04
+2018,WV,West Virginia,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(38.665510202, -80.712640135)",LEAD1_1,54
+2018,AZ,Arizona,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(34.86597028, -111.763811277)",LEAD1_1,04
+2018,TX,Texas,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(31.827240407, -99.426770206)",LEAD1_6,48
+2018,MD,Maryland,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(39.290580964, -76.609260111)",LEAD1_1,24
+2018,LA,Louisiana,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(31.312660644, -92.445680071)",LEAD1_6,22
+2018,WI,Wisconsin,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,No,,,"(44.393191174, -89.816370742)",LEAD1_1,55
+2018,NM,New Mexico,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(34.520880952, -106.240580985)",LEAD1_1,35
+2018,WA,Washington,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(47.522278629, -120.47001079)",LEAD1_1,53
+2018,NC,North Carolina,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(35.466220975, -79.159250463)",LEAD1_6,37
+2018,FL,Florida,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(28.932040377, -81.928960539)",LEAD1_1,12
+2018,TN,Tennessee,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,No,,,"(35.68094058, -85.774490914)",LEAD1_6,47
+2018,NY,New York,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(42.827001032, -75.543970427)",LEAD1_6,36
+2018,SC,South Carolina,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(33.998821303, -81.045371207)",LEAD1_1,45
+2018,NE,Nebraska,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,No,,,"(41.641040988001, -99.365720623)",LEAD1_6,31
+2018,MA,Massachusetts,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(42.27687047, -72.082690675)",LEAD1_1,25
+2018,PA,Pennsylvania,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(40.793730152, -77.860700294)",LEAD1_1,42
+2018,WY,Wyoming,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,No,,,"(43.235541343, -108.109830353)",LEAD1_6,56
+2018,NC,North Carolina,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(35.466220975, -79.159250463)",LEAD1_1,37
+2018,CA,California,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(37.638640123, -120.999999538)",LEAD1_6,06
+2018,AR,Arkansas,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(34.748650124, -92.274490743)",LEAD1_6,05
+2018,MS,Mississippi,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(32.745510099, -89.538030825)",LEAD1_1,28
+2018,MA,Massachusetts,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(42.27687047, -72.082690675)",LEAD1_6,25
+2018,ME,Maine,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(45.254228894001, -68.985031336)",LEAD1_1,23
+2018,DE,Delaware,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(39.008830667, -75.577741168)",LEAD1_6,10
+2018,SD,South Dakota,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(44.353130053, -100.373530637)",LEAD1_6,46
+2018,LA,Louisiana,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(31.312660644, -92.445680071)",LEAD1_1,22
+2018,NV,Nevada,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(39.49324039, -117.071840564)",LEAD1_1,32
+2018,NH,New Hampshire,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(43.655950113, -71.50036092)",LEAD1_6,33
+2018,AK,Alaska,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(64.845079957001, -147.722059036)",LEAD1_6,02
+2018,OH,Ohio,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(40.060210141, -82.404260056)",LEAD1_6,39
+2018,FL,Florida,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(28.932040377, -81.928960539)",LEAD1_6,12
+2018,GA,Georgia,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(32.839681093, -83.627580346)",LEAD1_6,13
+2018,NM,New Mexico,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(34.520880952, -106.240580985)",LEAD1_6,35
+2018,ND,North Dakota,ASTDD Synopses,Synopses,Leadership,Current state dental director,,yes/no,Yes,,,"(47.475319779, -100.118421049)",LEAD1_1,38
+2018,ND,North Dakota,ASTDD Synopses,Synopses,Leadership,"Statewide, broad-based oral health coalition",,yes/no,Yes,,,"(47.475319779, -100.118421049)",LEAD1_6,38

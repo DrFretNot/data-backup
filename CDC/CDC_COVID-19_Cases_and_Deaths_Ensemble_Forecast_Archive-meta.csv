@@ -1,0 +1,18 @@
+Common Core
+Contact Name,Center for Forecasting and Outbreak Analytics
+Contact Email,cfadata@cdc.gov
+Publisher,Center for Forecasting and Outbreak Analytics
+Public Access Level,public
+Bureau Code,009:20
+Program Code,009:020
+Geographic Coverage,National
+Update Frequency,Archive
+Data Quality
+Geospatial Resolution,County or State or National (US)
+Analytical Methods Reference,https://covid19forecasthub.org/
+Topics
+Category,Models
+Tags,"model, ensemble, forecast, cases, deaths, covid-19, coronavirus"
+Licensing and Attribution
+License,
+Source Link,https://github.com/reichlab/covid19-forecast-hub/tree/master/data-processed

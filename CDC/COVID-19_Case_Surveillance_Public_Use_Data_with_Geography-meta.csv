@@ -1,0 +1,27 @@
+Common Core
+Contact Name,CDC-INFO
+Contact Email,cdcinfo@cdcinquiry.onmicrosoft.com
+Publisher,CDC
+Public Access Level,public
+References,https://github.com/CDCgov/covid_case_privacy_review/blob/master/analysis/public%2019%20utility%20summary.pdf
+Bureau Code,009:20
+Program Code,009:020
+Geographic Coverage,US
+Temporal Applicability,2020-01-01/2024-07-05
+Described By,https://data.cdc.gov/api/views/n8mc-b4w4/files/f24e6a39-6419-4958-81d2-a22da947f8fc?download=true&filename=data_dictionary_covid_cases_public_geo.xlsx
+Update Frequency,Monthly
+Data Quality
+Suggested Citation,"Centers for Disease Control and Prevention, COVID-19 Response. COVID-19 Case Surveillance Public Use Data with Geography (version date: July 5, 2024)."
+Geospatial Resolution,"State, County"
+Analytical Methods Reference,https://github.com/CDCgov/covid_case_privacy_review
+Attachments
+faq_covid_cases_public_geo.pdf
+data_dictionary_covid_cases_public_geo.xlsx
+Public 19 Data Profile.pdf
+public 19 utility summary.pdf
+Topics
+Category,Case Surveillance
+Tags,"covid-19, covid19, coronavirus, cases, surveillance, county, state, microdata, ncird-corvd"
+Licensing and Attribution
+License,Public Domain U.S. Government
+Source Link,https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/index.html

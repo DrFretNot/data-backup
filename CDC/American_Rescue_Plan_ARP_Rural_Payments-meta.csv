@@ -1,0 +1,15 @@
+Common Core
+Contact Name,HRSA Chief Data Officer
+Contact Email,PRFdata@hrsa.gov
+Publisher,HRSA
+Public Access Level,public
+Bureau Code,009:15
+Program Code,009:020
+Geographic Coverage,U.S.
+Data Quality
+Footnotes,"Each row represents a provider that received a payment under the American Rescue Plan (ARP) Rural Distribution, which were released beginning in November 2021, including providers that have not yet claimed their funds. Providers listed in this public dataset may have multiple service sites, including sites in rural locations that are not reflected in the primary city and zip code information listed for the provider. Providers with at least one rural service site are considered rural in this context."
+Topics
+Category,Administrative
+Tags,"covid-19, american rescue plan"
+Licensing and Attribution
+License,Public Domain U.S. Government

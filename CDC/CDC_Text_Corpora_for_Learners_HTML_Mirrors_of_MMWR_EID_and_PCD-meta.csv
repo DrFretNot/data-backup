@@ -1,0 +1,26 @@
+Common Core
+Contact Name,NCSTLTPHIW(PHIC) Associate Director of Informatics and Data Science
+Contact Email,cdcinfo@cdc.gov
+Publisher,NCSTLTPHIW(PHIC)/ADIDS
+Public Access Level,public
+References,"""https://github.com/cmheilig/harvest-cdc-journals?tab=readme-ov-file"", ""https://www.cdc.gov/mmwr/"", ""https://wwwnc.cdc.gov/eid"", ""https://www.cdc.gov/pcd/"""
+Issued,2024-03-19
+Bureau Code,009:20
+Program Code,009:020
+Temporal Applicability,1982 - 2023
+Described By,https://github.com/cmheilig/harvest-cdc-journals?tab=readme-ov-file#cdc-text-corpora-for-learners
+Update Frequency,Irregular
+Homepage,https://github.com/cmheilig/harvest-cdc-journals
+Collection,CDC Text Corpora for Learners
+Dataset Information
+Glossary/Methodology,https://github.com/cmheilig/harvest-cdc-journals?tab=readme-ov-file#raw-html
+Attachments
+eid_1995-2023.zip
+mmwr_1982-2023.zip
+pcd_2004-2023.zip
+Topics
+Category,"National Center for State, Tribal, Local, and Territorial Public Health Infrastructure and Workforce"
+Tags,"harvest-cdc-journals, text analysis, corpus, corpora, ncstltphiw, phic, informatics, data science, nlp, mmwr, pcd, eid, ai, ml, machine learning, llm, language, semantic, linguistic, morphology"
+Licensing and Attribution
+License,
+Source Link,https://github.com/cmheilig/harvest-cdc-journals

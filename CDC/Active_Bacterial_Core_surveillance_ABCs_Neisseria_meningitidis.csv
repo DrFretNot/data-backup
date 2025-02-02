@@ -1,0 +1,703 @@
+Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
+1997,2500,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+1997,300,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+1997,2800,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+1997,2968,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+1997,1.3,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+1997,1.3,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+1997,4.23,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+1997,1.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+1997,1.44,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+1997,1.61,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+1997,0.46,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+1997,0.92,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+1997,1.3,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+1997,1.2,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+1997,1.9,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+1997,0.7,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+1997,1.3,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+1997,1.31,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+1997,1.25,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+1997,0.12,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+1997,0.4,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+1997,0.3,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+1997,0.4,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+1997,0.1,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+1997,46,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+1997,39.7,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+1997,7.7,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+1998,2100,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+1998,400,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+1998,2500,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+1998,2555,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+1998,1,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+1998,1,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+1998,2.99,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+1998,0.93,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+1998,1.21,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+1998,1.33,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+1998,0.4,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+1998,1.01,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+1998,1,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+1998,1,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+1998,1.4,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+1998,0.8,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+1998,1,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+1998,1.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+1998,1,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+1998,0.13,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+1998,0.3,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+1998,0.2,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+1998,0.3,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+1998,0.2,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+1998,45.4,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+1998,43.8,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+1998,7.6,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+1999,2641,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+1999,316,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+1999,2957,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+1999,2338,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+1999,1.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+1999,1.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+1999,3.43,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+1999,0.93,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+1999,0.96,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+1999,1.98,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+1999,0.46,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+1999,0.87,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+1999,1.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+1999,1,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+1999,1.6,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+1999,0.9,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+1999,1.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+1999,1.06,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+1999,1.09,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+1999,0.11,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+1999,0.3,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+1999,0.3,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+1999,0.3,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+1999,0.1,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+1999,46.7,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+1999,40.1,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+1999,9.5,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2000,1900,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2000,300,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2000,2200,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2000,2138,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2000,0.8,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2000,0.8,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2000,2.47,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2000,0.42,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2000,0.64,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2000,1.33,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2000,0.33,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2000,0.57,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2000,0.8,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2000,0.8,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2000,0.9,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2000,0.4,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2000,0.8,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2000,0.83,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2000,0.73,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2000,0.09,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2000,0.3,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2000,0.1,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2000,0.2,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2000,0.1,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2000,51.2,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2000,34.5,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2000,9.6,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2001,1775,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2001,200,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2001,1975,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2001,2203,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2001,0.8,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2001,0.8,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2001,2.03,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2001,0.25,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2001,0.74,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2001,1.31,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2001,0.46,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2001,0.66,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2001,0.8,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2001,0.8,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2001,1.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2001,0.4,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2001,0.8,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2001,0.8,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2001,0.78,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2001,0.08,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2001,0.3,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2001,0.2,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2001,0.2,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2001,0.1,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2001,47.8,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2001,39.4,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2001,9.1,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2002,1300,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2002,150,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2002,1450,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2002,1671,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2002,0.5,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2002,0.5,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2002,2.17,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2002,0.44,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2002,0.6,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2002,0.58,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2002,0.24,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2002,0.4,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2002,0.5,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2002,0.6,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2002,0.5,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2002,0.3,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2002,0.5,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2002,0.62,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2002,0.5,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2002,0.05,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2002,0.2,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2002,0.1,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2002,0.1,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2002,0.1,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2002,49.5,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2002,40,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2002,7,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2003,1250,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2003,175,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2003,1425,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2003,1664,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2003,0.6,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2003,0.6,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2003,1.73,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2003,0.33,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2003,0.48,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2003,0.96,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2003,0.28,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2003,0.37,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2003,0.6,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2003,0.6,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2003,0.6,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2003,0.4,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2003,0.6,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2003,0.62,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2003,0.56,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2003,0.06,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2003,0.24,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2003,0.14,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2003,0.11,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2003,0.08,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2003,50.7,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2003,31.2,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2003,12.1,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2004,775,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2004,125,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2004,900,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2004,1289,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2004,0.4,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2004,0.4,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2004,1.27,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2004,0.25,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2004,0.28,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2004,0.45,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2004,0.17,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2004,0.22,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2004,0.4,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2004,0.4,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2004,0.3,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2004,0.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2004,0.4,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2004,0.49,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2004,0.34,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2004,0.04,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2004,0.19,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2004,0.07,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2004,0.08,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2004,0.06,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2004,57.7,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2004,28.8,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2004,8.9,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2005,955,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2005,70,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2005,1025,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2005,1245,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2005,0.44,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2005,0.44,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2005,1.09,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2005,0.46,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2005,0.39,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2005,0.2,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2005,0.22,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2005,0.3,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2005,0.44,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2005,0.46,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2005,0.44,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2005,0.2,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2005,0.44,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2005,0.42,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2005,0.47,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2005,0.03,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2005,0.14,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2005,0.07,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2005,0.11,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2005,0.01,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2005,55.8,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2005,30.8,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2005,6.9,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2006,775,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2006,125,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2006,900,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2006,1194,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2006,0.36,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2006,0.36,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2006,0.81,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2006,0.07,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2006,0.39,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2006,0.52,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2006,0.17,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2006,0.32,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2006,0.36,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2006,0.36,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2006,0.41,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2006,0.2,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2006,0.36,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2006,0.39,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2006,0.34,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2006,0.04,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2006,0.08,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2006,0.08,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2006,0.12,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2006,0.02,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2006,46.2,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2006,37.9,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2006,8.3,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2007,870,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2007,130,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2007,1000,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2007,1077,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2007,0.38,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2007,0.38,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2007,1.06,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2007,0.07,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2007,0.14,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2007,0.56,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2007,0.27,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2007,0.33,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2007,0.38,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2007,0.43,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2007,0.43,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2007,0.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2007,0.38,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2007,0.4,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2007,0.36,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2007,0.05,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2007,0.08,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2007,0.1,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2007,0.12,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2007,0.03,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2007,49.3,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2007,32.9,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2007,11.2,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2008,920,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2008,130,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2008,1050,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2008,1172,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2008,0.39,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2008,0.39,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2008,1.01,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2008,0.2,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2008,0.11,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2008,0.43,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2008,0.22,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2008,0.39,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2008,0.39,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2008,0.42,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2008,0.37,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2008,0.2,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2008,0.39,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2008,0.39,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2008,0.39,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2008,0.03,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2008,0.12,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2008,0.1,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2008,0.08,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2008,0.03,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2008,53.8,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2008,24.4,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2008,13.8,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2009,740,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2009,110,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2009,850,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2009,980,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2009,0.33,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2009,0.33,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2009,0.76,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2009,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2009,0.2,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2009,0.42,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2009,0.21,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2009,0.23,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2009,0.33,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2009,0.35,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2009,0.31,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2009,0.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2009,0.33,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2009,0.32,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2009,0.33,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2009,0.03,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2009,0.09,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2009,0.07,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2009,0.1,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2009,0.01,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2009,46.7,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2009,28.5,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2009,13.1,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2010,400,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2010,75,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2010,475,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2010,845,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2010,0.2,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2010,0.2,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2010,0.6,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2010,0.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2010,0.06,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2010,0.26,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2010,0.11,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2010,0.11,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2010,0.2,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2010,0.2,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2010,0.27,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2010,0.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2010,0.2,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2010,0.24,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2010,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2010,0.02,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2010,0.03,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2010,0.04,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2010,0.07,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2010,0,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2010,46.5,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2010,31.4,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2010,10.5,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2011,530,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2011,100,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2011,630,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2011,845,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2011,0.24,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2011,0.24,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2011,0.76,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2011,0.07,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2011,0.06,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2011,0.15,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2011,0.11,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2011,0.26,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2011,0.24,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2011,0.26,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2011,0.24,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2011,0.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2011,0.24,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2011,0.25,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2011,0.24,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2011,0.04,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2011,0.06,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2011,0.05,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2011,0.07,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2011,0.02,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2011,41.8,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2011,24.3,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2011,21.4,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2012,415,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2012,75,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2012,490,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2012,551,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2012,0.19,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2012,0.19,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2012,0.57,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2012,0,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2012,0.11,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2012,0.18,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2012,0.14,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2012,0.11,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2012,0.19,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2012,0.2,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2012,0.13,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2012,0.18,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2012,0.19,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2012,0.21,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2012,0.17,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2012,0.03,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2012,0.06,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2012,0.03,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2012,0.05,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2012,0.01,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2012,46.3,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2012,27.5,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2012,8.8,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2013,345,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2013,75,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2013,420,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2013,556,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2013,0.15,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2013,0.15,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2013,0.45,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2013,0.03,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2013,0,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2013,0.3,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2013,0.15,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2013,0.09,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2013,0.15,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2013,0.14,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2013,0.21,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2013,0.09,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2013,0.15,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2013,0.14,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2013,0.15,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2013,0.03,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2013,0.05,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2013,0.04,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2013,0.02,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2013,0.03,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2013,50.8,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2013,19.1,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2013,17.5,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2014,380,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2014,70,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2014,450,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2014,426,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2014,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2014,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2014,0.57,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2014,0.03,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2014,0.06,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2014,0.15,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2014,0.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2014,0.14,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2014,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2014,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2014,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2014,0.09,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2014,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2014,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2014,0.15,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2014,0.02,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2014,0.04,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2014,0.04,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2014,0.01,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2014,0.05,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2014,48.5,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2014,20.6,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2014,16.2,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2015,320,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2015,60,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2015,380,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2015,372,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2015,0.17,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2015,0.17,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2015,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2015,0,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2015,0.03,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2015,0.15,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2015,0.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2015,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2015,0.17,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2015,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2015,0.17,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2015,0.17,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2015,0.17,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2015,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2015,0.17,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2015,0.03,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2015,0.05,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2015,0.01,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2015,0.03,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2015,0.03,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2015,45.8,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2015,22.2,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2015,22.2,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2016,362,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2016,38,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2016,400,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2016,372,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2016,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2016,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2016,0.33,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2016,0,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2016,0.11,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2016,0.27,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2016,0.08,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2016,0.12,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2016,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2016,0.15,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2016,0.2,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2016,0.14,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2016,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2016,0.15,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2016,0.17,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2016,0.01,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2016,0.05,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2016,0.02,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2016,0.02,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2016,0.03,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2016,49.3,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2016,25.4,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2016,5.8,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2017,270,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2017,40,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2017,310,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2017,349,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2017,0.13,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2017,0.13,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2017,0.17,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2017,0.04,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2017,0,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2017,0.06,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2017,0.05,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2017,0.16,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2017,0.13,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2017,0.13,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2017,0.18,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2017,0.05,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2017,0.13,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2017,0.11,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2017,0.15,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2017,0.01,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2017,0.02,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2017,0.02,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2017,0.02,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2017,0.03,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2017,36.2,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2017,29.3,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2017,12.1,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2018,260,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2018,50,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2018,310,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2018,329,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,NNDSS Total cases†
+2018,0.12,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2018,0.12,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2018,0.21,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2018,0,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2018,0.03,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2018,0.04,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2018,0.11,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2018,0.11,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2018,0.12,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2018,0.11,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2018,0.17,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2018,0.08,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2018,0.12,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2018,0.14,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2018,0.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2018,0.02,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2018,0.02,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2018,0.01,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2018,0.03,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2018,0.03,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2018,46.2,Percent,Neisseria meningitidis,Syndromes,All,Meningitis
+2018,30.8,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia without focus
+2018,11.5,Percent,Neisseria meningitidis,Syndromes,All,Bacteremia with pneumonia
+2019,0.19,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2019,0.09,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2019,0.03,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2019,0.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2019,0.13,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2019,0.18,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2019,0.14,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2019,0.03,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2019,0.02,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2019,0.03,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2019,0.05,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2019,0.13,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2019,0.19,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2019,0.08,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2019,0.14,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2019,400,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2019,43.5,Percent,Neisseria meningitidis,Syndromes,ALL,Meningitis
+2019,19.4,Percent,Neisseria meningitidis,Syndromes,ALL,Bacteremia without focus
+2019,19.4,Percent,Neisseria meningitidis,Syndromes,ALL,Bacteremia with pneumonia
+2019,0.12,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2019,0.15,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2019,20,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2019,380,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2019,0.14,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2019,0.12,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2019,0.01,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2019,371,Counts,Neisseria meningitidis,Number of Cases and Deaths,ALL,NNDSS Total cases
+2020,0.27,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2020,0.06,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2020,0.03,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2020,0.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2020,0.05,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2020,0.07,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2020,0.08,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2020,0.02,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2020,0.01,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2020,0.03,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2020,0.02,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2020,0.08,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2020,0.11,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2020,0,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2020,0.08,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2020,270,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2020,52.9,Percent,Neisseria meningitidis,Syndromes,ALL,Meningitis
+2020,23.5,Percent,Neisseria meningitidis,Syndromes,ALL,Bacteremia without focus
+2020,8.8,Percent,Neisseria meningitidis,Syndromes,ALL,Bacteremia with pneumonia
+2020,0.07,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2020,0.08,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2020,20,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2020,250,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2020,0.08,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2020,0.08,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2020,0.01,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2020,242,Counts,Neisseria meningitidis,Number of Cases and Deaths,ALL,NNDSS Total cases
+2021,0.12,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2021,0.03,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2021,0.02,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2021,0.03,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2021,0.07,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2021,0.07,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2021,0.06,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2021,0.01,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2021,0.02,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2021,0.01,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2021,0,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2021,0.06,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2021,0.09,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2021,0.05,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2021,0.06,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2021,210,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2021,55.2,Percent,Neisseria meningitidis,Syndromes,ALL,Meningitis
+2021,13.8,Percent,Neisseria meningitidis,Syndromes,ALL,Bacteremia without focus
+2021,17.2,Percent,Neisseria meningitidis,Syndromes,ALL,Bacteremia with pneumonia
+2021,0.07,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2021,0.05,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2021,50,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2021,160,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2021,0.06,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2021,0.06,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2021,0.02,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2021,208,Counts,Neisseria meningitidis,Number of Cases and Deaths,ALL,NNDSS Total cases
+2022,0.04,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,<5 years old
+2022,0.03,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,5-10 years old
+2022,0.07,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,11-17 years old
+2022,0.13,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,18-22 years old
+2022,0.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,23-49 years old
+2022,0.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,>=50 years old
+2022,0.09,"Per 100,000 population",Neisseria meningitidis,Case rates,Age,Overall
+2022,0.01,"Per 100,000 population",Neisseria meningitidis,Serogroups,B,
+2022,0.04,"Per 100,000 population",Neisseria meningitidis,Serogroups,C,
+2022,0.02,"Per 100,000 population",Neisseria meningitidis,Serogroups,Y,
+2022,0.02,"Per 100,000 population",Neisseria meningitidis,Serogroups,Other,
+2022,0.09,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,White
+2022,0.13,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Black
+2022,0.04,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Other races
+2022,0.09,"Per 100,000 population",Neisseria meningitidis,Case rates,Race,Overall
+2022,300,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Total cases
+2022,51,Percent,Neisseria meningitidis,Syndromes,ALL,Meningitis
+2022,27,Percent,Neisseria meningitidis,Syndromes,ALL,Bacteremia without focus
+2022,5,Percent,Neisseria meningitidis,Syndromes,ALL,Bacteremia with pneumonia
+2022,0.08,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Female
+2022,0.1,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Male
+2022,40,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of deaths
+2022,260,Counts,Neisseria meningitidis,Number of Cases and Deaths,All,Number of survivals
+2022,0.09,"Per 100,000 population",Neisseria meningitidis,Case rates,Overall,
+2022,0.09,"Per 100,000 population",Neisseria meningitidis,Case rates,Sex,Overall
+2022,0.01,"Per 100,000 population",Neisseria meningitidis,Death rates,Overall,
+2022,309,Counts,Neisseria meningitidis,Number of Cases and Deaths,ALL,NNDSS Total cases

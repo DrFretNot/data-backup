@@ -1,0 +1,20 @@
+Common Core
+Contact Name,CDC-INFO
+Contact Email,cdcinfo@cdcinquiry.onmicrosoft.com
+Publisher,CDC
+Public Access Level,public
+Issued,2022-11-04
+Bureau Code,009:20
+Program Code,009:020
+Geographic Coverage,US
+Temporal Applicability,2022-01-01/2022-03-31
+Update Frequency,R/P3M
+Data Quality
+Geographic Unit of Analysis,State
+Footnotes,"Blank fields in the dataset represent insufficient sampling. Therefore, rates could not be calculated."
+Topics
+Category,Laboratory Surveillance
+Tags,"covid, covid-19, covid19, coronavirus, laboratory, prevalence, sars-cov, seroprevalence, serosurveys, ncird-corvd"
+Licensing and Attribution
+License,Public Domain U.S. Government
+Source Link,https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/blood-bank-serosurvey.html

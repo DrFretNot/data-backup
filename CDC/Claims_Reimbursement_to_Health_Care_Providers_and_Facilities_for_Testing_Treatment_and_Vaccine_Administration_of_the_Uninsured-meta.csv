@@ -1,0 +1,15 @@
+Common Core
+Contact Name,HRSA Chief Data Officer
+Contact Email,PRFdata@hrsa.gov
+Publisher,HRSA
+Bureau Code,009:15
+Program Code,009:020
+Geographic Coverage,US
+Update Frequency,Weekly
+Footnotes,"Each row is a health care entity that has received claims reimbursement for the COVID-19 testing, treatment, and/or vaccine administration of uninsured individuals. If a bundled claim included both testing and treatment, then all bundled payments to that entity are captured under treatment. Claims paid for vaccine administration do not have any other services on the claim. This data portal will be updated as additional data becomes available."
+Topics
+Category,Administrative
+Tags,"provider relief fund, cares act, coronavirus, uninsured, health system, covid-19"
+Licensing and Attribution
+License,Public Domain U.S. Government
+Source Link,https://www.hhs.gov/coronavirus/cares-act-provider-relief-fund/index.html

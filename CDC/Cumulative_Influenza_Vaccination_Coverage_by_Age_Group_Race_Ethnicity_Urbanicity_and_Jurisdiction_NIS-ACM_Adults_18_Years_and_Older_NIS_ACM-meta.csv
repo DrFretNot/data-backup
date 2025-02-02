@@ -1,0 +1,22 @@
+Common Core
+Contact Name,NCIRD
+Contact Email,VaxView@cdc.gov
+Publisher,National Center for Immunization and Respiratory Diseases (NCIRD)
+Public Access Level,public
+Bureau Code,009:20
+Program Code,009:026
+Geographic Coverage,"United States, District of Columbia, US Virgin Islands, and Puerto Rico"
+Temporal Applicability,Monthly
+Update Frequency,Approximately Monthly
+Homepage,https://www.cdc.gov/vaccines/imz-managers/nis/
+Language,English
+Data Quality
+Suggested Citation,"US Centers for Disease Control and Prevention, National Center for Immunization and Respiratory Diseases (NCIRD). Cumulative Influenza Coverage by Age Group, Race/Ethnicity, Urbanicity and Jurisdiction, NIS-ACM, Adults 18 Years and Older, United States, National Immunization Survey-Adult COVID Module."
+Geospatial Resolution,US Jurisdictions
+Footnotes,"*Some estimated percentages may not meet the NCHS standards of reliability; if none of the percentages within a bar meet these standards, the bar will not be presented. https://www.cdc.gov/nchs/data/series/sr_02/sr02_175.pdfpdf icon ^Estimates with a sample size < 30 are suppressed and shown in gray on the map. For the map, the ‘Other/Multiple Races, Non-Hispanic’ category includes American Indian/Alaskan Native, non-Hispanic, Asian, non-Hispanic, Pacific-Islander/Hawaiian Native, non-Hispanic, and persons who selected ‘Other’ and multiple races. Therefore, the ‘Other/Multiple Races, Non-Hispanic’ jurisdiction-level estimates on the map should not be compared with the ‘Other/Multiple Races, Non-Hispanic’ national estimates in the table."
+Topics
+Category,Vaccinations
+Tags,"influenza, adults, flu vaccination, vaccination, coverage, vaccine coverage"
+Licensing and Attribution
+License,Public Domain U.S. Government
+Source Link,https://www.cdc.gov/vaccines/imz-managers/nis/

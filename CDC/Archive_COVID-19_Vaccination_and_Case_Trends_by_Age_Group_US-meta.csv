@@ -1,0 +1,22 @@
+Common Core
+Contact Name,NCIRD
+Contact Email,iisinfo@cdc.gov
+Publisher,CDC
+Public Access Level,public
+References,https://www.cdc.gov/coronavirus/2019-ncov/vaccines/distributing/about-vaccine-data.html
+Bureau Code,009:20
+Program Code,009:020
+Geographic Coverage,US
+Temporal Applicability,2020-12-13/2022-08-10
+Update Frequency,Archived
+License,Public Domain U.S. Government
+Data Quality
+Geospatial Resolution,State
+Analytical Methods Reference,ETL
+Attachments
+DataDictionary_v32_09302022.xlsx
+Topics
+Category,Vaccinations
+Tags,"covid-19, coronavirus, izdl, immunization, administration, vaccination, report date, cases"
+Licensing and Attribution
+License,Public Domain U.S. Government

@@ -1,0 +1,313 @@
+Year,LocationAbbrev,LocationDesc,Population,Topic,Measure,Submeasure,Data Value Unit,Domestic,Imports,Total,Domestic Per Capita,Imports Per Capita,Total Per Capita
+2000,US,National,209786736,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,45502156,91965,45594121,0.217,0,0.217
+2000,US,National,209786736,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,423250355675,12319663000,435570018675,2018,59,2076
+2000,US,National,209786736,Combustible Tobacco,Cigars,Total Cigars,Cigars,5612867329,548243000,6161110329,27,3,29
+2000,US,National,209786736,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,8291276800,702741662,8994018462,40,3,43
+2000,US,National,209786736,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,16841656,1427444,18269100,0,0,0
+2000,US,National,209786736,Combustible Tobacco,Cigars,Small Cigars,Cigars,2243135044,36049000,2279184044,11,0,11
+2000,US,National,209786736,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,5352683,739887,6092570,0,0,0
+2000,US,National,209786736,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,5656109785,338489600,5994599385,27,2,29
+2000,US,National,209786736,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,11488973,687557,12176530,0,0,0
+2000,US,National,209786736,Combustible Tobacco,Cigars,Large Cigars,Cigars,3369732285,512194000,3881926285,16,2,19
+2000,US,National,209786736,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,2635167015,364252062,2999419077,13,2,14
+2000,US,National,209786736,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,66134630,17729,66152359,0.315,0,0.315
+2000,US,National,209786736,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,437154499804,13570647662,450725147466,2084,65,2148
+2001,US,National,212345162,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,2421344492,493322338,2914666831,11,2,14
+2001,US,National,212345162,Combustible Tobacco,Cigars,Total Cigars,Cigars,5735109123,608777000,6343886123,27,3,30
+2001,US,National,212345162,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,49397524,102162,49499686,0.233,0,0.233
+2001,US,National,212345162,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,69804806,11675,69816481,0.329,0,0.329
+2001,US,National,212345162,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,412031245791,14688910000,426720155791,1940,69,2010
+2001,US,National,212345162,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,13570691,1925219,15495910,0,0,0
+2001,US,National,212345162,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,6680955569,947800123,7628755692,31,4,36
+2001,US,National,212345162,Combustible Tobacco,Cigars,Large Cigars,Cigars,3563717412,540798000,4104515412,17,3,19
+2001,US,National,212345162,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,8652335,923158,9575493,0,0,0
+2001,US,National,212345162,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,4259611077,454477785,4714088862,20,2,22
+2001,US,National,212345162,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,4918356,1002061,5920417,0,0,0
+2001,US,National,212345162,Combustible Tobacco,Cigars,Small Cigars,Cigars,2171391711,67979000,2239370711,10,0,11
+2001,US,National,212345162,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,424447310483,16245487123,440692797606,1999,77,2075
+2002,US,National,214754648,Combustible Tobacco,Cigars,Small Cigars,Cigars,2247836178,95082000,2342918178,10,0,11
+2002,US,National,214754648,Combustible Tobacco,Cigars,Large Cigars,Cigars,3703237388,499924000,4203161388,17,2,20
+2002,US,National,214754648,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,10567681,1084950,11652631,0,0,0
+2002,US,National,214754648,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,5202550646,534129231,5736679877,24,2,27
+2002,US,National,214754648,Combustible Tobacco,Cigars,Total Cigars,Cigars,5951073566,595006000,6546079566,28,3,30
+2002,US,National,214754648,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,47095214,215769,47310983,0.219,0.001,0.22
+2002,US,National,214754648,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,4627209,973090,5600299,0,0,0
+2002,US,National,214754648,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,71242932,9827,71252759,0.332,0,0.332
+2002,US,National,214754648,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,408303465673,22459975923,430763441596,1901,105,2006
+2002,US,National,214754648,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,15194890,2058040,17252930,0,0,0
+2002,US,National,214754648,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,2278010585,479059692,2757070277,11,2,13
+2002,US,National,214754648,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,7480561231,1013188923,8493750154,35,5,40
+2002,US,National,214754648,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,394871830876,20851781000,415723611876,1839,97,1936
+2003,US,National,217068101,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,7634876062,961030892,8595906954,35,4,40
+2003,US,National,217068101,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,11353137,1254008,12607145,0,0,0
+2003,US,National,217068101,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,45906067,174399,46080466,0.211,0.001,0.212
+2003,US,National,217068101,Combustible Tobacco,Cigars,Small Cigars,Cigars,2301972488,172369000,2474341488,11,1,11
+2003,US,National,217068101,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,4155205,698086,4853291,0,0,0
+2003,US,National,217068101,Combustible Tobacco,Cigars,Large Cigars,Cigars,4018523214,514566000,4533089214,19,2,21
+2003,US,National,217068101,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,391196952717,24733051892,415930004609,1802,114,1916
+2003,US,National,217068101,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,15508342,1952094,17460436,0,0,0
+2003,US,National,217068101,Combustible Tobacco,Cigars,Total Cigars,Cigars,6320495702,686935000,7007430702,29,3,32
+2003,US,National,217068101,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,74700715,8369,74709084,0.344,0,0.344
+2003,US,National,217068101,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,5589236677,617357785,6206594462,26,3,29
+2003,US,National,217068101,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,2045639385,343673108,2389312492,9,2,11
+2003,US,National,217068101,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,377241580953,23085086000,400326666953,1738,106,1844
+2004,US,National,219552929,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,77983437,16833,78000270,0.355,0,0.355
+2004,US,National,219552929,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,390166439041,24254733538,414421172579,1777,110,1888
+2004,US,National,219552929,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,374977639606,22677777000,397655416606,1708,103,1811
+2004,US,National,219552929,Combustible Tobacco,Cigars,Large Cigars,Cigars,4319160065,615596000,4934756065,20,3,22
+2004,US,National,219552929,Combustible Tobacco,Cigars,Small Cigars,Cigars,2701646262,215443000,2917089262,12,1,13
+2004,US,National,219552929,Combustible Tobacco,Cigars,Total Cigars,Cigars,7020806327,831039000,7851845327,32,4,36
+2004,US,National,219552929,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,1922368000,391132062,2313500062,9,2,11
+2004,US,National,219552929,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,3904810,794487,4699297,0,0,0
+2004,US,National,219552929,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,6245625108,354785477,6600410585,28,2,30
+2004,US,National,219552929,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,12686426,720658,13407084,0,0,0
+2004,US,National,219552929,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,8167993108,745917538,8913910646,37,3,41
+2004,US,National,219552929,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,16591236,1515145,18106381,0,0,0
+2004,US,National,219552929,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,42940196,208894,43149090,0.196,0.001,0.197
+2005,US,National,222003984,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,1915462400,507187692,2422650092,9,2,11
+2005,US,National,222003984,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,9545006277,1491801600,11036807877,43,7,50
+2005,US,National,222003984,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,3890783,1030225,4921008,0,0,0
+2005,US,National,222003984,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,80241576,11018,80252594,0.361,0,0.361
+2005,US,National,222003984,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,38883276,315916,39199192,0.175,0.001,0.177
+2005,US,National,222003984,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,15497511,1999997,17497508,0,0,0
+2005,US,National,222003984,Combustible Tobacco,Cigars,Small Cigars,Cigars,3772041108,196453000,3968494108,17,1,18
+2005,US,National,222003984,Combustible Tobacco,Cigars,Large Cigars,Cigars,4431800085,651732000,5083532085,20,3,23
+2005,US,National,222003984,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,7629543877,984613908,8614157785,34,4,39
+2005,US,National,222003984,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,19388294,3030222,22418516,0,0,0
+2005,US,National,222003984,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,380712422031,20474781600,401187203631,1715,92,1807
+2005,US,National,222003984,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,362963574561,18134795000,381098369561,1635,82,1717
+2005,US,National,222003984,Combustible Tobacco,Cigars,Total Cigars,Cigars,8203841193,848185000,9052026193,37,4,41
+2006,US,National,224583123,Combustible Tobacco,Cigars,Total Cigars,Cigars,8665824756,1067008000,9732832756,39,5,43
+2006,US,National,224583123,Combustible Tobacco,Cigars,Large Cigars,Cigars,4503604349,795133000,5298737349,20,4,24
+2006,US,National,224583123,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,8032491323,561063385,8593554708,36,2,38
+2006,US,National,224583123,Combustible Tobacco,Cigars,Small Cigars,Cigars,4162220407,271875000,4434095407,19,1,20
+2006,US,National,224583123,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,364437096601,16156451000,380593547601,1623,72,1695
+2006,US,National,224583123,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,38862076,235747,39097823,0.173,0.001,0.174
+2006,US,National,224583123,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,1613252923,708639015,2321891938,7,3,10
+2006,US,National,224583123,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,382748665603,18493161400,401241827003,1704,82,1787
+2006,US,National,224583123,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,16315998,1139660,17455658,0,0,0
+2006,US,National,224583123,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,3276920,1439423,4716343,0,0,0
+2006,US,National,224583123,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,86576507,63497,86640004,0.385,0,0.386
+2006,US,National,224583123,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,9645744246,1269702400,10915446646,43,6,49
+2006,US,National,224583123,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,19592918,2579083,22172001,0,0,0
+2007,US,National,227239768,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,17283788,1658991,18942779,0,0,0
+2007,US,National,227239768,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,10054698338,1733564554,11788262892,44,8,52
+2007,US,National,227239768,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,1545756554,916830523,2462587077,7,4,11
+2007,US,National,227239768,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,20423606,3521303,23944909,0,0,0
+2007,US,National,227239768,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,3139818,1862312,5002130,0,0,0
+2007,US,National,227239768,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,8508941785,816734031,9325675815,37,4,41
+2007,US,National,227239768,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,348317484882,13272402000,361589886882,1533,58,1591
+2007,US,National,227239768,Combustible Tobacco,Cigars,Large Cigars,Cigars,4658667130,889004000,5547671130,21,4,24
+2007,US,National,227239768,Combustible Tobacco,Cigars,Total Cigars,Cigars,9508293603,1200203000,10708496603,42,5,47
+2007,US,National,227239768,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,88266593,101194,88367787,0.388,0,0.389
+2007,US,National,227239768,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,367880476823,16206169554,384086646377,1619,71,1690
+2007,US,National,227239768,Combustible Tobacco,Cigars,Small Cigars,Cigars,4849626473,311199000,5160825473,21,1,23
+2007,US,National,227239768,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,35086655,217387,35304042,0.154,0.001,0.155
+2008,US,National,229945137,Combustible Tobacco,Cigars,Small Cigars,Cigars,5470956642,409873000,5880829642,24,2,26
+2008,US,National,229945137,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,94596853,221808,94818661,0.411,0.001,0.412
+2008,US,National,229945137,Combustible Tobacco,Cigars,Total Cigars,Cigars,10143693050,1394155000,11537848050,44,6,50
+2008,US,National,229945137,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,11552934400,1754053908,13306988308,50,8,58
+2008,US,National,229945137,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,1563947323,1021555200,2585502523,7,4,11
+2008,US,National,229945137,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,335384308754,11035202000,346419510754,1459,48,1507
+2008,US,National,229945137,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,357080696204,14183410908,371264347112,1553,62,1615
+2008,US,National,229945137,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,33123840,322100,33445940,0.144,0.001,0.145
+2008,US,National,229945137,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,3176768,2075034,5251802,0,0,0
+2008,US,National,229945137,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,23466898,3562922,27029820,0,0,0
+2008,US,National,229945137,Combustible Tobacco,Cigars,Large Cigars,Cigars,4672736408,984282000,5657018408,20,4,25
+2008,US,National,229945137,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,9988987077,732498708,10721485785,43,3,47
+2008,US,National,229945137,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,20290130,1487888,21778018,0,0,0
+2009,US,National,232458335,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,94762149,291606,95053755,0.408,0.001,0.409
+2009,US,National,232458335,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,30228068,197018,30425086,0.13,0.001,0.131
+2009,US,National,232458335,Combustible Tobacco,Cigars,Large Cigars,Cigars,7981903518,1802149000,9784052518,34,8,42
+2009,US,National,232458335,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,329491123539,12632961400,342124084939,1417,54,1472
+2009,US,National,232458335,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,10724841,1982058,12706899,0,0,0
+2009,US,National,232458335,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,22284207,2621788,24905995,0,0,0
+2009,US,National,232458335,Combustible Tobacco,Cigars,Total Cigars,Cigars,10132571358,1994026000,12126597358,44,9,52
+2009,US,National,232458335,Combustible Tobacco,Cigars,Small Cigars,Cigars,2150667840,191877000,2342544840,9,1,10
+2009,US,National,232458335,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,5279921723,975782400,6255704123,23,4,27
+2009,US,National,232458335,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,308387865658,9348209000,317736074658,1327,40,1367
+2009,US,National,232458335,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,11559366,639730,12199096,0,0,0
+2009,US,National,232458335,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,10970686523,1290726400,12261412923,47,6,53
+2009,US,National,232458335,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,5690764800,314944000,6005708800,24,1,26
+2010,US,National,235153929,Combustible Tobacco,Cigars,Large Cigars,Cigars,9940951946,2345752000,12286703946,42,10,52
+2010,US,National,235153929,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,27422318,192666,27614984,0.117,0.001,0.117
+2010,US,National,235153929,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,10961836800,1389512369,12351349169,47,6,53
+2010,US,National,235153929,Combustible Tobacco,Cigars,Small Cigars,Cigars,902728614,79974000,982702614,4,0,4
+2010,US,National,235153929,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,22266231,2822447,25088678,0,0,0
+2010,US,National,235153929,Combustible Tobacco,Cigars,Total Cigars,Cigars,10843680560,2425726000,13269406560,46,10,56
+2010,US,National,235153929,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,317475052695,11764157615,329239210311,1350,50,1400
+2010,US,National,235153929,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,2915654892,252016246,3167671138,12,1,13
+2010,US,National,235153929,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,5922424,511908,6434332,0,0,0
+2010,US,National,235153929,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,292753880443,7696903000,300450783443,1245,33,1278
+2010,US,National,235153929,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,13877491692,1641528615,15519020308,59,7,66
+2010,US,National,235153929,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,28188655,3334355,31523010,0,0,0
+2010,US,National,235153929,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,99572886,339291,99912177,0.423,0.001,0.425
+2011,US,National,237657645,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,315683514293,10893776123,326577290416,1328,46,1374
+2011,US,National,237657645,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,18579556923,1501368123,20080925046,78,6,84
+2011,US,National,237657645,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,4899513,425592,5325105,0,0,0
+2011,US,National,237657645,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,24636069,164463,24800532,0.104,0.001,0.104
+2011,US,National,237657645,Combustible Tobacco,Cigars,Total Cigars,Cigars,10751432458,2975848000,13727280458,45,13,58
+2011,US,National,237657645,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,2412067938,209522215,2621590154,10,1,11
+2011,US,National,237657645,Combustible Tobacco,Cigars,Large Cigars,Cigars,9997562563,2931540000,12929102563,42,12,54
+2011,US,National,237657645,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,32840212,2624062,35464274,0,0,0
+2011,US,National,237657645,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,103097456,464519,103561975,0.434,0.002,0.436
+2011,US,National,237657645,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,37739725,3049654,40789379,0,0,0
+2011,US,National,237657645,Combustible Tobacco,Cigars,Small Cigars,Cigars,753869895,44308000,798177895,3,0,3
+2011,US,National,237657645,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,16167488985,1291845908,17459334892,68,5,73
+2011,US,National,237657645,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,286352524912,6416560000,292769084912,1205,27,1232
+2012,US,National,240185952,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,279838393182,7348808000,287187201182,1165,31,1196
+2012,US,National,240185952,Combustible Tobacco,Cigars,Large Cigars,Cigars,9438748098,3586024000,13024772098,39,15,54
+2012,US,National,240185952,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,20027456000,1394965662,21422421662,83,6,89
+2012,US,National,240185952,Combustible Tobacco,Cigars,Total Cigars,Cigars,10143590239,3643217000,13786807239,42,15,57
+2012,US,National,240185952,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,4239394,310335,4549729,0,0,0
+2012,US,National,240185952,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,107626111,579234,108205345,0.448,0.002,0.451
+2012,US,National,240185952,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,310009439421,12386990662,322396430083,1291,52,1342
+2012,US,National,240185952,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,40680770,2833524,43514294,0,0,0
+2012,US,National,240185952,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,2087086277,152780308,2239866585,9,1,9
+2012,US,National,240185952,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,23800851,345143,24145994,0.099,0.001,0.101
+2012,US,National,240185952,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,17940369723,1242185354,19182555077,75,5,80
+2012,US,National,240185952,Combustible Tobacco,Cigars,Small Cigars,Cigars,704842141,57193000,762035141,3,0,3
+2012,US,National,240185952,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,36441376,2523189,38964565,0,0,0
+2013,US,National,242542967,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,19208684308,1590358154,20799042462,79,7,86
+2013,US,National,242542967,Combustible Tobacco,Cigars,Total Cigars,Cigars,8393593288,4765278000,13158871288,35,20,54
+2013,US,National,242542967,Combustible Tobacco,Cigars,Large Cigars,Cigars,7783004119,4716423000,12499427119,32,19,52
+2013,US,National,242542967,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,39017640,3230415,42248055,0,0,0
+2013,US,National,242542967,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,1786230154,111391508,1897621662,7,0,8
+2013,US,National,242542967,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,3628280,226264,3854544,0,0,0
+2013,US,National,242542967,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,266088075153,7697423000,273785498153,1097,32,1129
+2013,US,National,242542967,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,20994914462,1701749662,22696664123,87,7,94
+2013,US,National,242542967,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,42645920,3456679,46102599,0,0,0
+2013,US,National,242542967,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,295476582903,14164450662,309641033564,1218,58,1277
+2013,US,National,242542967,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,112352476,654149,113006625,0.463,0.003,0.466
+2013,US,National,242542967,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,21944042,489659,22433701,0.09,0.002,0.092
+2013,US,National,242542967,Combustible Tobacco,Cigars,Small Cigars,Cigars,610589169,48855000,659444169,3,0,3
+2014,US,National,245273438,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,1497868308,95975385,1593843692,6,0,6
+2014,US,National,245273438,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,282020020624,16175868538,298195889163,1150,66,1216
+2014,US,National,245273438,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,21335199,630212,21965411,0.087,0.003,0.09
+2014,US,National,245273438,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,40685649,3636355,44322004,0,0,0
+2014,US,National,245273438,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,20029857969,1790205538,21820063508,82,7,89
+2014,US,National,245273438,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,3042545,194950,3237495,0,0,0
+2014,US,National,245273438,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,254486570103,8194703000,262681273103,1038,33,1071
+2014,US,National,245273438,Combustible Tobacco,Cigars,Small Cigars,Cigars,542454495,21403000,563857495,2,0,2
+2014,US,National,245273438,Combustible Tobacco,Cigars,Total Cigars,Cigars,7503592552,6190960000,13694552552,31,25,56
+2014,US,National,245273438,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,37643104,3441405,41084509,0,0,0
+2014,US,National,245273438,Combustible Tobacco,Cigars,Large Cigars,Cigars,6961138057,6169557000,13130695057,28,25,54
+2014,US,National,245273438,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,18531989662,1694230154,20226219815,76,7,82
+2014,US,National,245273438,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,113664778,702966,114367744,0.463,0.003,0.466
+2015,US,National,247773709,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,19352433,858688,20211121,0.078,0.003,0.082
+2015,US,National,247773709,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,39667190,4404935,44072125,0,0,0
+2015,US,National,247773709,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,36192522,4165503,40358025,0,0,0
+2015,US,National,247773709,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,3474668,239432,3714100,0,0,0
+2015,US,National,247773709,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,17817856985,2050709169,19868566154,72,8,80
+2015,US,National,247773709,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,1710605785,117874215,1828480000,7,0,7
+2015,US,National,247773709,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,285537129046,17214155385,302751284431,1152,69,1222
+2015,US,National,247773709,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,259720555991,8540221000,268260776991,1048,34,1083
+2015,US,National,247773709,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,116987888,583932,117571820,0.472,0.002,0.475
+2015,US,National,247773709,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,19528462769,2168583385,21697046154,79,9,88
+2015,US,National,247773709,Combustible Tobacco,Cigars,Total Cigars,Cigars,6288110286,6505351000,12793461286,25,26,52
+2015,US,National,247773709,Combustible Tobacco,Cigars,Large Cigars,Cigars,5757429535,6481846000,12239275535,23,26,49
+2015,US,National,247773709,Combustible Tobacco,Cigars,Small Cigars,Cigars,530680751,23505000,554185751,2,0,2
+2016,US,National,249485228,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,18525163323,2529611323,21054774646,74,10,84
+2016,US,National,249485228,Combustible Tobacco,Cigars,Large Cigars,Cigars,5056761893,6974839000,12031600893,20,28,48
+2016,US,National,249485228,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,118477707,606334,119084041,0.475,0.002,0.477
+2016,US,National,249485228,Combustible Tobacco,Cigars,Small Cigars,Cigars,475333201,21351000,496684201,2,0,2
+2016,US,National,249485228,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,1446586092,117479385,1564065477,6,0,6
+2016,US,National,249485228,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,2938378,238630,3177008,0,0,0
+2016,US,National,249485228,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,37629238,5138273,42767511,0,0,0
+2016,US,National,249485228,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,18913518,1092411,20005929,0.076,0.004,0.08
+2016,US,National,249485228,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,249824734796,7629000000,257453734796,1001,31,1032
+2016,US,National,249485228,Combustible Tobacco,Cigars,Total Cigars,Cigars,5532095094,6996190000,12528285094,22,28,50
+2016,US,National,249485228,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,34690860,4899643,39590503,0,0,0
+2016,US,National,249485228,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,17078577231,2412131938,19490709169,68,10,78
+2016,US,National,249485228,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,273881993213,17154801323,291036794536,1098,69,1167
+2017,US,National,252063800,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,18479739569,1904036431,20383776000,73,8,81
+2017,US,National,252063800,Combustible Tobacco,Cigars,Small Cigars,Cigars,414659792,25198000,439857792,2,0,2
+2017,US,National,252063800,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,35074282,3665466,38739748,0,0,0
+2017,US,National,252063800,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,17479594,1003775,18483369,0.069,0.004,0.073
+2017,US,National,252063800,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,239296509804,7866487000,247162966804,949,32,981
+2017,US,National,252063800,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,118596158,549547,119145705,0.471,0.002,0.473
+2017,US,National,252063800,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,2462689,202108,2664797,0,0,0
+2017,US,National,252063800,Combustible Tobacco,Cigars,Total Cigars,Cigars,5583269110,7810598000,13393867110,22,31,53
+2017,US,National,252063800,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,1212400738,99499323,1311900062,5,0,5
+2017,US,National,252063800,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,263359518483,17581121431,280940639914,1045,70,1115
+2017,US,National,252063800,Combustible Tobacco,Cigars,Large Cigars,Cigars,5168609318,7785400000,12954009318,21,31,51
+2017,US,National,252063800,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,37536971,3867574,41404545,0,0,0
+2017,US,National,252063800,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,17267338831,1804537108,19071875938,69,7,76
+2018,US,National,253768092,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,32689197,7243901,39933098,0,0,0
+2018,US,National,253768092,Combustible Tobacco,Cigars,Large Cigars,Cigars,5018224528,7751863615,12770088143,20,31,50
+2018,US,National,253768092,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,16093143138,3566228185,19659371323,63,14,77
+2018,US,National,253768092,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,16781079,1285902,18066981,0,0,0.071
+2018,US,National,253768092,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,226917325438,8403294000,235319378039,894,33,927
+2018,US,National,253768092,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,115535322,590382,116125704,0,0,0
+2018,US,National,253768092,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,1950393,143940,2094333,0,0,0
+2018,US,National,253768092,Combustible Tobacco,Cigars,Small Cigars,Cigars,356149968,31354000,387503968,1,0,2
+2018,US,National,253768092,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,960193477,70862769,1031056246,4,0,4
+2018,US,National,253768092,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,249351495626,19823602569,269167785869,983,77,1061
+2018,US,National,253768092,Combustible Tobacco,Cigars,Total Cigars,Cigars,5374374496,7783217615,13157592111,21,31,52
+2018,US,National,253768092,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,17053336615,3637090954,20690427569,67,14,82
+2018,US,National,253768092,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,34639590,7387841,42027431,0,0,0
+2019,US,National,255200373,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,234601291857,21813751754,256415043611,876,128,1004
+2019,US,National,255200373,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,213401171495,10031711000,223432882495,836,39,876
+2019,US,National,255200373,Combustible Tobacco,Cigars,Large Cigars,Cigars,4865091373,8489843000,13354934373,19,33,52
+2019,US,National,255200373,Combustible Tobacco,Cigars,Small Cigars,Cigars,155162804,122838000,278000804,0.608,0.481,1.089
+2019,US,National,255200373,Combustible Tobacco,Cigars,Total Cigars,Cigars,5020260177,8612681000,13632941177,20,34,53
+2019,US,National,255200373,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,31040755,6261163,37301918,0.122,0.025,0.146
+2019,US,National,255200373,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,15281602462,3082418708,18364021170,60,12,72
+2019,US,National,255200373,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,1824586,176599,2001185,0.007,0.001,0.008
+2019,US,National,255200373,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,898257723,86941046,985198769,3.52,0.341,3.86
+2019,US,National,255200373,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,16179860185,3169359754,19349219939,63,12,76
+2019,US,National,255200373,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,32857360,6437762,39295122,0.129,0.025,0.154
+2019,US,National,255200373,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,14925017,1026296,15951313,0.058,0.004,0.063
+2019,US,National,255200373,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,113523245,837886,114361131,0.445,0.003,0.448
+2020,US,National,256662010,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,235888722742,21726898662,257615621404,891,113,1004
+2020,US,National,256662010,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,215858600507,12706364000,228564964507,841,49,890
+2020,US,National,256662010,Combustible Tobacco,Cigars,Large Cigars,Cigars,4357007859,8590231000,12947238859,17,33,50
+2020,US,National,256662010,Combustible Tobacco,Cigars,Small Cigars,Cigars,174068468,101098000,275166468,0.678,0.394,1.072
+2020,US,National,256662010,Combustible Tobacco,Cigars,Total Cigars,Cigars,4531076327,8691329000,13222405327,18,34,52
+2020,US,National,256662010,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,29757852,466403,30224255,0.116,0.002,0.118
+2020,US,National,256662010,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,14650019446,229613785,14879633231,57,1,58
+2020,US,National,256662010,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,1724585,202296,1926881,0.007,0.001,0.008
+2020,US,National,256662010,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,849026462,99591877,948618339,3.308,0.388,3.697
+2020,US,National,256662010,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,15499045908,329205662,15828251570,60,1,62
+2020,US,National,256662010,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,31482437,668699,32151136,0.123,0.003,0.125
+2020,US,National,256662010,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,15027164,690399,15717563,0.059,0.003,0.061
+2020,US,National,256662010,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,116621350,1738338,118359688,0.454,0.007,0.461
+2021,US,National,258327312,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,220636313338,22780607415,243416920753,854,88,942
+2021,US,National,258327312,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,203599277654,11124538000,214723815654,788,43,831
+2021,US,National,258327312,Combustible Tobacco,Cigars,Large Cigars,Cigars,4127955704,10656964000,14784919704,16,41,57
+2021,US,National,258327312,Combustible Tobacco,Cigars,Small Cigars,Cigars,204231734,133500000,337731734,0.791,0.517,1.307
+2021,US,National,258327312,Combustible Tobacco,Cigars,Total Cigars,Cigars,4332187438,10790464000,15122651438,17,42,59
+2021,US,National,258327312,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,24671722,1249442,25921164,0.096,0.005,0.1
+2021,US,National,258327312,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,12146078523,615109908,12761188431,47,2,49
+2021,US,National,258327312,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,1135001,508819,1643820,0.004,0.002,0.006
+2021,US,National,258327312,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,558769723,250495508,809265231,2.163,0.97,3.133
+2021,US,National,258327312,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,12704848246,865605415,13570453661,49,3,53
+2021,US,National,258327312,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,25806723,1758261,27564984,0.1,0.007,0.107
+2021,US,National,258327312,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,14131105,648062,14779167,0.055,0.003,0.057
+2021,US,National,258327312,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,110202204,1812567,112014771,0.427,0.007,0.434
+2022,US,National,260836730,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,203636203181,17236926031,220873129212,781,66,847
+2022,US,National,260836730,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,187600743207,5885904000,193486647207,719,23,742
+2022,US,National,260836730,Combustible Tobacco,Cigars,Large Cigars,Cigars,3835171637,9344563000,13179734637,15,36,51
+2022,US,National,260836730,Combustible Tobacco,Cigars,Small Cigars,Cigars,60011168,95869000,155880168,0.23,0.368,0.598
+2022,US,National,260836730,Combustible Tobacco,Cigars,Total Cigars,Cigars,3895182805,9440432000,13335614805,15,36,51
+2022,US,National,260836730,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,23652788,3146885,26799673,0.091,0.012,0.103
+2022,US,National,260836730,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,11644449477,1549235692,13193685169,45,6,51
+2022,US,National,260836730,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,1007150,734001,1741151,0.004,0.003,0.007
+2022,US,National,260836730,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,495827692,361354338,857182030,1.901,1.385,3.286
+2022,US,National,260836730,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,12140277169,1910590031,14050867200,47,7,54
+2022,US,National,260836730,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,24659938,3880886,28540824,0.095,0.015,0.109
+2022,US,National,260836730,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,12750654,718865,13469519,0.049,0.003,0.052
+2022,US,National,260836730,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,104356514,2004644,106361158,0.4,0.008,0.408
+2023,US,National,262083034,Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,185246533283,16997578781,202244112064,707,65,772
+2023,US,National,262083034,Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,170825073676,6843862000,177668935676,652,26,678
+2023,US,National,262083034,Combustible Tobacco,Cigars,Large Cigars,Cigars,3024859161,8407960000,11432819161,12,32,44
+2023,US,National,262083034,Combustible Tobacco,Cigars,Small Cigars,Cigars,43484877,96507000,139991877,0.166,0.368,0.534
+2023,US,National,262083034,Combustible Tobacco,Cigars,Total Cigars,Cigars,3068344038,8504467000,11572811038,12,32,44
+2023,US,National,262083034,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,22136178,2273415,24409593,0.084,0.009,0.093
+2023,US,National,262083034,Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,10897810708,1119219657,12017030365,42,4,46
+2023,US,National,262083034,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,924838,1076624,2001462,0.004,0.004,0.008
+2023,US,National,262083034,Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,455304862,530030124,985334986,1.737,2.022,3.76
+2023,US,National,262083034,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,11353115569,1649249781,13002365350,43,6,50
+2023,US,National,262083034,Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,23061016,3350039,26411055,0.088,0.013,0.101
+2023,US,National,262083034,Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,11694042,1308344,13002386,0.045,0.005,0.05
+2023,US,National,262083034,Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,98361146,1392526,99753672,0.375,0.005,0.381

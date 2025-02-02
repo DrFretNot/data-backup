@@ -1,0 +1,281 @@
+Month,Flu Season,Race_Ethnicity,Percentage Vaccinated
+JAN,2019-2020,Overall,0.5478
+JAN,2019-2020,"Asian, Non-Hispanic",0.6445
+JAN,2019-2020,"Black, Non-Hispanic",0.3639
+JAN,2019-2020,Hispanic,0.556
+JAN,2019-2020,"Other, Non-Hispanic",0.5315
+JAN,2019-2020,Unknown,0.3911
+JAN,2019-2020,"White, Non-Hispanic",0.5555
+FEB,2019-2020,Overall,0.5582
+FEB,2019-2020,"Asian, Non-Hispanic",0.6564
+FEB,2019-2020,"Black, Non-Hispanic",0.3699
+FEB,2019-2020,Hispanic,0.5697
+FEB,2019-2020,"Other, Non-Hispanic",0.5413
+FEB,2019-2020,Unknown,0.3983
+FEB,2019-2020,"White, Non-Hispanic",0.5639
+MAR,2019-2020,Overall,0.5627
+MAR,2019-2020,"Asian, Non-Hispanic",0.6608
+MAR,2019-2020,"Black, Non-Hispanic",0.3731
+MAR,2019-2020,Hispanic,0.5782
+MAR,2019-2020,"Other, Non-Hispanic",0.5433
+MAR,2019-2020,Unknown,0.4028
+MAR,2019-2020,"White, Non-Hispanic",0.5657
+AUG,2019-2020,Overall,0.044
+AUG,2019-2020,"White, Non-Hispanic",0.0308
+AUG,2019-2020,"Black, Non-Hispanic",0.0278
+AUG,2019-2020,Hispanic,0.0628
+AUG,2019-2020,"Asian, Non-Hispanic",0.0458
+AUG,2019-2020,"Other, Non-Hispanic",0.0525
+AUG,2019-2020,Unknown,0.0096
+SEP,2019-2020,Overall,0.2694
+SEP,2019-2020,"White, Non-Hispanic",0.2508
+SEP,2019-2020,"Black, Non-Hispanic",0.1629
+SEP,2019-2020,Hispanic,0.3032
+SEP,2019-2020,"Asian, Non-Hispanic",0.3149
+SEP,2019-2020,"Other, Non-Hispanic",0.2859
+SEP,2019-2020,Unknown,0.133
+OCT,2019-2020,Overall,0.4543
+OCT,2019-2020,"White, Non-Hispanic",0.4603
+OCT,2019-2020,"Black, Non-Hispanic",0.2855
+OCT,2019-2020,Hispanic,0.4599
+OCT,2019-2020,"Asian, Non-Hispanic",0.5483
+OCT,2019-2020,"Other, Non-Hispanic",0.4426
+OCT,2019-2020,Unknown,0.3021
+NOV,2019-2020,Overall,0.5052
+NOV,2019-2020,"White, Non-Hispanic",0.5158
+NOV,2019-2020,"Black, Non-Hispanic",0.325
+NOV,2019-2020,Hispanic,0.5087
+NOV,2019-2020,"Asian, Non-Hispanic",0.6031
+NOV,2019-2020,"Other, Non-Hispanic",0.4886
+NOV,2019-2020,Unknown,0.348
+DEC,2019-2020,Overall,0.5276
+DEC,2019-2020,"White, Non-Hispanic",0.5381
+DEC,2019-2020,"Black, Non-Hispanic",0.3473
+DEC,2019-2020,Hispanic,0.533
+DEC,2019-2020,"Asian, Non-Hispanic",0.6233
+DEC,2019-2020,"Other, Non-Hispanic",0.5078
+DEC,2019-2020,Unknown,0.3733
+JAN,2020-2021,Overall,0.537
+JAN,2020-2021,"Asian, Non-Hispanic",0.6754
+JAN,2020-2021,"Black, Non-Hispanic",0.3253
+JAN,2020-2021,Hispanic,0.5339
+JAN,2020-2021,"Other, Non-Hispanic",0.5204
+JAN,2020-2021,Unknown,0.3824
+JAN,2020-2021,"White, Non-Hispanic",0.546
+FEB,2020-2021,Overall,0.5389
+FEB,2020-2021,"Asian, Non-Hispanic",0.6764
+FEB,2020-2021,"Black, Non-Hispanic",0.3244
+FEB,2020-2021,Hispanic,0.5379
+FEB,2020-2021,"Other, Non-Hispanic",0.5218
+FEB,2020-2021,Unknown,0.3822
+FEB,2020-2021,"White, Non-Hispanic",0.5475
+MAR,2020-2021,Overall,0.5365
+MAR,2020-2021,"Asian, Non-Hispanic",0.6723
+MAR,2020-2021,"Black, Non-Hispanic",0.3218
+MAR,2020-2021,Hispanic,0.5366
+MAR,2020-2021,"Other, Non-Hispanic",0.5207
+MAR,2020-2021,Unknown,0.379
+MAR,2020-2021,"White, Non-Hispanic",0.5444
+AUG,2020-2021,Overall,0.0306
+AUG,2020-2021,"White, Non-Hispanic",0.0265
+AUG,2020-2021,"Black, Non-Hispanic",0.0153
+AUG,2020-2021,Hispanic,0.0348
+AUG,2020-2021,"Asian, Non-Hispanic",0.0426
+AUG,2020-2021,"Other, Non-Hispanic",0.03
+AUG,2020-2021,Unknown,0.0116
+SEP,2020-2021,Overall,0.3017
+SEP,2020-2021,"White, Non-Hispanic",0.2958
+SEP,2020-2021,"Black, Non-Hispanic",0.1694
+SEP,2020-2021,Hispanic,0.306
+SEP,2020-2021,"Asian, Non-Hispanic",0.4004
+SEP,2020-2021,"Other, Non-Hispanic",0.2908
+SEP,2020-2021,Unknown,0.1876
+OCT,2020-2021,Overall,0.459
+OCT,2020-2021,"White, Non-Hispanic",0.4677
+OCT,2020-2021,"Black, Non-Hispanic",0.2652
+OCT,2020-2021,Hispanic,0.4507
+OCT,2020-2021,"Asian, Non-Hispanic",0.5937
+OCT,2020-2021,"Other, Non-Hispanic",0.4465
+OCT,2020-2021,Unknown,0.3116
+NOV,2020-2021,Overall,0.512
+NOV,2020-2021,"White, Non-Hispanic",0.5211
+NOV,2020-2021,"Black, Non-Hispanic",0.3024
+NOV,2020-2021,Hispanic,0.5061
+NOV,2020-2021,"Asian, Non-Hispanic",0.6527
+NOV,2020-2021,"Other, Non-Hispanic",0.4935
+NOV,2020-2021,Unknown,0.3601
+DEC,2020-2021,Overall,0.5306
+DEC,2020-2021,"White, Non-Hispanic",0.5409
+DEC,2020-2021,"Black, Non-Hispanic",0.3204
+DEC,2020-2021,Hispanic,0.5251
+DEC,2020-2021,"Asian, Non-Hispanic",0.6704
+DEC,2020-2021,"Other, Non-Hispanic",0.5135
+DEC,2020-2021,Unknown,0.3738
+JAN,2021-2022,Overall,0.4352
+JAN,2021-2022,"Asian, Non-Hispanic",0.5745
+JAN,2021-2022,"Black, Non-Hispanic",0.244
+JAN,2021-2022,Hispanic,0.4177
+JAN,2021-2022,"Other, Non-Hispanic",0.4199
+JAN,2021-2022,Unknown,0.3223
+JAN,2021-2022,"White, Non-Hispanic",0.4495
+FEB,2021-2022,Overall,0.4415
+FEB,2021-2022,"Asian, Non-Hispanic",0.5809
+FEB,2021-2022,"Black, Non-Hispanic",0.2502
+FEB,2021-2022,Hispanic,0.4269
+FEB,2021-2022,"Other, Non-Hispanic",0.427
+FEB,2021-2022,Unknown,0.3281
+FEB,2021-2022,"White, Non-Hispanic",0.4533
+MAR,2021-2022,Overall,0.4427
+MAR,2021-2022,"Asian, Non-Hispanic",0.5828
+MAR,2021-2022,"Black, Non-Hispanic",0.2516
+MAR,2021-2022,Hispanic,0.4299
+MAR,2021-2022,"Other, Non-Hispanic",0.4303
+MAR,2021-2022,Unknown,0.3267
+MAR,2021-2022,"White, Non-Hispanic",0.4524
+AUG,2021-2022,Overall,0.011
+AUG,2021-2022,"Asian, Non-Hispanic",0.0135
+AUG,2021-2022,"Black, Non-Hispanic",0.0066
+AUG,2021-2022,Hispanic,0.015
+AUG,2021-2022,"Other, Non-Hispanic",0.0117
+AUG,2021-2022,Unknown,0.0082
+AUG,2021-2022,"White, Non-Hispanic",0.0068
+SEP,2021-2022,Overall,0.1845
+SEP,2021-2022,"Asian, Non-Hispanic",0.233
+SEP,2021-2022,"Black, Non-Hispanic",0.0906
+SEP,2021-2022,Hispanic,0.1859
+SEP,2021-2022,"Other, Non-Hispanic",0.1886
+SEP,2021-2022,Unknown,0.1219
+SEP,2021-2022,"White, Non-Hispanic",0.1884
+OCT,2021-2022,Overall,0.3346
+OCT,2021-2022,"Asian, Non-Hispanic",0.4457
+OCT,2021-2022,"Black, Non-Hispanic",0.1697
+OCT,2021-2022,Hispanic,0.3177
+OCT,2021-2022,"Other, Non-Hispanic",0.3227
+OCT,2021-2022,Unknown,0.2393
+OCT,2021-2022,"White, Non-Hispanic",0.3514
+NOV,2021-2022,Overall,0.3935
+NOV,2021-2022,"Asian, Non-Hispanic",0.5255
+NOV,2021-2022,"Black, Non-Hispanic",0.21
+NOV,2021-2022,Hispanic,0.372
+NOV,2021-2022,"Other, Non-Hispanic",0.3834
+NOV,2021-2022,Unknown,0.2868
+NOV,2021-2022,"White, Non-Hispanic",0.4115
+DEC,2021-2022,Overall,0.4203
+DEC,2021-2022,"Asian, Non-Hispanic",0.558
+DEC,2021-2022,"Black, Non-Hispanic",0.2308
+DEC,2021-2022,Hispanic,0.4011
+DEC,2021-2022,"Other, Non-Hispanic",0.405
+DEC,2021-2022,Unknown,0.3095
+DEC,2021-2022,"White, Non-Hispanic",0.4363
+JAN,2022-2023,Overall,0.403
+JAN,2022-2023,"Asian, Non-Hispanic",0.5553
+JAN,2022-2023,"Black, Non-Hispanic",0.2448
+JAN,2022-2023,Hispanic,0.3851
+JAN,2022-2023,"Other, Non-Hispanic",0.396
+JAN,2022-2023,Unknown,0.2943
+JAN,2022-2023,"White, Non-Hispanic",0.4066
+FEB,2022-2023,Overall,0.4084
+FEB,2022-2023,"Asian, Non-Hispanic",0.5605
+FEB,2022-2023,"Black, Non-Hispanic",0.2475
+FEB,2022-2023,Hispanic,0.393
+FEB,2022-2023,"Other, Non-Hispanic",0.4021
+FEB,2022-2023,Unknown,0.3002
+FEB,2022-2023,"White, Non-Hispanic",0.4106
+MAR,2022-2023,Overall,0.4107
+MAR,2022-2023,"Asian, Non-Hispanic",0.5632
+MAR,2022-2023,"Black, Non-Hispanic",0.2475
+MAR,2022-2023,Hispanic,0.3978
+MAR,2022-2023,"Other, Non-Hispanic",0.403
+MAR,2022-2023,Unknown,0.303
+MAR,2022-2023,"White, Non-Hispanic",0.4112
+AUG,2022-2023,Overall,0.0099
+AUG,2022-2023,"Asian, Non-Hispanic",0.0129
+AUG,2022-2023,"Black, Non-Hispanic",0.0058
+AUG,2022-2023,Hispanic,0.0127
+AUG,2022-2023,"Other, Non-Hispanic",0.0099
+AUG,2022-2023,Unknown,0.0049
+AUG,2022-2023,"White, Non-Hispanic",0.0069
+SEP,2022-2023,Overall,0.1715
+SEP,2022-2023,"Asian, Non-Hispanic",0.2467
+SEP,2022-2023,"Black, Non-Hispanic",0.0918
+SEP,2022-2023,Hispanic,0.1637
+SEP,2022-2023,"Other, Non-Hispanic",0.1795
+SEP,2022-2023,Unknown,0.1112
+SEP,2022-2023,"White, Non-Hispanic",0.1691
+OCT,2022-2023,Overall,0.2985
+OCT,2022-2023,"Asian, Non-Hispanic",0.4226
+OCT,2022-2023,"Black, Non-Hispanic",0.1681
+OCT,2022-2023,Hispanic,0.278
+OCT,2022-2023,"Other, Non-Hispanic",0.2972
+OCT,2022-2023,Unknown,0.2107
+OCT,2022-2023,"White, Non-Hispanic",0.3045
+NOV,2022-2023,Overall,0.3599
+NOV,2022-2023,"Asian, Non-Hispanic",0.5031
+NOV,2022-2023,"Black, Non-Hispanic",0.2126
+NOV,2022-2023,Hispanic,0.3364
+NOV,2022-2023,"Other, Non-Hispanic",0.356
+NOV,2022-2023,Unknown,0.2561
+NOV,2022-2023,"White, Non-Hispanic",0.368
+DEC,2022-2023,Overall,0.3898
+DEC,2022-2023,"Asian, Non-Hispanic",0.5393
+DEC,2022-2023,"Black, Non-Hispanic",0.2348
+DEC,2022-2023,Hispanic,0.3681
+DEC,2022-2023,"Other, Non-Hispanic",0.3836
+DEC,2022-2023,Unknown,0.2811
+DEC,2022-2023,"White, Non-Hispanic",0.397
+JAN,2023-2024,Overall,0.3614
+JAN,2023-2024,"Asian, Non-Hispanic",0.5171
+JAN,2023-2024,"Black, Non-Hispanic",0.2052
+JAN,2023-2024,Hispanic,0.353
+JAN,2023-2024,"Other, Non-Hispanic",0.3676
+JAN,2023-2024,Unknown,0.2391
+JAN,2023-2024,"White, Non-Hispanic",0.3592
+FEB,2023-2024,Overall,0.3758
+FEB,2023-2024,"Asian, Non-Hispanic",0.5279
+FEB,2023-2024,"Black, Non-Hispanic",0.2114
+FEB,2023-2024,Hispanic,0.3644
+FEB,2023-2024,"Other, Non-Hispanic",0.3805
+FEB,2023-2024,Unknown,0.3117
+FEB,2023-2024,"White, Non-Hispanic",0.3679
+MAR,2023-2024,Overall,0.3812
+MAR,2023-2024,"Asian, Non-Hispanic",0.5335
+MAR,2023-2024,"Black, Non-Hispanic",0.2149
+MAR,2023-2024,Hispanic,0.3717
+MAR,2023-2024,"Other, Non-Hispanic",0.3867
+MAR,2023-2024,Unknown,0.3199
+MAR,2023-2024,"White, Non-Hispanic",0.371
+AUG,2023-2024,Overall,0.0154
+AUG,2023-2024,"Asian, Non-Hispanic",0.0224
+AUG,2023-2024,"Black, Non-Hispanic",0.008
+AUG,2023-2024,Hispanic,0.0205
+AUG,2023-2024,"Other, Non-Hispanic",0.0122
+AUG,2023-2024,Unknown,0.0083
+AUG,2023-2024,"White, Non-Hispanic",0.0099
+SEP,2023-2024,Overall,0.1678
+SEP,2023-2024,"Asian, Non-Hispanic",0.2556
+SEP,2023-2024,"Black, Non-Hispanic",0.0789
+SEP,2023-2024,Hispanic,0.1674
+SEP,2023-2024,"Other, Non-Hispanic",0.1754
+SEP,2023-2024,Unknown,0.1013
+SEP,2023-2024,"White, Non-Hispanic",0.1586
+OCT,2023-2024,Overall,0.279
+OCT,2023-2024,"Asian, Non-Hispanic",0.4107
+OCT,2023-2024,"Black, Non-Hispanic",0.1471
+OCT,2023-2024,Hispanic,0.2672
+OCT,2023-2024,"Other, Non-Hispanic",0.2814
+OCT,2023-2024,Unknown,0.1736
+OCT,2023-2024,"White, Non-Hispanic",0.2808
+NOV,2023-2024,Overall,0.3268
+NOV,2023-2024,"Asian, Non-Hispanic",0.4773
+NOV,2023-2024,"Black, Non-Hispanic",0.1779
+NOV,2023-2024,Hispanic,0.3145
+NOV,2023-2024,"Other, Non-Hispanic",0.3293
+NOV,2023-2024,Unknown,0.2106
+NOV,2023-2024,"White, Non-Hispanic",0.3279
+DEC,2023-2024,Overall,0.3471
+DEC,2023-2024,"Asian, Non-Hispanic",0.5019
+DEC,2023-2024,"Black, Non-Hispanic",0.1949
+DEC,2023-2024,Hispanic,0.3347
+DEC,2023-2024,"Other, Non-Hispanic",0.3503
+DEC,2023-2024,Unknown,0.2289
+DEC,2023-2024,"White, Non-Hispanic",0.3482

@@ -1,0 +1,99 @@
+Data as of,Start Date,End Date,Race or Hispanic Origin,Sex,Age Group,COVID-19 Deaths,Total Deaths
+01/25/2021,03/01/2020,07/31/2020,Hispanic,Female,Under 14,8,1079
+01/25/2021,03/01/2020,07/31/2020,Hispanic,Female,14-21 years,23,503
+01/25/2021,03/01/2020,07/31/2020,Hispanic,Female,22-29 years,88,890
+01/25/2021,03/01/2020,07/31/2020,Hispanic,Female,30-44 years,451,2713
+01/25/2021,03/01/2020,07/31/2020,Hispanic,Female,45-54 years,869,3723
+01/25/2021,03/01/2020,07/31/2020,Hispanic,Female,55-64 years,1795,6940
+01/25/2021,03/01/2020,07/31/2020,Hispanic,Female,65 years and over,8721,39377
+01/25/2021,03/01/2020,07/31/2020,Hispanic,Male,Under 14,18,1400
+01/25/2021,03/01/2020,07/31/2020,Hispanic,Male,14-21 years,39,1508
+01/25/2021,03/01/2020,07/31/2020,Hispanic,Male,22-29 years,206,2962
+01/25/2021,03/01/2020,07/31/2020,Hispanic,Male,30-44 years,1496,7657
+01/25/2021,03/01/2020,07/31/2020,Hispanic,Male,45-54 years,2738,8772
+01/25/2021,03/01/2020,07/31/2020,Hispanic,Male,55-64 years,4493,13669
+01/25/2021,03/01/2020,07/31/2020,Hispanic,Male,65 years and over,11680,40399
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic American Indian or Alaska Native,Female,Under 14,0,58
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic American Indian or Alaska Native,Female,14-21 years,1,49
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic American Indian or Alaska Native,Female,22-29 years,9,132
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic American Indian or Alaska Native,Female,30-44 years,58,475
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic American Indian or Alaska Native,Female,45-54 years,77,451
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic American Indian or Alaska Native,Female,55-64 years,140,769
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic American Indian or Alaska Native,Female,65 years and over,438,2496
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic American Indian or Alaska Native,Male,Under 14,2,75
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic American Indian or Alaska Native,Male,14-21 years,2,108
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic American Indian or Alaska Native,Male,22-29 years,17,278
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic American Indian or Alaska Native,Male,30-44 years,83,796
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic American Indian or Alaska Native,Male,45-54 years,123,691
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic American Indian or Alaska Native,Male,55-64 years,193,1092
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic American Indian or Alaska Native,Male,65 years and over,421,2277
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Asian,Female,Under 14,0,141
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Asian,Female,14-21 years,1,71
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Asian,Female,22-29 years,10,113
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Asian,Female,30-44 years,49,487
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Asian,Female,45-54 years,121,825
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Asian,Female,55-64 years,273,1629
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Asian,Female,65 years and over,2479,15314
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Asian,Male,Under 14,4,178
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Asian,Male,14-21 years,2,130
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Asian,Male,22-29 years,14,285
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Asian,Male,30-44 years,112,953
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Asian,Male,45-54 years,266,1396
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Asian,Male,55-64 years,714,2839
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Asian,Male,65 years and over,3031,14896
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Black,Female,Under 14,8,1413
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Black,Female,14-21 years,15,550
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Black,Female,22-29 years,68,1405
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Black,Female,30-44 years,489,4766
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Black,Female,45-54 years,958,6744
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Black,Female,55-64 years,2471,14562
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Black,Female,65 years and over,12471,64304
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Black,Male,Under 14,10,1884
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Black,Male,14-21 years,20,1885
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Black,Male,22-29 years,111,3938
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Black,Male,30-44 years,700,8656
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Black,Male,45-54 years,1541,10389
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Black,Male,55-64 years,3634,21580
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Black,Male,65 years and over,12717,57597
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,Under 14,1,18
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,14-21 years,0,6
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,22-29 years,2,12
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,30-44 years,14,79
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,45-54 years,13,116
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,55-64 years,21,159
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,65 years and over,41,425
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,Under 14,0,22
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,14-21 years,1,15
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,22-29 years,6,40
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,30-44 years,18,112
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,45-54 years,25,145
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,55-64 years,44,211
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,65 years and over,60,432
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic White,Female,Under 14,3,2082
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic White,Female,14-21 years,9,1176
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic White,Female,22-29 years,39,2999
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic White,Female,30-44 years,195,11615
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic White,Female,45-54 years,584,17620
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic White,Female,55-64 years,2166,45348
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic White,Female,65 years and over,37335,408325
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic White,Male,Under 14,7,2768
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic White,Male,14-21 years,10,2942
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic White,Male,22-29 years,60,7388
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic White,Male,30-44 years,397,23037
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic White,Male,45-54 years,1093,29510
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic White,Male,55-64 years,3932,73696
+01/25/2021,03/01/2020,07/31/2020,Non-Hispanic White,Male,65 years and over,34866,378850
+01/25/2021,03/01/2020,07/31/2020,Other,Female,Under 14,1,206
+01/25/2021,03/01/2020,07/31/2020,Other,Female,14-21 years,2,56
+01/25/2021,03/01/2020,07/31/2020,Other,Female,22-29 years,2,116
+01/25/2021,03/01/2020,07/31/2020,Other,Female,30-44 years,14,287
+01/25/2021,03/01/2020,07/31/2020,Other,Female,45-54 years,29,341
+01/25/2021,03/01/2020,07/31/2020,Other,Female,55-64 years,74,648
+01/25/2021,03/01/2020,07/31/2020,Other,Female,65 years and over,482,2746
+01/25/2021,03/01/2020,07/31/2020,Other,Male,Under 14,1,302
+01/25/2021,03/01/2020,07/31/2020,Other,Male,14-21 years,1,127
+01/25/2021,03/01/2020,07/31/2020,Other,Male,22-29 years,7,284
+01/25/2021,03/01/2020,07/31/2020,Other,Male,30-44 years,31,554
+01/25/2021,03/01/2020,07/31/2020,Other,Male,45-54 years,68,616
+01/25/2021,03/01/2020,07/31/2020,Other,Male,55-64 years,198,1334
+01/25/2021,03/01/2020,07/31/2020,Other,Male,65 years and over,785,3420

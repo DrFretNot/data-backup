@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>20250128-cdc-datasets</identifier>
+  <mediatype>data</mediatype>
+  <collection>opensource_media</collection>
+  <creator>Centers for Disease Control and Prevention</creator>
+  <description>An archive of all CDC datasets uploaded to https://data.cdc.gov/browse before January 28th, 2025. Excludes corrupt datasets and data not publicly accessible.&lt;br /&gt;</description>
+  <language>eng</language>
+  <scanner>Internet Archive HTML5 Uploader 1.7.0</scanner>
+  <subject>cdc</subject>
+  <title>CDC datasets uploaded before January 28th, 2025</title>
+  <subject>government</subject>
+  <subject>united states</subject>
+  <subject>dataset</subject>
+  <subject>archive</subject>
+  <uploader>arealhumanthatexists@gmail.com</uploader>
+  <publicdate>2025-01-31 04:08:40</publicdate>
+  <addeddate>2025-01-31 04:08:40</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20250131053119[/date][comment]checked for malware[/comment]</curation>
+</metadata>

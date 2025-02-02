@@ -1,0 +1,21 @@
+Common Core
+Contact Name,Vax Views
+Contact Email,VaxView@cdc.gov
+Publisher,National Center for Immunization and Respiratory Diseases (NCIRD)
+References,Centers for Medicare & Medicaid Services Chronic Conditions Warehouse
+Bureau Code,009:20
+Program Code,009:020
+Geographic Coverage,United States
+Temporal Applicability,"2019-2020, 2020-2021, 2021-2022, 2022-2023"
+Update Frequency,Weekly
+Homepage,https://www.cdc.gov/flu/fluvaxview/dashboard/vaccination-dashboard.html
+Language,English
+Data Quality
+Suggested Citation,"National Center for Immunization and Respiratory Diseases, US Centers for Disease Control and Prevention. Cumulative Influenza Vaccination Coverage Differences by Race/Ethnicity, Children 6 months through 17 years, United States"
+Geospatial Resolution,National
+Footnotes,* Week ending dates for prior seasons are aligned with the current season’s week ending dates. Sample size is insufficient to provide estimates by race/ethnicity by jurisdiction.
+Topics
+Category,Vaccinations
+Tags,"influenza, flu, nis, children, vaccine coverage, flu shot"
+Licensing and Attribution
+License,Public Domain U.S. Government

@@ -1,0 +1,17 @@
+Common Core
+Contact Name,Nicole Zviedrite
+Contact Email,nzviedrite@cdc.gov
+Public Access Level,public
+References,"Zviedrite N, Jahan F, Moreland S, Ahmed F, Uzicanin A. COVID-19–Related School Closures, United States, July 27, 2020–June 30, 2022. Emerg Infect Dis. 2024;30(1):58-69. https://doi.org/10.3201/eid3001.231215"
+Bureau Code,009:20
+Program Code,009:028
+Geographic Coverage,"United States, 50 States and D.C."
+Temporal Applicability,"August 1, 2020 to June 30, 2022"
+Data Quality
+Suggested Citation,"Division of Global Migration Health, Centers for Disease Control and Prevention. Data.CDC.gov platform/ accessed on [DATE]."
+Footnotes,"Data are collected via daily searches of publicly available online content (Google Alerts, Google, and Google News). A standard set of search terms are used to identify COVID-19-related unplanned school closures lasting ≥1 day. Official state-level health and education department websites, and school and district-level websites are also searched. Because data were abstracted using information in publicly available closure announcements, some information may not have been complete or entirely accurate. The data are restricted to public and private K-12 schools and public K-12 school districts, and are only collected for the 50 U.S. states and the District of Columbia. Using the information found in publicly available closure announcements, schools and districts in our data are manually matched to their relevant public school district identification (ID) number or school ID as obtained from the National Center for Education Statistics (https://nces.ed.gov/ccd/). While utmost care was taken to accurately match our data to NCES IDs, some IDs may be inaccurate due to possible inaccuracies in announcements and/or human error."
+Topics
+Category,Public Health Surveillance
+Tags,"covid-19, school closure, pandemic, pandemic preparedness, emergency preparedness, community mitigation"
+Licensing and Attribution
+License,Public Domain U.S. Government

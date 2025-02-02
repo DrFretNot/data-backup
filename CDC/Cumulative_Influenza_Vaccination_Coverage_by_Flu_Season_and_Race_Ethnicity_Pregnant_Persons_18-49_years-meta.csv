@@ -1,0 +1,27 @@
+Common Core
+Contact Name,Vax Views
+Contact Email,VaxView@cdc.gov
+Publisher,National Center for Immunization and Respiratory Diseases (NCIRD)
+References,Vaccine Safety Datalink
+Bureau Code,009:20
+Program Code,009:020
+Geographic Coverage,United States
+Temporal Applicability,"2019-2020, 2020-2021, 2021-2022, 2022-2023"
+Update Frequency,Weekly
+Homepage,https://www.cdc.gov/flu/fluvaxview/dashboard/vaccination-dashboard.html
+Language,English
+Footnotes,"For both seasons, these during-season estimates for each month may change as the season progresses."
+Suggested Citation,"National Center for Immunization and Respiratory Diseases, US Centers for Disease Control and Prevention. Monthly Cumulative Influenza Vaccination Coverage Among Pregnant Persons, United States, 2019-2020 Compared with 2020-2021."
+Data Quality
+Suggested Citation,"National Center for Immunization and Respiratory Diseases, US Centers for Disease Control and Prevention. Monthly Cumulative Influenza Vaccination Coverage Among Pregnant Persons, United States"
+Geospatial Resolution,National
+Footnotes,"For both seasons, these during-season estimates for each month may change as the season progresses."
+Update Frequency,Weekly
+Temporal Applicability,"2019-2020, 2020-2021"
+Geographic Coverage,United States
+Topics
+Category,Vaccinations
+Tags,"influenza, flu, nis, nis-flu, children, vaccine coverage"
+Licensing and Attribution
+License,Public Domain U.S. Government
+Source Link,https://www.cdc.gov/flu/fluvaxview/dashboard/vaccination-dashboard.html

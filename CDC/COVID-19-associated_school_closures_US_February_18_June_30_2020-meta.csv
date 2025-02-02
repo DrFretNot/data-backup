@@ -1,0 +1,16 @@
+Common Core
+Contact Name,Nicole Zviedrite
+Contact Email,jmu6@cdc.gov
+Publisher,Unplanned School Closure Monitoring
+Bureau Code,009:20
+Program Code,009:020
+Footnotes,"Data are collected via daily searches of publicly available online content (Google Alerts, Google, and Google News). A standard set of search terms are used to identify COVID-19-related school closures lasting ≥1 day. Official state-level health and education department websites, and school and district-level websites are also searched. Because data were abstracted using information available in publicly available closure announcements, some information may not have been complete or entirely accurate. The data are restricted to public K-12 schools and school districts, and are only collected for the 50 states and DC. Using the information found in publicly available closure announcements, schools and districts in our data are manually matched to their relevant public school district ID or school ID as obtained from the National Center for Education Statistics for the school year 2017/18 (https://nces.ed.gov/ccd/). While utmost care was taken to accurately match our data to NCED IDs, some IDs may be inaccurate due to possible inaccuracies in announcements and/or human error."
+Data Quality
+Geospatial Resolution,School district
+Temporal Applicability,18-Feb-2020 to 30-Jun-2020
+Geographic Coverage,US
+Topics
+Category,Public Health Surveillance
+Tags,"covid-19, coronavirus, community mitigation, school closure"
+Licensing and Attribution
+License,Public Domain U.S. Government

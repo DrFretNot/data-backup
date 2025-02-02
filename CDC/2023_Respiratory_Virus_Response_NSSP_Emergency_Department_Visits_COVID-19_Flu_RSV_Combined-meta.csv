@@ -1,0 +1,18 @@
+Common Core
+Contact Name,National Syndromic Surveillance Program (NSSP)
+Contact Email,nssp@cdc.gov
+References,https://www.cdc.gov/ncird/surveillance/respiratory-illnesses/index.html#companion-guide
+Bureau Code,009:20
+Program Code,009:026
+Geographic Coverage,US
+Temporal Applicability,2022-12-31/2024-02-17
+Update Frequency,R/P1W
+Data Quality
+Suggested Citation,"Centers for Disease Control and Prevention, Respiratory Virus Response . (2023). 2023 Respiratory Virus Response - NSSP Emergency Department Visits - COVID-19, Flu, RSV, Combined (September 6, 2023 Version). https://data.cdc.gov/Public-Health-Surveillance/2023-Respiratory-Virus-Response-NSSP-Emergency-Dep/vutn-jzwm"
+Geographic Unit of Analysis,State
+Topics
+Category,Public Health Surveillance
+Tags,"covid19, flu, rsv, influenza, respiratory syncytial virus, emergency department, ed, nssp, national syndromic surveillance program, respiratory virus response, rvr, ophdst, ncird, coronavirus"
+Licensing and Attribution
+License,Public Domain U.S. Government
+Source Link,https://www.cdc.gov/respiratory-viruses/index.html

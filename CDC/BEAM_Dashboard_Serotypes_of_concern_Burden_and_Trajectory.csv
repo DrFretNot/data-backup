@@ -1,0 +1,485 @@
+Pathogen,table_id,Food_category,Year,Serotype,Burden,Trajectory,Year_range,No_of_illnesses,Hospitalization(s),Burden_sort_order,Trajectory_sort_order,Master_sort_order
+Salmonella,Beef_Newport_2011-2015,Beef,2020,Newport,High,Increased,2011-2015,176,,1,1,1
+Salmonella,Beef_Newport_2016-2020,Beef,2020,Newport,High,Increased,2016-2020,556,,1,1,1
+Salmonella,Beef_Typhimurium_2011-2015,Beef,2020,Typhimurium,High,Stable,2011-2015,100,,1,2,2
+Salmonella,Beef_Typhimurium_2016-2020,Beef,2020,Typhimurium,High,Stable,2016-2020,54,,1,2,2
+Salmonella,Beef_Dublin_2011-2015,Beef,2020,Dublin,High,Increased,2011-2015,21,,1,1,1
+Salmonella,Beef_Dublin_2016-2020,Beef,2020,Dublin,High,Increased,2016-2020,51,,1,1,1
+Salmonella,Beef_Heidelberg_2011-2015,Beef,2020,Heidelberg,Moderate,Increased,2011-2015,0,,2,1,4
+Salmonella,Beef_Heidelberg_2016-2020,Beef,2020,Heidelberg,Moderate,Increased,2016-2020,32,,2,1,4
+Salmonella,Beef_Oranienburg_2011-2015,Beef,2020,Oranienburg,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Beef_Oranienburg_2016-2020,Beef,2020,Oranienburg,Low,Increased,2016-2020,18,,3,1,7
+Salmonella,Beef_Uganda_2011-2015,Beef,2020,Uganda,Low,Stable,2011-2015,25,,3,2,8
+Salmonella,Beef_Uganda_2016-2020,Beef,2020,Uganda,Low,Stable,2016-2020,18,,3,2,8
+Salmonella,Beef_Braenderup_2011-2015,Beef,2020,Braenderup,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Beef_Braenderup_2016-2020,Beef,2020,Braenderup,Low,Increased,2016-2020,11,,3,1,7
+Salmonella,Beef_Kiambu_2011-2015,Beef,2020,Kiambu,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Beef_Kiambu_2016-2020,Beef,2020,Kiambu,Low,Increased,2016-2020,8,,3,1,7
+Salmonella,Beef_Enteritidis_2011-2015,Beef,2020,Enteritidis,Low,Decreased,2011-2015,75,,3,3,9
+Salmonella,Beef_Enteritidis_2016-2020,Beef,2020,Enteritidis,Low,Decreased,2016-2020,6,,3,3,9
+Salmonella,Beef_Infantis_2011-2015,Beef,2020,Infantis,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Beef_Infantis_2016-2020,Beef,2020,Infantis,Low,Increased,2016-2020,4,,3,1,7
+Salmonella,Beef_Muenchen_2011-2015,Beef,2020,Muenchen,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Beef_Muenchen_2016-2020,Beef,2020,Muenchen,Low,Increased,2016-2020,3,,3,1,7
+Salmonella,Beef_Javiana_2011-2015,Beef,2020,Javiana,No outbreak illnesses,Decreased,2011-2015,7,,4,3,10
+Salmonella,Beef_Javiana_2016-2020,Beef,2020,Javiana,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Beef_Potsdam_2011-2015,Beef,2020,Potsdam,No outbreak illnesses,Decreased,2011-2015,9,,4,3,10
+Salmonella,Beef_Potsdam_2016-2020,Beef,2020,Potsdam,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Chicken_Enteritidis_2011-2015,Chicken,2020,Enteritidis,High,Increased,2011-2015,241,,1,1,1
+Salmonella,Chicken_Enteritidis_2016-2020,Chicken,2020,Enteritidis,High,Increased,2016-2020,600,,1,1,1
+Salmonella,Chicken_Infantis_2011-2015,Chicken,2020,Infantis,High,Increased,2011-2015,2,,1,1,1
+Salmonella,Chicken_Infantis_2016-2020,Chicken,2020,Infantis,High,Increased,2016-2020,209,,1,1,1
+Salmonella,Chicken_Blockley_2011-2015,Chicken,2020,Blockley,High,Increased,2011-2015,0,,1,1,1
+Salmonella,Chicken_Blockley_2016-2020,Chicken,2020,Blockley,High,Increased,2016-2020,146,,1,1,1
+Salmonella,"Chicken_I 4,[5],12:i:-_2011-2015",Chicken,2020,"I 4,[5],12:i:-",High,Increased,2011-2015,0,,1,1,1
+Salmonella,"Chicken_I 4,[5],12:i:-_2016-2020",Chicken,2020,"I 4,[5],12:i:-",High,Increased,2016-2020,103,,1,1,1
+Salmonella,Chicken_Typhimurium_2011-2015,Chicken,2020,Typhimurium,Moderate,Increased,2011-2015,17,,2,1,4
+Salmonella,Chicken_Typhimurium_2016-2020,Chicken,2020,Typhimurium,Moderate,Increased,2016-2020,85,,2,1,4
+Salmonella,Chicken_Heidelberg_2011-2015,Chicken,2020,Heidelberg,Moderate,Decreased,2011-2015,1061,,2,3,6
+Salmonella,Chicken_Heidelberg_2016-2020,Chicken,2020,Heidelberg,Moderate,Decreased,2016-2020,72,,2,3,6
+Salmonella,Chicken_Saintpaul_2011-2015,Chicken,2020,Saintpaul,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Chicken_Saintpaul_2016-2020,Chicken,2020,Saintpaul,Low,Increased,2016-2020,70,,3,1,7
+Salmonella,Chicken_Braenderup_2011-2015,Chicken,2020,Braenderup,Low,Increased,2011-2015,10,,3,1,7
+Salmonella,Chicken_Braenderup_2016-2020,Chicken,2020,Braenderup,Low,Increased,2016-2020,70,,3,1,7
+Salmonella,Chicken_Thompson_2011-2015,Chicken,2020,Thompson,Low,Stable,2011-2015,93,,3,2,8
+Salmonella,Chicken_Thompson_2016-2020,Chicken,2020,Thompson,Low,Stable,2016-2020,62,,3,2,8
+Salmonella,Chicken_Norwich_2011-2015,Chicken,2020,Norwich,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Chicken_Norwich_2016-2020,Chicken,2020,Norwich,Low,Increased,2016-2020,10,,3,1,7
+Salmonella,Chicken_Paratyphi B_2011-2015,Chicken,2020,Paratyphi B,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Chicken_Paratyphi B_2016-2020,Chicken,2020,Paratyphi B,Low,Increased,2016-2020,7,,3,1,7
+Salmonella,Chicken_Anatum_2011-2015,Chicken,2020,Anatum,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Chicken_Anatum_2016-2020,Chicken,2020,Anatum,Low,Increased,2016-2020,4,,3,1,7
+Salmonella,Chicken_Muenchen_2011-2015,Chicken,2020,Muenchen,Low,Stable,2011-2015,3,,3,2,8
+Salmonella,Chicken_Muenchen_2016-2020,Chicken,2020,Muenchen,Low,Stable,2016-2020,2,,3,2,8
+Salmonella,Chicken_Carmel_2011-2015,Chicken,2020,Carmel,No outbreak illnesses,Decreased,2011-2015,33,,4,3,10
+Salmonella,Chicken_Carmel_2016-2020,Chicken,2020,Carmel,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Chicken_Derby_2011-2015,Chicken,2020,Derby,No outbreak illnesses,Decreased,2011-2015,3,,4,3,10
+Salmonella,Chicken_Derby_2016-2020,Chicken,2020,Derby,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Chicken_Javiana_2011-2015,Chicken,2020,Javiana,No outbreak illnesses,Decreased,2011-2015,45,,4,3,10
+Salmonella,Chicken_Javiana_2016-2020,Chicken,2020,Javiana,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Chicken_Montevideo_2011-2015,Chicken,2020,Montevideo,No outbreak illnesses,Decreased,2011-2015,317,,4,3,10
+Salmonella,Chicken_Montevideo_2016-2020,Chicken,2020,Montevideo,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Chicken_Newport_2011-2015,Chicken,2020,Newport,No outbreak illnesses,Decreased,2011-2015,8,,4,3,10
+Salmonella,Chicken_Newport_2016-2020,Chicken,2020,Newport,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Chicken_Schwarzengrund_2011-2015,Chicken,2020,Schwarzengrund,No outbreak illnesses,Decreased,2011-2015,16,,4,3,10
+Salmonella,Chicken_Schwarzengrund_2016-2020,Chicken,2020,Schwarzengrund,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Pork_Typhimurium_2011-2015,Pork,2020,Typhimurium,High,Decreased,2011-2015,411,,1,3,3
+Salmonella,Pork_Typhimurium_2016-2020,Pork,2020,Typhimurium,High,Decreased,2016-2020,184,,1,3,3
+Salmonella,"Pork_I 4,[5],12:i:-_2011-2015",Pork,2020,"I 4,[5],12:i:-",High,Decreased,2011-2015,477,,1,3,3
+Salmonella,"Pork_I 4,[5],12:i:-_2016-2020",Pork,2020,"I 4,[5],12:i:-",High,Decreased,2016-2020,150,,1,3,3
+Salmonella,Pork_Muenchen_2011-2015,Pork,2020,Muenchen,High,Increased,2011-2015,0,,1,1,1
+Salmonella,Pork_Muenchen_2016-2020,Pork,2020,Muenchen,High,Increased,2016-2020,99,,1,1,1
+Salmonella,Pork_Infantis_2011-2015,Pork,2020,Infantis,Moderate,Increased,2011-2015,28,,2,1,4
+Salmonella,Pork_Infantis_2016-2020,Pork,2020,Infantis,Moderate,Increased,2016-2020,85,,2,1,4
+Salmonella,Pork_Adelaide_2011-2015,Pork,2020,Adelaide,Moderate,Increased,2011-2015,14,,2,1,4
+Salmonella,Pork_Adelaide_2016-2020,Pork,2020,Adelaide,Moderate,Increased,2016-2020,48,,2,1,4
+Salmonella,Pork_Javiana_2011-2015,Pork,2020,Javiana,Moderate,Increased,2011-2015,0,,2,1,4
+Salmonella,Pork_Javiana_2016-2020,Pork,2020,Javiana,Moderate,Increased,2016-2020,41,,2,1,4
+Salmonella,Pork_Berta_2011-2015,Pork,2020,Berta,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Pork_Berta_2016-2020,Pork,2020,Berta,Low,Increased,2016-2020,30,,3,1,7
+Salmonella,Pork_Schwarzengrund_2011-2015,Pork,2020,Schwarzengrund,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Pork_Schwarzengrund_2016-2020,Pork,2020,Schwarzengrund,Low,Increased,2016-2020,30,,3,1,7
+Salmonella,Pork_Eastbourne_2011-2015,Pork,2020,Eastbourne,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Pork_Eastbourne_2016-2020,Pork,2020,Eastbourne,Low,Increased,2016-2020,21,,3,1,7
+Salmonella,Pork_Newport_2011-2015,Pork,2020,Newport,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Pork_Newport_2016-2020,Pork,2020,Newport,Low,Increased,2016-2020,20,,3,1,7
+Salmonella,Pork_Goldcoast_2011-2015,Pork,2020,Goldcoast,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Pork_Goldcoast_2016-2020,Pork,2020,Goldcoast,Low,Increased,2016-2020,12,,3,1,7
+Salmonella,Pork_Muenster_2011-2015,Pork,2020,Muenster,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Pork_Muenster_2016-2020,Pork,2020,Muenster,Low,Increased,2016-2020,4,,3,1,7
+Salmonella,Pork_Agona_2011-2015,Pork,2020,Agona,No outbreak illnesses,Decreased,2011-2015,15,,4,3,10
+Salmonella,Pork_Agona_2016-2020,Pork,2020,Agona,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Pork_Braenderup_2011-2015,Pork,2020,Braenderup,No outbreak illnesses,Decreased,2011-2015,8,,4,3,10
+Salmonella,Pork_Braenderup_2016-2020,Pork,2020,Braenderup,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Pork_Derby_2011-2015,Pork,2020,Derby,No outbreak illnesses,Decreased,2011-2015,35,,4,3,10
+Salmonella,Pork_Derby_2016-2020,Pork,2020,Derby,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Pork_Enteritidis_2011-2015,Pork,2020,Enteritidis,No outbreak illnesses,Decreased,2011-2015,127,,4,3,10
+Salmonella,Pork_Enteritidis_2016-2020,Pork,2020,Enteritidis,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Pork_Mbandaka_2011-2015,Pork,2020,Mbandaka,No outbreak illnesses,Decreased,2011-2015,27,,4,3,10
+Salmonella,Pork_Mbandaka_2016-2020,Pork,2020,Mbandaka,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Pork_Thompson_2011-2015,Pork,2020,Thompson,No outbreak illnesses,Decreased,2011-2015,11,,4,3,10
+Salmonella,Pork_Thompson_2016-2020,Pork,2020,Thompson,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Pork_Uganda_2011-2015,Pork,2020,Uganda,No outbreak illnesses,Decreased,2011-2015,24,,4,3,10
+Salmonella,Pork_Uganda_2016-2020,Pork,2020,Uganda,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Turkey_Enteritidis_2011-2015,Turkey,2020,Enteritidis,High,Increased,2011-2015,59,,1,1,1
+Salmonella,Turkey_Enteritidis_2016-2020,Turkey,2020,Enteritidis,High,Increased,2016-2020,610,,1,1,1
+Salmonella,Turkey_Reading_2011-2015,Turkey,2020,Reading,High,Increased,2011-2015,4,,1,1,1
+Salmonella,Turkey_Reading_2016-2020,Turkey,2020,Reading,High,Increased,2016-2020,380,,1,1,1
+Salmonella,Turkey_Hadar_2011-2015,Turkey,2020,Hadar,Moderate,Increased,2011-2015,0,,2,1,4
+Salmonella,Turkey_Hadar_2016-2020,Turkey,2020,Hadar,Moderate,Increased,2016-2020,51,,2,1,4
+Salmonella,Turkey_Newport_2011-2015,Turkey,2020,Newport,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Turkey_Newport_2016-2020,Turkey,2020,Newport,Low,Increased,2016-2020,9,,3,1,7
+Salmonella,Turkey_Anatum_2011-2015,Turkey,2020,Anatum,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Turkey_Anatum_2016-2020,Turkey,2020,Anatum,Low,Increased,2016-2020,8,,3,1,7
+Salmonella,Turkey_Schwarzengrund_2011-2015,Turkey,2020,Schwarzengrund,Low,Increased,2011-2015,0,,3,1,7
+Salmonella,Turkey_Schwarzengrund_2016-2020,Turkey,2020,Schwarzengrund,Low,Increased,2016-2020,7,,3,1,7
+Salmonella,"Turkey_I 4,[5],12:i:-_2011-2015",Turkey,2020,"I 4,[5],12:i:-",Low,Decreased,2011-2015,10,,3,3,9
+Salmonella,"Turkey_I 4,[5],12:i:-_2016-2020",Turkey,2020,"I 4,[5],12:i:-",Low,Decreased,2016-2020,3,,3,3,9
+Salmonella,Turkey_Braenderup_2011-2015,Turkey,2020,Braenderup,No outbreak illnesses,Decreased,2011-2015,4,,4,3,10
+Salmonella,Turkey_Braenderup_2016-2020,Turkey,2020,Braenderup,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Turkey_Heidelberg_2011-2015,Turkey,2020,Heidelberg,No outbreak illnesses,Decreased,2011-2015,186,,4,3,10
+Salmonella,Turkey_Heidelberg_2016-2020,Turkey,2020,Heidelberg,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Turkey_Javiana_2011-2015,Turkey,2020,Javiana,No outbreak illnesses,Decreased,2011-2015,20,,4,3,10
+Salmonella,Turkey_Javiana_2016-2020,Turkey,2020,Javiana,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Turkey_Muenchen_2011-2015,Turkey,2020,Muenchen,No outbreak illnesses,Decreased,2011-2015,14,,4,3,10
+Salmonella,Turkey_Muenchen_2016-2020,Turkey,2020,Muenchen,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Turkey_Saintpaul_2011-2015,Turkey,2020,Saintpaul,No outbreak illnesses,Decreased,2011-2015,13,,4,3,10
+Salmonella,Turkey_Saintpaul_2016-2020,Turkey,2020,Saintpaul,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Turkey_Typhimurium_2011-2015,Turkey,2020,Typhimurium,No outbreak illnesses,Decreased,2011-2015,28,,4,3,10
+Salmonella,Turkey_Typhimurium_2016-2020,Turkey,2020,Typhimurium,No outbreak illnesses,Decreased,2016-2020,0,,4,3,10
+Salmonella,Beef_Newport_2012-2016,Beef,2021,Newport,High,Increased,2012-2016,283,,1,1,1
+Salmonella,Beef_Newport_2017-2021,Beef,2021,Newport,High,Increased,2017-2021,530,,1,1,1
+Salmonella,Beef_Typhimurium_2012-2016,Beef,2021,Typhimurium,High,Stable,2012-2016,75,,1,2,2
+Salmonella,Beef_Typhimurium_2017-2021,Beef,2021,Typhimurium,High,Stable,2017-2021,54,,1,2,2
+Salmonella,Beef_Dublin_2012-2016,Beef,2021,Dublin,High,Increased,2012-2016,21,,1,1,1
+Salmonella,Beef_Dublin_2017-2021,Beef,2021,Dublin,High,Increased,2017-2021,51,,1,1,1
+Salmonella,Beef_Heidelberg_2012-2016,Beef,2021,Heidelberg,Moderate,Increased,2012-2016,0,,2,1,4
+Salmonella,Beef_Heidelberg_2017-2021,Beef,2021,Heidelberg,Moderate,Increased,2017-2021,32,,2,1,4
+Salmonella,"Beef_I 4,[5],12:i:-_2012-2016",Beef,2021,"I 4,[5],12:i:-",Moderate,Increased,2012-2016,0,,2,1,4
+Salmonella,"Beef_I 4,[5],12:i:-_2017-2021",Beef,2021,"I 4,[5],12:i:-",Moderate,Increased,2017-2021,25,,2,1,4
+Salmonella,Beef_Oranienburg_2012-2016,Beef,2021,Oranienburg,Low,Increased,2012-2016,0,,3,1,7
+Salmonella,Beef_Oranienburg_2017-2021,Beef,2021,Oranienburg,Low,Increased,2017-2021,18,,3,1,7
+Salmonella,Beef_Uganda_2012-2016,Beef,2021,Uganda,Low,Stable,2012-2016,25,,3,2,8
+Salmonella,Beef_Uganda_2017-2021,Beef,2021,Uganda,Low,Stable,2017-2021,18,,3,2,8
+Salmonella,Beef_Braenderup_2012-2016,Beef,2021,Braenderup,Low,Increased,2012-2016,0,,3,1,7
+Salmonella,Beef_Braenderup_2017-2021,Beef,2021,Braenderup,Low,Increased,2017-2021,11,,3,1,7
+Salmonella,Beef_Kiambu_2012-2016,Beef,2021,Kiambu,Low,Increased,2012-2016,0,,3,1,7
+Salmonella,Beef_Kiambu_2017-2021,Beef,2021,Kiambu,Low,Increased,2017-2021,8,,3,1,7
+Salmonella,Beef_Enteritidis_2012-2016,Beef,2021,Enteritidis,Low,Decreased,2012-2016,75,,3,3,9
+Salmonella,Beef_Enteritidis_2017-2021,Beef,2021,Enteritidis,Low,Decreased,2017-2021,6,,3,3,9
+Salmonella,Beef_Infantis_2012-2016,Beef,2021,Infantis,Low,Increased,2012-2016,0,,3,1,7
+Salmonella,Beef_Infantis_2017-2021,Beef,2021,Infantis,Low,Increased,2017-2021,4,,3,1,7
+Salmonella,Beef_Javiana_2012-2016,Beef,2021,Javiana,No outbreak illnesses,Decreased,2012-2016,7,,4,3,10
+Salmonella,Beef_Javiana_2017-2021,Beef,2021,Javiana,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Beef_Muenchen_2012-2016,Beef,2021,Muenchen,No outbreak illnesses,Decreased,2012-2016,3,,4,3,10
+Salmonella,Beef_Muenchen_2017-2021,Beef,2021,Muenchen,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Beef_Potsdam_2012-2016,Beef,2021,Potsdam,No outbreak illnesses,Decreased,2012-2016,9,,4,3,10
+Salmonella,Beef_Potsdam_2017-2021,Beef,2021,Potsdam,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Chicken_Enteritidis_2012-2016,Chicken,2021,Enteritidis,High,Increased,2012-2016,317,,1,1,1
+Salmonella,Chicken_Enteritidis_2017-2021,Chicken,2021,Enteritidis,High,Increased,2017-2021,679,,1,1,1
+Salmonella,Chicken_Infantis_2012-2016,Chicken,2021,Infantis,High,Increased,2012-2016,2,,1,1,1
+Salmonella,Chicken_Infantis_2017-2021,Chicken,2021,Infantis,High,Increased,2017-2021,209,,1,1,1
+Salmonella,Chicken_Blockley_2012-2016,Chicken,2021,Blockley,High,Increased,2012-2016,0,,1,1,1
+Salmonella,Chicken_Blockley_2017-2021,Chicken,2021,Blockley,High,Increased,2017-2021,146,,1,1,1
+Salmonella,Chicken_Typhimurium_2012-2016,Chicken,2021,Typhimurium,Moderate,Increased,2012-2016,0,,2,1,4
+Salmonella,Chicken_Typhimurium_2017-2021,Chicken,2021,Typhimurium,Moderate,Increased,2017-2021,85,,2,1,4
+Salmonella,Chicken_Braenderup_2012-2016,Chicken,2021,Braenderup,Moderate,Increased,2012-2016,10,,2,1,4
+Salmonella,Chicken_Braenderup_2017-2021,Chicken,2021,Braenderup,Moderate,Increased,2017-2021,80,,2,1,4
+Salmonella,Chicken_Heidelberg_2012-2016,Chicken,2021,Heidelberg,Low,Decreased,2012-2016,880,,3,3,9
+Salmonella,Chicken_Heidelberg_2017-2021,Chicken,2021,Heidelberg,Low,Decreased,2017-2021,63,,3,3,9
+Salmonella,"Chicken_I 4,[5],12:i:-_2012-2016",Chicken,2021,"I 4,[5],12:i:-",Low,Stable,2012-2016,64,,3,2,8
+Salmonella,"Chicken_I 4,[5],12:i:-_2017-2021",Chicken,2021,"I 4,[5],12:i:-",Low,Stable,2017-2021,39,,3,2,8
+Salmonella,Chicken_Thompson_2012-2016,Chicken,2021,Thompson,Low,Decreased,2012-2016,140,,3,3,9
+Salmonella,Chicken_Thompson_2017-2021,Chicken,2021,Thompson,Low,Decreased,2017-2021,15,,3,3,9
+Salmonella,Chicken_Paratyphi B_2012-2016,Chicken,2021,Paratyphi B,Low,Increased,2012-2016,0,,3,1,7
+Salmonella,Chicken_Paratyphi B_2017-2021,Chicken,2021,Paratyphi B,Low,Increased,2017-2021,7,,3,1,7
+Salmonella,Chicken_Anatum_2012-2016,Chicken,2021,Anatum,Low,Increased,2012-2016,0,,3,1,7
+Salmonella,Chicken_Anatum_2017-2021,Chicken,2021,Anatum,Low,Increased,2017-2021,4,,3,1,7
+Salmonella,Chicken_Carmel_2012-2016,Chicken,2021,Carmel,No outbreak illnesses,Decreased,2012-2016,33,,4,3,10
+Salmonella,Chicken_Carmel_2017-2021,Chicken,2021,Carmel,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Chicken_Derby_2012-2016,Chicken,2021,Derby,No outbreak illnesses,Decreased,2012-2016,3,,4,3,10
+Salmonella,Chicken_Derby_2017-2021,Chicken,2021,Derby,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Chicken_Javiana_2012-2016,Chicken,2021,Javiana,No outbreak illnesses,Decreased,2012-2016,45,,4,3,10
+Salmonella,Chicken_Javiana_2017-2021,Chicken,2021,Javiana,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Chicken_Montevideo_2012-2016,Chicken,2021,Montevideo,No outbreak illnesses,Decreased,2012-2016,5,,4,3,10
+Salmonella,Chicken_Montevideo_2017-2021,Chicken,2021,Montevideo,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Chicken_Muenchen_2012-2016,Chicken,2021,Muenchen,No outbreak illnesses,Decreased,2012-2016,5,,4,3,10
+Salmonella,Chicken_Muenchen_2017-2021,Chicken,2021,Muenchen,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Chicken_Newport_2012-2016,Chicken,2021,Newport,No outbreak illnesses,Decreased,2012-2016,8,,4,3,10
+Salmonella,Chicken_Newport_2017-2021,Chicken,2021,Newport,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Chicken_Norwich_2012-2016,Chicken,2021,Norwich,No outbreak illnesses,Decreased,2012-2016,10,,4,3,10
+Salmonella,Chicken_Norwich_2017-2021,Chicken,2021,Norwich,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Chicken_Saintpaul_2012-2016,Chicken,2021,Saintpaul,No outbreak illnesses,Decreased,2012-2016,70,,4,3,10
+Salmonella,Chicken_Saintpaul_2017-2021,Chicken,2021,Saintpaul,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Chicken_Schwarzengrund_2012-2016,Chicken,2021,Schwarzengrund,No outbreak illnesses,Decreased,2012-2016,16,,4,3,10
+Salmonella,Chicken_Schwarzengrund_2017-2021,Chicken,2021,Schwarzengrund,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Pork_Typhimurium_2012-2016,Pork,2021,Typhimurium,High,Stable,2012-2016,331,,1,2,2
+Salmonella,Pork_Typhimurium_2017-2021,Pork,2021,Typhimurium,High,Stable,2017-2021,184,,1,2,2
+Salmonella,"Pork_I 4,[5],12:i:-_2012-2016",Pork,2021,"I 4,[5],12:i:-",High,Decreased,2012-2016,484,,1,3,3
+Salmonella,"Pork_I 4,[5],12:i:-_2017-2021",Pork,2021,"I 4,[5],12:i:-",High,Decreased,2017-2021,165,,1,3,3
+Salmonella,Pork_Muenchen_2012-2016,Pork,2021,Muenchen,High,Increased,2012-2016,0,,1,1,1
+Salmonella,Pork_Muenchen_2017-2021,Pork,2021,Muenchen,High,Increased,2017-2021,99,,1,1,1
+Salmonella,Pork_Infantis_2012-2016,Pork,2021,Infantis,Moderate,Increased,2012-2016,10,,2,1,4
+Salmonella,Pork_Infantis_2017-2021,Pork,2021,Infantis,Moderate,Increased,2017-2021,85,,2,1,4
+Salmonella,Pork_Adelaide_2012-2016,Pork,2021,Adelaide,Low,Increased,2012-2016,14,,3,1,7
+Salmonella,Pork_Adelaide_2017-2021,Pork,2021,Adelaide,Low,Increased,2017-2021,48,,3,1,7
+Salmonella,Pork_Berta_2012-2016,Pork,2021,Berta,Low,Increased,2012-2016,0,,3,1,7
+Salmonella,Pork_Berta_2017-2021,Pork,2021,Berta,Low,Increased,2017-2021,30,,3,1,7
+Salmonella,Pork_Schwarzengrund_2012-2016,Pork,2021,Schwarzengrund,Low,Increased,2012-2016,0,,3,1,7
+Salmonella,Pork_Schwarzengrund_2017-2021,Pork,2021,Schwarzengrund,Low,Increased,2017-2021,30,,3,1,7
+Salmonella,Pork_Eastbourne_2012-2016,Pork,2021,Eastbourne,Low,Increased,2012-2016,0,,3,1,7
+Salmonella,Pork_Eastbourne_2017-2021,Pork,2021,Eastbourne,Low,Increased,2017-2021,21,,3,1,7
+Salmonella,Pork_Muenster_2012-2016,Pork,2021,Muenster,Low,Increased,2012-2016,0,,3,1,7
+Salmonella,Pork_Muenster_2017-2021,Pork,2021,Muenster,Low,Increased,2017-2021,4,,3,1,7
+Salmonella,Pork_Agona_2012-2016,Pork,2021,Agona,No outbreak illnesses,Decreased,2012-2016,15,,4,3,10
+Salmonella,Pork_Agona_2017-2021,Pork,2021,Agona,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Pork_Braenderup_2012-2016,Pork,2021,Braenderup,No outbreak illnesses,Decreased,2012-2016,8,,4,3,10
+Salmonella,Pork_Braenderup_2017-2021,Pork,2021,Braenderup,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Pork_Enteritidis_2012-2016,Pork,2021,Enteritidis,No outbreak illnesses,Decreased,2012-2016,41,,4,3,10
+Salmonella,Pork_Enteritidis_2017-2021,Pork,2021,Enteritidis,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Pork_Goldcoast_2012-2016,Pork,2021,Goldcoast,No outbreak illnesses,Decreased,2012-2016,12,,4,3,10
+Salmonella,Pork_Goldcoast_2017-2021,Pork,2021,Goldcoast,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Pork_Javiana_2012-2016,Pork,2021,Javiana,No outbreak illnesses,Decreased,2012-2016,41,,4,3,10
+Salmonella,Pork_Javiana_2017-2021,Pork,2021,Javiana,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Pork_Mbandaka_2012-2016,Pork,2021,Mbandaka,No outbreak illnesses,Decreased,2012-2016,27,,4,3,10
+Salmonella,Pork_Mbandaka_2017-2021,Pork,2021,Mbandaka,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Pork_Newport_2012-2016,Pork,2021,Newport,No outbreak illnesses,Decreased,2012-2016,20,,4,3,10
+Salmonella,Pork_Newport_2017-2021,Pork,2021,Newport,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Pork_Thompson_2012-2016,Pork,2021,Thompson,No outbreak illnesses,Decreased,2012-2016,11,,4,3,10
+Salmonella,Pork_Thompson_2017-2021,Pork,2021,Thompson,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Pork_Uganda_2012-2016,Pork,2021,Uganda,No outbreak illnesses,Decreased,2012-2016,19,,4,3,10
+Salmonella,Pork_Uganda_2017-2021,Pork,2021,Uganda,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Turkey_Enteritidis_2012-2016,Turkey,2021,Enteritidis,High,Increased,2012-2016,74,,1,1,1
+Salmonella,Turkey_Enteritidis_2017-2021,Turkey,2021,Enteritidis,High,Increased,2017-2021,584,,1,1,1
+Salmonella,Turkey_Reading_2012-2016,Turkey,2021,Reading,High,Increased,2012-2016,17,,1,1,1
+Salmonella,Turkey_Reading_2017-2021,Turkey,2021,Reading,High,Increased,2017-2021,367,,1,1,1
+Salmonella,Turkey_Hadar_2012-2016,Turkey,2021,Hadar,Moderate,Increased,2012-2016,0,,2,1,4
+Salmonella,Turkey_Hadar_2017-2021,Turkey,2021,Hadar,Moderate,Increased,2017-2021,51,,2,1,4
+Salmonella,Turkey_Newport_2012-2016,Turkey,2021,Newport,Low,Increased,2012-2016,0,,3,1,7
+Salmonella,Turkey_Newport_2017-2021,Turkey,2021,Newport,Low,Increased,2017-2021,9,,3,1,7
+Salmonella,Turkey_Anatum_2012-2016,Turkey,2021,Anatum,Low,Increased,2012-2016,0,,3,1,7
+Salmonella,Turkey_Anatum_2017-2021,Turkey,2021,Anatum,Low,Increased,2017-2021,8,,3,1,7
+Salmonella,Turkey_Schwarzengrund_2012-2016,Turkey,2021,Schwarzengrund,Low,Increased,2012-2016,0,,3,1,7
+Salmonella,Turkey_Schwarzengrund_2017-2021,Turkey,2021,Schwarzengrund,Low,Increased,2017-2021,7,,3,1,7
+Salmonella,"Turkey_I 4,[5],12:i:-_2012-2016",Turkey,2021,"I 4,[5],12:i:-",Low,Decreased,2012-2016,10,,3,3,9
+Salmonella,"Turkey_I 4,[5],12:i:-_2017-2021",Turkey,2021,"I 4,[5],12:i:-",Low,Decreased,2017-2021,3,,3,3,9
+Salmonella,Turkey_Braenderup_2012-2016,Turkey,2021,Braenderup,No outbreak illnesses,Decreased,2012-2016,4,,4,3,10
+Salmonella,Turkey_Braenderup_2017-2021,Turkey,2021,Braenderup,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Turkey_Javiana_2012-2016,Turkey,2021,Javiana,No outbreak illnesses,Decreased,2012-2016,20,,4,3,10
+Salmonella,Turkey_Javiana_2017-2021,Turkey,2021,Javiana,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Turkey_Muenchen_2012-2016,Turkey,2021,Muenchen,No outbreak illnesses,Decreased,2012-2016,14,,4,3,10
+Salmonella,Turkey_Muenchen_2017-2021,Turkey,2021,Muenchen,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Turkey_Saintpaul_2012-2016,Turkey,2021,Saintpaul,No outbreak illnesses,Decreased,2012-2016,13,,4,3,10
+Salmonella,Turkey_Saintpaul_2017-2021,Turkey,2021,Saintpaul,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Turkey_Typhimurium_2012-2016,Turkey,2021,Typhimurium,No outbreak illnesses,Decreased,2012-2016,7,,4,3,10
+Salmonella,Turkey_Typhimurium_2017-2021,Turkey,2021,Typhimurium,No outbreak illnesses,Decreased,2017-2021,0,,4,3,10
+Salmonella,Beef_Newport_2013-2017,Beef,2022,Newport,High,Increased,2013-2017,286,60,1,1,1
+Salmonella,Beef_Newport_2018-2022,Beef,2022,Newport,High,Increased,2018-2022,551,166,1,1,1
+Salmonella,Beef_Brandenburg_2013-2017,Beef,2022,Brandenburg,High,Increased,2013-2017,0,0,1,1,1
+Salmonella,Beef_Brandenburg_2018-2022,Beef,2022,Brandenburg,High,Increased,2018-2022,139,51,1,1,1
+Salmonella,Beef_Typhimurium_2013-2017,Beef,2022,Typhimurium,Moderate,Stable,2013-2017,56,13,2,2,5
+Salmonella,Beef_Typhimurium_2018-2022,Beef,2022,Typhimurium,Moderate,Stable,2018-2022,78,16,2,2,5
+Salmonella,Beef_Dublin_2013-2017,Beef,2022,Dublin,Low,Increased,2013-2017,0,0,3,1,7
+Salmonella,Beef_Dublin_2018-2022,Beef,2022,Dublin,Low,Increased,2018-2022,51,16,3,1,7
+Salmonella,"Beef_I 4,[5],12:i:-_2013-2017",Beef,2022,"I 4,[5],12:i:-",Low,Increased,2013-2017,0,0,3,1,7
+Salmonella,"Beef_I 4,[5],12:i:-_2018-2022",Beef,2022,"I 4,[5],12:i:-",Low,Increased,2018-2022,25,5,3,1,7
+Salmonella,Beef_Oranienburg_2013-2017,Beef,2022,Oranienburg,Low,Increased,2013-2017,0,0,3,1,7
+Salmonella,Beef_Oranienburg_2018-2022,Beef,2022,Oranienburg,Low,Increased,2018-2022,18,2,3,1,7
+Salmonella,Beef_Uganda_2013-2017,Beef,2022,Uganda,Low,Stable,2013-2017,25,2,3,2,8
+Salmonella,Beef_Uganda_2018-2022,Beef,2022,Uganda,Low,Stable,2018-2022,18,1,3,2,8
+Salmonella,Beef_Braenderup_2013-2017,Beef,2022,Braenderup,No outbreak illnesses,Decreased,2013-2017,11,3,4,3,10
+Salmonella,Beef_Braenderup_2018-2022,Beef,2022,Braenderup,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Beef_Enteritidis_2013-2017,Beef,2022,Enteritidis,No outbreak illnesses,Decreased,2013-2017,6,1,4,3,10
+Salmonella,Beef_Enteritidis_2018-2022,Beef,2022,Enteritidis,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Beef_Heidelberg_2013-2017,Beef,2022,Heidelberg,No outbreak illnesses,Decreased,2013-2017,32,6,4,3,10
+Salmonella,Beef_Heidelberg_2018-2022,Beef,2022,Heidelberg,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Beef_Javiana_2013-2017,Beef,2022,Javiana,No outbreak illnesses,Decreased,2013-2017,7,0,4,3,10
+Salmonella,Beef_Javiana_2018-2022,Beef,2022,Javiana,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Beef_Muenchen_2013-2017,Beef,2022,Muenchen,No outbreak illnesses,Decreased,2013-2017,3,1,4,3,10
+Salmonella,Beef_Muenchen_2018-2022,Beef,2022,Muenchen,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Beef_Potsdam_2013-2017,Beef,2022,Potsdam,No outbreak illnesses,Decreased,2013-2017,9,1,4,3,10
+Salmonella,Beef_Potsdam_2018-2022,Beef,2022,Potsdam,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Chicken_Enteritidis_2013-2017,Chicken,2022,Enteritidis,High,Increased,2013-2017,389,24,1,1,1
+Salmonella,Chicken_Enteritidis_2018-2022,Chicken,2022,Enteritidis,High,Increased,2018-2022,600,148,1,1,1
+Salmonella,Chicken_Blockley_2013-2017,Chicken,2022,Blockley,High,Increased,2013-2017,0,0,1,1,1
+Salmonella,Chicken_Blockley_2018-2022,Chicken,2022,Blockley,High,Increased,2018-2022,146,10,1,1,1
+Salmonella,Chicken_Infantis_2013-2017,Chicken,2022,Infantis,High,Increased,2013-2017,68,1,1,1,1
+Salmonella,Chicken_Infantis_2018-2022,Chicken,2022,Infantis,High,Increased,2018-2022,143,30,1,1,1
+Salmonella,Chicken_Typhimurium_2013-2017,Chicken,2022,Typhimurium,Moderate,Increased,2013-2017,0,0,2,1,4
+Salmonella,Chicken_Typhimurium_2018-2022,Chicken,2022,Typhimurium,Moderate,Increased,2018-2022,85,22,2,1,4
+Salmonella,Chicken_Braenderup_2013-2017,Chicken,2022,Braenderup,Low,Increased,2013-2017,10,0,3,1,7
+Salmonella,Chicken_Braenderup_2018-2022,Chicken,2022,Braenderup,Low,Increased,2018-2022,80,18,3,1,7
+Salmonella,Chicken_Heidelberg_2013-2017,Chicken,2022,Heidelberg,Low,Decreased,2013-2017,779,227,3,3,9
+Salmonella,Chicken_Heidelberg_2018-2022,Chicken,2022,Heidelberg,Low,Decreased,2018-2022,33,11,3,3,9
+Salmonella,Chicken_Thompson_2013-2017,Chicken,2022,Thompson,Low,Decreased,2013-2017,140,13,3,3,9
+Salmonella,Chicken_Thompson_2018-2022,Chicken,2022,Thompson,Low,Decreased,2018-2022,15,2,3,3,9
+Salmonella,Chicken_Paratyphi B_2013-2017,Chicken,2022,Paratyphi B,Low,Increased,2013-2017,0,0,3,1,7
+Salmonella,Chicken_Paratyphi B_2018-2022,Chicken,2022,Paratyphi B,Low,Increased,2018-2022,7,3,3,1,7
+Salmonella,Chicken_Sandiego_2013-2017,Chicken,2022,Sandiego,Low,Increased,2013-2017,0,0,3,1,7
+Salmonella,Chicken_Sandiego_2018-2022,Chicken,2022,Sandiego,Low,Increased,2018-2022,3,0,3,1,7
+Salmonella,Chicken_Anatum_2013-2017,Chicken,2022,Anatum,No outbreak illnesses,Decreased,2013-2017,4,0,4,3,10
+Salmonella,Chicken_Anatum_2018-2022,Chicken,2022,Anatum,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Chicken_Carmel_2013-2017,Chicken,2022,Carmel,No outbreak illnesses,Decreased,2013-2017,33,1,4,3,10
+Salmonella,Chicken_Carmel_2018-2022,Chicken,2022,Carmel,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Chicken_Derby_2013-2017,Chicken,2022,Derby,No outbreak illnesses,Decreased,2013-2017,3,0,4,3,10
+Salmonella,Chicken_Derby_2018-2022,Chicken,2022,Derby,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,"Chicken_I 4,[5],12:i:-_2013-2017",Chicken,2022,"I 4,[5],12:i:-",No outbreak illnesses,Decreased,2013-2017,95,31,4,3,10
+Salmonella,"Chicken_I 4,[5],12:i:-_2018-2022",Chicken,2022,"I 4,[5],12:i:-",No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Chicken_Javiana_2013-2017,Chicken,2022,Javiana,No outbreak illnesses,Decreased,2013-2017,2,1,4,3,10
+Salmonella,Chicken_Javiana_2018-2022,Chicken,2022,Javiana,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Chicken_Montevideo_2013-2017,Chicken,2022,Montevideo,No outbreak illnesses,Decreased,2013-2017,5,0,4,3,10
+Salmonella,Chicken_Montevideo_2018-2022,Chicken,2022,Montevideo,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Chicken_Muenchen_2013-2017,Chicken,2022,Muenchen,No outbreak illnesses,Decreased,2013-2017,3,0,4,3,10
+Salmonella,Chicken_Muenchen_2018-2022,Chicken,2022,Muenchen,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Chicken_Norwich_2013-2017,Chicken,2022,Norwich,No outbreak illnesses,Decreased,2013-2017,10,1,4,3,10
+Salmonella,Chicken_Norwich_2018-2022,Chicken,2022,Norwich,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Chicken_Oranienburg_2013-2017,Chicken,2022,Oranienburg,No outbreak illnesses,Decreased,2013-2017,4,0,4,3,10
+Salmonella,Chicken_Oranienburg_2018-2022,Chicken,2022,Oranienburg,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Chicken_Saintpaul_2013-2017,Chicken,2022,Saintpaul,No outbreak illnesses,Decreased,2013-2017,70,12,4,3,10
+Salmonella,Chicken_Saintpaul_2018-2022,Chicken,2022,Saintpaul,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,"Pork_I 4,[5],12:i:-_2013-2017",Pork,2022,"I 4,[5],12:i:-",High,Decreased,2013-2017,492,67,1,3,3
+Salmonella,"Pork_I 4,[5],12:i:-_2018-2022",Pork,2022,"I 4,[5],12:i:-",High,Decreased,2018-2022,158,35,1,3,3
+Salmonella,Pork_Typhimurium_2013-2017,Pork,2022,Typhimurium,High,Decreased,2013-2017,347,36,1,3,3
+Salmonella,Pork_Typhimurium_2018-2022,Pork,2022,Typhimurium,High,Decreased,2018-2022,144,14,1,3,3
+Salmonella,Pork_Muenchen_2013-2017,Pork,2022,Muenchen,Moderate,Increased,2013-2017,0,0,2,1,4
+Salmonella,Pork_Muenchen_2018-2022,Pork,2022,Muenchen,Moderate,Increased,2018-2022,99,4,2,1,4
+Salmonella,Pork_Infantis_2013-2017,Pork,2022,Infantis,Moderate,Increased,2013-2017,10,5,2,1,4
+Salmonella,Pork_Infantis_2018-2022,Pork,2022,Infantis,Moderate,Increased,2018-2022,95,18,2,1,4
+Salmonella,Pork_Adelaide_2013-2017,Pork,2022,Adelaide,Low,Increased,2013-2017,14,2,3,1,7
+Salmonella,Pork_Adelaide_2018-2022,Pork,2022,Adelaide,Low,Increased,2018-2022,48,5,3,1,7
+Salmonella,Pork_Berta_2013-2017,Pork,2022,Berta,Low,Increased,2013-2017,0,0,3,1,7
+Salmonella,Pork_Berta_2018-2022,Pork,2022,Berta,Low,Increased,2018-2022,30,6,3,1,7
+Salmonella,Pork_Eastbourne_2013-2017,Pork,2022,Eastbourne,Low,Increased,2013-2017,0,0,3,1,7
+Salmonella,Pork_Eastbourne_2018-2022,Pork,2022,Eastbourne,Low,Increased,2018-2022,21,7,3,1,7
+Salmonella,Pork_Muenster_2013-2017,Pork,2022,Muenster,Low,Increased,2013-2017,0,0,3,1,7
+Salmonella,Pork_Muenster_2018-2022,Pork,2022,Muenster,Low,Increased,2018-2022,4,0,3,1,7
+Salmonella,Pork_Agona_2013-2017,Pork,2022,Agona,No outbreak illnesses,Decreased,2013-2017,15,0,4,3,10
+Salmonella,Pork_Agona_2018-2022,Pork,2022,Agona,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Pork_Braenderup_2013-2017,Pork,2022,Braenderup,No outbreak illnesses,Decreased,2013-2017,8,2,4,3,10
+Salmonella,Pork_Braenderup_2018-2022,Pork,2022,Braenderup,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Pork_Enteritidis_2013-2017,Pork,2022,Enteritidis,No outbreak illnesses,Decreased,2013-2017,41,5,4,3,10
+Salmonella,Pork_Enteritidis_2018-2022,Pork,2022,Enteritidis,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Pork_Goldcoast_2013-2017,Pork,2022,Goldcoast,No outbreak illnesses,Decreased,2013-2017,12,1,4,3,10
+Salmonella,Pork_Goldcoast_2018-2022,Pork,2022,Goldcoast,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Pork_Javiana_2013-2017,Pork,2022,Javiana,No outbreak illnesses,Decreased,2013-2017,41,4,4,3,10
+Salmonella,Pork_Javiana_2018-2022,Pork,2022,Javiana,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Pork_Mbandaka_2013-2017,Pork,2022,Mbandaka,No outbreak illnesses,Decreased,2013-2017,27,0,4,3,10
+Salmonella,Pork_Mbandaka_2018-2022,Pork,2022,Mbandaka,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Pork_Newport_2013-2017,Pork,2022,Newport,No outbreak illnesses,Decreased,2013-2017,27,4,4,3,10
+Salmonella,Pork_Newport_2018-2022,Pork,2022,Newport,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Pork_Schwarzengrund_2013-2017,Pork,2022,Schwarzengrund,No outbreak illnesses,Decreased,2013-2017,30,11,4,3,10
+Salmonella,Pork_Schwarzengrund_2018-2022,Pork,2022,Schwarzengrund,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Pork_Thompson_2013-2017,Pork,2022,Thompson,No outbreak illnesses,Decreased,2013-2017,11,4,4,3,10
+Salmonella,Pork_Thompson_2018-2022,Pork,2022,Thompson,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Pork_Uganda_2013-2017,Pork,2022,Uganda,No outbreak illnesses,Decreased,2013-2017,12,2,4,3,10
+Salmonella,Pork_Uganda_2018-2022,Pork,2022,Uganda,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Turkey_Hadar_2013-2017,Turkey,2022,Hadar,High,Increased,2013-2017,0,0,1,1,1
+Salmonella,Turkey_Hadar_2018-2022,Turkey,2022,Hadar,High,Increased,2018-2022,51,12,1,1,1
+Salmonella,"Turkey_I 4,[5],12:i:-_2013-2017",Turkey,2022,"I 4,[5],12:i:-",High,Increased,2013-2017,10,0,1,1,1
+Salmonella,"Turkey_I 4,[5],12:i:-_2018-2022",Turkey,2022,"I 4,[5],12:i:-",High,Increased,2018-2022,28,2,1,1,1
+Salmonella,Turkey_Enteritidis_2013-2017,Turkey,2022,Enteritidis,Moderate,Decreased,2013-2017,654,17,2,3,6
+Salmonella,Turkey_Enteritidis_2018-2022,Turkey,2022,Enteritidis,Moderate,Decreased,2018-2022,16,3,2,3,6
+Salmonella,Turkey_Newport_2013-2017,Turkey,2022,Newport,Low,Increased,2013-2017,0,0,3,1,7
+Salmonella,Turkey_Newport_2018-2022,Turkey,2022,Newport,Low,Increased,2018-2022,9,1,3,1,7
+Salmonella,Turkey_Anatum_2013-2017,Turkey,2022,Anatum,Low,Increased,2013-2017,0,0,3,1,7
+Salmonella,Turkey_Anatum_2018-2022,Turkey,2022,Anatum,Low,Increased,2018-2022,8,1,3,1,7
+Salmonella,Turkey_Schwarzengrund_2013-2017,Turkey,2022,Schwarzengrund,Low,Increased,2013-2017,0,0,3,1,7
+Salmonella,Turkey_Schwarzengrund_2018-2022,Turkey,2022,Schwarzengrund,Low,Increased,2018-2022,7,1,3,1,7
+Salmonella,Turkey_Braenderup_2013-2017,Turkey,2022,Braenderup,No outbreak illnesses,Decreased,2013-2017,4,0,4,3,10
+Salmonella,Turkey_Braenderup_2018-2022,Turkey,2022,Braenderup,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Turkey_Javiana_2013-2017,Turkey,2022,Javiana,No outbreak illnesses,Decreased,2013-2017,20,1,4,3,10
+Salmonella,Turkey_Javiana_2018-2022,Turkey,2022,Javiana,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Turkey_Muenchen_2013-2017,Turkey,2022,Muenchen,No outbreak illnesses,Decreased,2013-2017,14,1,4,3,10
+Salmonella,Turkey_Muenchen_2018-2022,Turkey,2022,Muenchen,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Turkey_Reading_2013-2017,Turkey,2022,Reading,No outbreak illnesses,Decreased,2013-2017,375,133,4,3,10
+Salmonella,Turkey_Reading_2018-2022,Turkey,2022,Reading,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Turkey_Saintpaul_2013-2017,Turkey,2022,Saintpaul,No outbreak illnesses,Decreased,2013-2017,11,4,4,3,10
+Salmonella,Turkey_Saintpaul_2018-2022,Turkey,2022,Saintpaul,No outbreak illnesses,Decreased,2018-2022,0,0,4,3,10
+Salmonella,Beef_Brandenburg_2014-2018,Beef,2023,Brandenburg,High,Increased,2014-2018,0,0,1,1,1
+Salmonella,Beef_Brandenburg_2019-2023,Beef,2023,Brandenburg,High,Increased,2019-2023,139,51,1,1,1
+Salmonella,Beef_Typhimurium_2014-2018,Beef,2023,Typhimurium,High,Increased,2014-2018,51,11,1,1,1
+Salmonella,Beef_Typhimurium_2019-2023,Beef,2023,Typhimurium,High,Increased,2019-2023,122,32,1,1,1
+Salmonella,Beef_Newport_2014-2018,Beef,2023,Newport,Moderate,Decreased,2014-2018,550,169,2,3,6
+Salmonella,Beef_Newport_2019-2023,Beef,2023,Newport,Moderate,Decreased,2019-2023,109,42,2,3,6
+Salmonella,"Beef_I 4,[5],12:i:-_2014-2018",Beef,2023,"I 4,[5],12:i:-",Moderate,Increased,2014-2018,0,0,2,1,4
+Salmonella,"Beef_I 4,[5],12:i:-_2019-2023",Beef,2023,"I 4,[5],12:i:-",Moderate,Increased,2019-2023,25,5,2,1,4
+Salmonella,Beef_Saintpaul_2014-2018,Beef,2023,Saintpaul,Low,Increased,2014-2018,0,0,3,1,7
+Salmonella,Beef_Saintpaul_2019-2023,Beef,2023,Saintpaul,Low,Increased,2019-2023,18,17,3,1,7
+Salmonella,Beef_Oranienburg_2014-2018,Beef,2023,Oranienburg,Low,Increased,2014-2018,0,0,3,1,7
+Salmonella,Beef_Oranienburg_2019-2023,Beef,2023,Oranienburg,Low,Increased,2019-2023,18,2,3,1,7
+Salmonella,Beef_Uganda_2014-2018,Beef,2023,Uganda,Low,Increased,2014-2018,0,0,3,1,7
+Salmonella,Beef_Uganda_2019-2023,Beef,2023,Uganda,Low,Increased,2019-2023,18,1,3,1,7
+Salmonella,Beef_Dublin_2014-2018,Beef,2023,Dublin,Low,Decreased,2014-2018,38,7,3,3,9
+Salmonella,Beef_Dublin_2019-2023,Beef,2023,Dublin,Low,Decreased,2019-2023,13,9,3,3,9
+Salmonella,Beef_Braenderup_2014-2018,Beef,2023,Braenderup,No outbreak illnesses,Decreased,2014-2018,11,3,4,3,10
+Salmonella,Beef_Braenderup_2019-2023,Beef,2023,Braenderup,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Beef_Enteritidis_2014-2018,Beef,2023,Enteritidis,No outbreak illnesses,Decreased,2014-2018,6,1,4,3,10
+Salmonella,Beef_Enteritidis_2019-2023,Beef,2023,Enteritidis,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Beef_Heidelberg_2014-2018,Beef,2023,Heidelberg,No outbreak illnesses,Decreased,2014-2018,32,6,4,3,10
+Salmonella,Beef_Heidelberg_2019-2023,Beef,2023,Heidelberg,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Beef_Muenchen_2014-2018,Beef,2023,Muenchen,No outbreak illnesses,Decreased,2014-2018,3,1,4,3,10
+Salmonella,Beef_Muenchen_2019-2023,Beef,2023,Muenchen,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Beef_Potsdam_2014-2018,Beef,2023,Potsdam,No outbreak illnesses,Decreased,2014-2018,9,1,4,3,10
+Salmonella,Beef_Potsdam_2019-2023,Beef,2023,Potsdam,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Chicken_Enteritidis_2014-2018,Chicken,2023,Enteritidis,High,Stable,2014-2018,441,41,1,2,2
+Salmonella,Chicken_Enteritidis_2019-2023,Chicken,2023,Enteritidis,High,Stable,2019-2023,624,132,1,2,2
+Salmonella,Chicken_Blockley_2014-2018,Chicken,2023,Blockley,High,Increased,2014-2018,51,7,1,1,1
+Salmonella,Chicken_Blockley_2019-2023,Chicken,2023,Blockley,High,Increased,2019-2023,95,3,1,1,1
+Salmonella,Chicken_Thompson_2014-2018,Chicken,2023,Thompson,Moderate,Decreased,2014-2018,140,13,2,3,6
+Salmonella,Chicken_Thompson_2019-2023,Chicken,2023,Thompson,Moderate,Decreased,2019-2023,34,4,2,3,6
+Salmonella,Chicken_Heidelberg_2014-2018,Chicken,2023,Heidelberg,Moderate,Decreased,2014-2018,99,16,2,3,6
+Salmonella,Chicken_Heidelberg_2019-2023,Chicken,2023,Heidelberg,Moderate,Decreased,2019-2023,31,11,2,3,6
+Salmonella,Chicken_Infantis_2014-2018,Chicken,2023,Infantis,Low,Decreased,2014-2018,197,26,3,3,9
+Salmonella,Chicken_Infantis_2019-2023,Chicken,2023,Infantis,Low,Decreased,2019-2023,14,5,3,3,9
+Salmonella,Chicken_Johannesburg_2014-2018,Chicken,2023,Johannesburg,Low,Increased,2014-2018,0,0,3,1,7
+Salmonella,Chicken_Johannesburg_2019-2023,Chicken,2023,Johannesburg,Low,Increased,2019-2023,11,0,3,1,7
+Salmonella,Chicken_Braenderup_2014-2018,Chicken,2023,Braenderup,Low,Decreased,2014-2018,80,16,3,3,9
+Salmonella,Chicken_Braenderup_2019-2023,Chicken,2023,Braenderup,Low,Decreased,2019-2023,10,2,3,3,9
+Salmonella,Chicken_Sandiego_2014-2018,Chicken,2023,Sandiego,Low,Increased,2014-2018,0,0,3,1,7
+Salmonella,Chicken_Sandiego_2019-2023,Chicken,2023,Sandiego,Low,Increased,2019-2023,3,0,3,1,7
+Salmonella,Chicken_Anatum_2014-2018,Chicken,2023,Anatum,No outbreak illnesses,Decreased,2014-2018,4,0,4,3,10
+Salmonella,Chicken_Anatum_2019-2023,Chicken,2023,Anatum,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Chicken_Carmel_2014-2018,Chicken,2023,Carmel,No outbreak illnesses,Decreased,2014-2018,33,1,4,3,10
+Salmonella,Chicken_Carmel_2019-2023,Chicken,2023,Carmel,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Chicken_Derby_2014-2018,Chicken,2023,Derby,No outbreak illnesses,Decreased,2014-2018,3,0,4,3,10
+Salmonella,Chicken_Derby_2019-2023,Chicken,2023,Derby,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,"Chicken_I 4,[5],12:i:-_2014-2018",Chicken,2023,"I 4,[5],12:i:-",No outbreak illnesses,Decreased,2014-2018,95,31,4,3,10
+Salmonella,"Chicken_I 4,[5],12:i:-_2019-2023",Chicken,2023,"I 4,[5],12:i:-",No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Chicken_Muenchen_2014-2018,Chicken,2023,Muenchen,No outbreak illnesses,Decreased,2014-2018,3,0,4,3,10
+Salmonella,Chicken_Muenchen_2019-2023,Chicken,2023,Muenchen,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Chicken_Norwich_2014-2018,Chicken,2023,Norwich,No outbreak illnesses,Decreased,2014-2018,10,1,4,3,10
+Salmonella,Chicken_Norwich_2019-2023,Chicken,2023,Norwich,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Chicken_Paratyphi B_2014-2018,Chicken,2023,Paratyphi B,No outbreak illnesses,Decreased,2014-2018,7,3,4,3,10
+Salmonella,Chicken_Paratyphi B_2019-2023,Chicken,2023,Paratyphi B,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Chicken_Saintpaul_2014-2018,Chicken,2023,Saintpaul,No outbreak illnesses,Decreased,2014-2018,70,12,4,3,10
+Salmonella,Chicken_Saintpaul_2019-2023,Chicken,2023,Saintpaul,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Chicken_Typhimurium_2014-2018,Chicken,2023,Typhimurium,No outbreak illnesses,Decreased,2014-2018,85,22,4,3,10
+Salmonella,Chicken_Typhimurium_2019-2023,Chicken,2023,Typhimurium,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,"Pork_I 4,[5],12:i:-_2014-2018",Pork,2023,"I 4,[5],12:i:-",High,Stable,2014-2018,184,34,1,2,2
+Salmonella,"Pork_I 4,[5],12:i:-_2019-2023",Pork,2023,"I 4,[5],12:i:-",High,Stable,2019-2023,131,16,1,2,2
+Salmonella,Pork_Muenchen_2014-2018,Pork,2023,Muenchen,High,Increased,2014-2018,0,0,1,1,1
+Salmonella,Pork_Muenchen_2019-2023,Pork,2023,Muenchen,High,Increased,2019-2023,99,4,1,1,1
+Salmonella,Pork_Infantis_2014-2018,Pork,2023,Infantis,Moderate,Increased,2014-2018,10,5,2,1,4
+Salmonella,Pork_Infantis_2019-2023,Pork,2023,Infantis,Moderate,Increased,2019-2023,95,18,2,1,4
+Salmonella,Pork_Berta_2014-2018,Pork,2023,Berta,Low,Increased,2014-2018,0,0,3,1,7
+Salmonella,Pork_Berta_2019-2023,Pork,2023,Berta,Low,Increased,2019-2023,30,6,3,1,7
+Salmonella,Pork_Schwarzengrund_2014-2018,Pork,2023,Schwarzengrund,Low,Decreased,2014-2018,30,11,3,3,9
+Salmonella,Pork_Schwarzengrund_2019-2023,Pork,2023,Schwarzengrund,Low,Decreased,2019-2023,14,0,3,3,9
+Salmonella,Pork_Muenster_2014-2018,Pork,2023,Muenster,Low,Increased,2014-2018,0,0,3,1,7
+Salmonella,Pork_Muenster_2019-2023,Pork,2023,Muenster,Low,Increased,2019-2023,4,0,3,1,7
+Salmonella,Pork_Adelaide_2014-2018,Pork,2023,Adelaide,No outbreak illnesses,Decreased,2014-2018,48,5,4,3,10
+Salmonella,Pork_Adelaide_2019-2023,Pork,2023,Adelaide,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Pork_Agona_2014-2018,Pork,2023,Agona,No outbreak illnesses,Decreased,2014-2018,15,0,4,3,10
+Salmonella,Pork_Agona_2019-2023,Pork,2023,Agona,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Pork_Braenderup_2014-2018,Pork,2023,Braenderup,No outbreak illnesses,Decreased,2014-2018,8,2,4,3,10
+Salmonella,Pork_Braenderup_2019-2023,Pork,2023,Braenderup,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Pork_Eastbourne_2014-2018,Pork,2023,Eastbourne,No outbreak illnesses,Decreased,2014-2018,21,7,4,3,10
+Salmonella,Pork_Eastbourne_2019-2023,Pork,2023,Eastbourne,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Pork_Goldcoast_2014-2018,Pork,2023,Goldcoast,No outbreak illnesses,Decreased,2014-2018,12,1,4,3,10
+Salmonella,Pork_Goldcoast_2019-2023,Pork,2023,Goldcoast,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Pork_Javiana_2014-2018,Pork,2023,Javiana,No outbreak illnesses,Decreased,2014-2018,41,4,4,3,10
+Salmonella,Pork_Javiana_2019-2023,Pork,2023,Javiana,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Pork_Mbandaka_2014-2018,Pork,2023,Mbandaka,No outbreak illnesses,Decreased,2014-2018,17,0,4,3,10
+Salmonella,Pork_Mbandaka_2019-2023,Pork,2023,Mbandaka,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Pork_Newport_2014-2018,Pork,2023,Newport,No outbreak illnesses,Decreased,2014-2018,20,4,4,3,10
+Salmonella,Pork_Newport_2019-2023,Pork,2023,Newport,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Pork_Typhimurium_2014-2018,Pork,2023,Typhimurium,No outbreak illnesses,Decreased,2014-2018,480,49,4,3,10
+Salmonella,Pork_Typhimurium_2019-2023,Pork,2023,Typhimurium,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Pork_Uganda_2014-2018,Pork,2023,Uganda,No outbreak illnesses,Decreased,2014-2018,12,2,4,3,10
+Salmonella,Pork_Uganda_2019-2023,Pork,2023,Uganda,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Turkey_Hadar_2014-2018,Turkey,2023,Hadar,High,Increased,2014-2018,17,8,1,1,1
+Salmonella,Turkey_Hadar_2019-2023,Turkey,2023,Hadar,High,Increased,2019-2023,34,4,1,1,1
+Salmonella,Turkey_Anatum_2014-2018,Turkey,2023,Anatum,Low,Increased,2014-2018,0,0,3,1,7
+Salmonella,Turkey_Anatum_2019-2023,Turkey,2023,Anatum,Low,Increased,2019-2023,8,1,3,1,7
+Salmonella,Turkey_Enteritidis_2014-2018,Turkey,2023,Enteritidis,Low,Decreased,2014-2018,654,17,3,3,9
+Salmonella,Turkey_Enteritidis_2019-2023,Turkey,2023,Enteritidis,Low,Decreased,2019-2023,7,1,3,3,9
+Salmonella,"Turkey_I 4,[5],12:i:-_2014-2018",Turkey,2023,"I 4,[5],12:i:-",No outbreak illnesses,Decreased,2014-2018,13,0,4,3,10
+Salmonella,"Turkey_I 4,[5],12:i:-_2019-2023",Turkey,2023,"I 4,[5],12:i:-",No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Turkey_Javiana_2014-2018,Turkey,2023,Javiana,No outbreak illnesses,Decreased,2014-2018,20,1,4,3,10
+Salmonella,Turkey_Javiana_2019-2023,Turkey,2023,Javiana,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Turkey_Newport_2014-2018,Turkey,2023,Newport,No outbreak illnesses,Decreased,2014-2018,9,1,4,3,10
+Salmonella,Turkey_Newport_2019-2023,Turkey,2023,Newport,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Turkey_Reading_2014-2018,Turkey,2023,Reading,No outbreak illnesses,Decreased,2014-2018,375,133,4,3,10
+Salmonella,Turkey_Reading_2019-2023,Turkey,2023,Reading,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10
+Salmonella,Turkey_Schwarzengrund_2014-2018,Turkey,2023,Schwarzengrund,No outbreak illnesses,Decreased,2014-2018,7,1,4,3,10
+Salmonella,Turkey_Schwarzengrund_2019-2023,Turkey,2023,Schwarzengrund,No outbreak illnesses,Decreased,2019-2023,0,0,4,3,10

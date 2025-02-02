@@ -1,0 +1,1246 @@
+Year,Value,Units,Bacteria,Topic,ViewBy,ViewBy2
+1997,3000,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+1997,400,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+1997,3400,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+1997,1.23,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+1997,1.23,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+1997,5.53,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+1997,4.69,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+1997,0.86,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+1997,0.22,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+1997,0.46,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+1997,0.74,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+1997,1.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+1997,4.75,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+1997,1.23,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+1997,1.2,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+1997,1.8,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+1997,0.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+1997,1.23,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+1997,1.09,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+1997,1.37,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+1997,0.16,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+1997,0.16,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+1997,0.29,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+1997,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+1997,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+1997,0.02,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+1997,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+1997,0.05,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+1997,0.12,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+1997,0.5,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+1997,0.97,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+1997,3.4,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+1997,46.6,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+1997,37.6,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+1997,7,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+1997,9.1,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+1997,3.2,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+1998,3400,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+1998,500,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+1998,3900,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+1998,1.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+1998,1.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+1998,6.95,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+1998,1.49,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+1998,0.74,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+1998,0.39,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+1998,0.49,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+1998,0.67,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+1998,1.53,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+1998,5.75,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+1998,1.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+1998,1.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+1998,1.9,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+1998,0.7,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+1998,1.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+1998,1.29,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+1998,1.51,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+1998,0.19,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+1998,0.19,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+1998,0.28,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+1998,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+1998,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+1998,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+1998,0.03,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+1998,0.03,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+1998,0.27,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+1998,0.67,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+1998,0.91,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+1998,3.88,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+1998,46.8,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+1998,39.8,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+1998,8.2,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+1998,5.4,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+1998,3,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+1999,3009,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+1999,583,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+1999,3592,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+1999,1.3,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+1999,1.3,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+1999,6.08,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+1999,0.36,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+1999,1.06,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+1999,0.21,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+1999,0.53,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+1999,0.68,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+1999,1.55,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+1999,5.05,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+1999,1.3,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+1999,1.2,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+1999,1.5,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+1999,1.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+1999,1.3,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+1999,1.26,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+1999,1.34,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+1999,0.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+1999,0.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+1999,0.53,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+1999,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+1999,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+1999,0.02,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+1999,0.02,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+1999,0.07,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+1999,0.2,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+1999,0.47,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+1999,1.71,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+1999,3.35,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+1999,43.1,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+1999,43.2,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+1999,7.2,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+1999,5.8,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+1999,4.4,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2000,2700,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2000,700,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2000,3400,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2000,1.22,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2000,1.22,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2000,7.86,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2000,0.63,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2000,0.22,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2000,0.31,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2000,0.34,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2000,0.74,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2000,1.32,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2000,4.87,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2000,1.22,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2000,1.3,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2000,1.5,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2000,0.2,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2000,1.22,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2000,1.17,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2000,1.26,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2000,0.23,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2000,0.23,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2000,1.12,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2000,0.22,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2000,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2000,0.02,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2000,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2000,0.1,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2000,0.26,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2000,0.55,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2000,1.1,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2000,4.34,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2000,46.2,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2000,39,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2000,6.7,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2000,5.7,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2000,2.2,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2001,3175,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2001,625,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2001,3800,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2001,1.33,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2001,1.33,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2001,7.82,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2001,1.17,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2001,1.46,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2001,0.33,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2001,0.32,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2001,0.84,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2001,1.44,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2001,5.02,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2001,1.33,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2001,1.3,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2001,1.7,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2001,1,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2001,1.33,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2001,1.36,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2001,1.3,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2001,0.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2001,0.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2001,0.98,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2001,0.2,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2001,0.14,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2001,0.02,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2001,0.02,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2001,0.1,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2001,0.27,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2001,0.29,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2001,1.31,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2001,3.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2001,46.6,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2001,33.9,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2001,7,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2001,10.4,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2001,2.9,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2002,3250,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2002,600,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2002,3850,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2002,1.32,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2002,1.32,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2002,6.83,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2002,2.48,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2002,0.55,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2002,0.43,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2002,0.41,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2002,0.82,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2002,1.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2002,5.18,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2002,1.32,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2002,1.3,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2002,1.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2002,0.9,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2002,1.32,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2002,1.22,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2002,1.42,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2002,0.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2002,0.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2002,0.59,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2002,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2002,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2002,0.03,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2002,0.02,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2002,0.09,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2002,0.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2002,0.81,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2002,0.95,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2002,3.29,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2002,51.2,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2002,33.3,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2002,8.3,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2002,6.2,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2002,3.7,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2003,3175,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2003,550,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2003,3725,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2003,1.27,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2003,1.27,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2003,6.57,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2003,7.67,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2003,1.15,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2003,0.41,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2003,0.3,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2003,0.64,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2003,1.45,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2003,5.12,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2003,1.27,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2003,1.2,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2003,1.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2003,0.85,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2003,1.27,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2003,1.13,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2003,1.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2003,0.18,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2003,0.18,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2003,0.4,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2003,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2003,0.07,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2003,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2003,0.02,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2003,0.05,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2003,0.2,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2003,0.43,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2003,1.28,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2003,3,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2003,53.9,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2003,30.3,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2003,7.5,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2003,8.8,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2003,0.2,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2004,3425,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2004,725,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2004,4150,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2004,1.39,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2004,1.39,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2004,8.76,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2004,1.68,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2004,0.93,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2004,0.43,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2004,0.38,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2004,0.68,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2004,1.47,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2004,5.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2004,1.39,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2004,1.3,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2004,1.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2004,2,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2004,1.39,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2004,1.32,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2004,1.46,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2004,0.24,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2004,0.24,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2004,1.46,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2004,0.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2004,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2004,0.03,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2004,0.02,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2004,0.06,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2004,0.31,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2004,0.75,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2004,1.3,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2004,2.88,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2004,54.6,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2004,30.6,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2004,7.4,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2004,8.1,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2004,0,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2005,3600,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2005,600,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2005,4200,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2005,1.38,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2005,1.38,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2005,9.37,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2005,1.25,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2005,0.84,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2005,0.23,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2005,0.45,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2005,0.64,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2005,1.71,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2005,5.29,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2005,1.38,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2005,1.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2005,1.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2005,1,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2005,1.38,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2005,1.27,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2005,1.47,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2005,0.19,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2005,0.19,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2005,1.46,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2005,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2005,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2005,0.02,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2005,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2005,0.05,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2005,0.16,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2005,0.59,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2005,1.01,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2005,3.07,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2005,55.7,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2005,30.2,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2005,6.2,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2005,7.7,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2005,0.2,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2006,4100,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2006,700,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2006,4800,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2006,1.56,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2006,1.56,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2006,9.87,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2006,1.67,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2006,1.46,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2006,0.27,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2006,0.41,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2006,0.77,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2006,1.62,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2006,6.42,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2006,1.56,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2006,1.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2006,1.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2006,1.2,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2006,1.56,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2006,1.38,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2006,1.74,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2006,0.2,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2006,0.2,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2006,0.84,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2006,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2006,0.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2006,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2006,0.04,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2006,0.1,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2006,0.14,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2006,0.38,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2006,0.86,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2006,4.6,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2006,46,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2006,37.1,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2006,7.8,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2006,8.5,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2006,0.7,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2007,4000,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2007,675,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2007,4675,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2007,1.53,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2007,1.53,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2007,9.91,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2007,2.21,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2007,1.17,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2007,0.14,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2007,0.43,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2007,0.88,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2007,1.7,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2007,5.84,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2007,1.53,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2007,1.5,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2007,1.7,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2007,1.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2007,1.53,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2007,1.39,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2007,1.65,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2007,0.2,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2007,0.2,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2007,1.39,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2007,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2007,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2007,0.02,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2007,0.02,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2007,0.1,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2007,0.11,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2007,0.69,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2007,0.79,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2007,3.95,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2007,54.4,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2007,30.6,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2007,6.6,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2007,6.7,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2007,1.8,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2008,4025,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2008,675,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2008,4700,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2008,1.52,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2008,1.52,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2008,9.69,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2008,2.39,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2008,1.22,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2008,0.29,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2008,0.39,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2008,0.73,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2008,1.46,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2008,6.09,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2008,1.52,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2008,1.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2008,1.3,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2008,0.9,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2008,1.52,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2008,1.45,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2008,1.57,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2008,0.2,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2008,0.2,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2008,0.99,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2008,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2008,0.07,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2008,0.03,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2008,0.01,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2008,0.05,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2008,0.15,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2008,0.53,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2008,1.08,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2008,4.14,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2008,52.6,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2008,28.4,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2008,6.8,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2008,8.2,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2008,2.9,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2009,4300,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2009,675,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2009,4975,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2009,1.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2009,1.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2009,8.93,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2009,4.14,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2009,0.86,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2009,0.33,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2009,0.42,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2009,0.73,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2009,1.77,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2009,6.21,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2009,1.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2009,1.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2009,1.9,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2009,1.3,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2009,1.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2009,1.54,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2009,1.67,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2009,0.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2009,0.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2009,0.6,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2009,0.2,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2009,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2009,0.03,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2009,0.05,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2009,0.02,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2009,0.13,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2009,0.6,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2009,1.4,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2009,3.83,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2009,53.9,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2009,26.1,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2009,4.8,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2009,11.2,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2009,3.6,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2010,4240,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2010,840,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2010,5080,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2010,1.62,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2010,1.62,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2010,9.03,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2010,1.86,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2010,1.32,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2010,0.41,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2010,0.46,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2010,0.7,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2010,1.66,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2010,6.36,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2010,1.62,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2010,1.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2010,1.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2010,1.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2010,1.62,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2010,1.54,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2010,1.7,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2010,0.26,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2010,0.26,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2010,1.5,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2010,0.19,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2010,0.06,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2010,0.01,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2010,0.03,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2010,0.09,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2010,0.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2010,0.85,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2010,0.98,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2010,4.35,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2010,53.7,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2010,28.4,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2010,6.8,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2010,8.8,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2010,3.1,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2011,4430,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2011,710,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2011,5140,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2011,1.63,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2011,1.63,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2011,6.54,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2011,2.24,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2011,0.72,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2011,0.3,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2011,0.53,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2011,0.67,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2011,1.76,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2011,6.57,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2011,1.63,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2011,1.7,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2011,1.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2011,1.2,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2011,1.63,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2011,1.39,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2011,1.85,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2011,0.22,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2011,0.22,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2011,0.19,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2011,0.19,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2011,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2011,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2011,0.04,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2011,0.05,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2011,0.19,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2011,0.41,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2011,1.58,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2011,4.17,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2011,59.4,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2011,19.9,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2011,7.8,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2011,10.6,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2011,2.3,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2012,4485,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2012,725,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2012,5210,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2012,1.64,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2012,1.64,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2012,7.75,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2012,3,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2012,1.34,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2012,0.27,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2012,0.47,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2012,0.63,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2012,1.92,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2012,6.08,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2012,1.64,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2012,1.7,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2012,1.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2012,1.3,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2012,1.64,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2012,1.5,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2012,1.77,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2012,0.22,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2012,0.22,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2012,0.19,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2012,0.19,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2012,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2012,0.01,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2012,0.06,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2012,0.05,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2012,0.2,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2012,0.51,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2012,1.38,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2012,3.41,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2012,57.6,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2012,24.5,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2012,5.5,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2012,11.3,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2012,1.9,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2013,4850,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2013,730,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2013,5580,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2013,1.75,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2013,1.75,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2013,8.86,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2013,2.25,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2013,1.17,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2013,0.38,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2013,0.42,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2013,0.82,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2013,1.84,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2013,6.38,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2013,1.75,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2013,1.8,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2013,1.9,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2013,1,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2013,1.75,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2013,1.63,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2013,1.83,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2013,0.22,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2013,0.22,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2013,0.57,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2013,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2013,0.06,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2013,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2013,0.03,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2013,0.01,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2013,0.22,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2013,0.51,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2013,1.42,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2013,3.33,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2013,56.4,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2013,24.3,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2013,6.8,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2013,11.5,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2013,1.9,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2014,4460,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2014,810,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2014,5270,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2014,1.62,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2014,1.62,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2014,10.39,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2014,2.64,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2014,1.36,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2014,0.36,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2014,0.47,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2014,0.57,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2014,1.48,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2014,6.07,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2014,1.62,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2014,1.7,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2014,1.5,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2014,1.1,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2014,1.62,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2014,1.51,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2014,1.74,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2014,0.25,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2014,0.25,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2014,0.94,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2014,0.19,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2014,0.06,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2014,0.03,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2014,0.03,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2014,0.08,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2014,0.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2014,0.4,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2014,1.45,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2014,3.78,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2014,59.9,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2014,22.8,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2014,6.4,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2014,10.6,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2014,0.9,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2015,5095,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2015,1005,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2015,6100,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2015,1.9,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2015,1.9,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2015,8.82,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2015,2.44,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2015,1.36,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2015,0.44,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2015,0.45,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2015,0.82,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2015,2.18,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2015,6.43,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2015,1.9,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2015,1.9,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2015,1.9,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2015,1.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2015,1.9,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2015,1.78,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2015,1.96,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2015,0.31,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2015,0.31,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2015,0.56,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2015,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2015,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2015,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2015,0.05,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2015,0.08,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2015,0.42,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2015,0.63,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2015,1.47,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2015,3.95,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2015,57.4,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2015,23.5,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2015,6.8,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2015,11.5,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2015,0.9,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2016,5500,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2016,900,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2016,6400,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2016,2,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2016,1.96,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2016,11.66,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2016,2.79,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2016,1.37,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2016,0.46,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2016,0.48,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2016,0.8,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2016,1.91,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2016,6.95,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2016,2,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2016,2.1,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2016,1.8,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2016,1.3,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2016,1.96,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2016,1.87,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2016,2.05,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2016,0.29,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2016,0.29,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2016,0.71,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2016,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2016,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2016,0.01,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2016,0.05,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2016,0.02,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2016,0.27,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2016,0.75,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2016,1.32,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2016,4.31,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2016,57.3,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2016,22.9,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2016,6.2,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2016,12.9,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2016,1.4,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2017,6640,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2017,910,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2017,7550,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2017,2.29,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2017,2.29,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2017,9.47,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2017,4.69,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2017,1.49,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2017,0.36,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2017,0.63,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2017,1.17,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2017,2.48,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2017,7.67,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2017,2.3,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2017,2.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2017,2.6,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2017,1.1,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2017,2.29,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2017,2.14,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2017,2.44,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2017,0.27,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2017,0.27,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2017,0.57,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2017,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2017,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2017,0.01,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2017,0.03,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2017,0.1,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2017,0.24,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2017,0.43,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2017,1.6,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2017,4.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2017,56.1,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2017,26.6,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2017,6.8,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2017,9.9,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2017,1.37,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2018,6030,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2018,810,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2018,6840,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2018,2.08,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2018,2.08,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2018,10.07,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2018,3.03,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2018,1.17,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2018,0.32,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2018,0.74,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2018,0.95,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2018,2.31,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2018,6.67,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2018,2.1,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2018,2.1,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2018,2.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2018,1.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2018,2.08,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2018,2.01,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2018,2.15,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2018,0.25,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2018,0.25,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2018,0.58,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2018,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2018,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2018,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2018,0.06,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2018,0.06,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2018,0.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2018,0.46,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2018,1.37,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2018,3.69,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2018,53.1,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2018,25.1,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2018,7.1,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2018,13.5,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2018,1.6,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2019,9.01,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2019,3.1,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2019,1.31,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2019,0.29,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2019,0.71,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2019,0.96,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2019,2.33,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2019,7.08,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2019,2.16,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2019,2.23,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2019,2.38,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2019,2.16,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2019,1.07,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2019,7130,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2019,6.8,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2019,23,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2019,57.3,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2019,11.6,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2019,1.7,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2019,2.28,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2019,2.03,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2019,0.59,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2019,0.19,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2019,0.06,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2019,0.03,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2019,0.04,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2019,0.09,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2019,0.24,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2019,0.76,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2019,1.56,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2019,4,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2019,0.31,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2019,1050,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2019,6080,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2019,2.16,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2019,2.16,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2019,0.31,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2020,4.58,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2020,0.2,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2020,0.38,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2020,0.25,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2020,0.52,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2020,0.77,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2020,1.28,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2020,1.13,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2020,3.13,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2020,1.09,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2020,1.56,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2020,1.13,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2020,0.62,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2020,3700,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2020,4.3,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2020,31.4,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2020,50.1,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2020,12.7,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2020,2.5,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2020,1.11,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2020,1.16,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2020,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2020,0.2,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2020,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2020,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2020,0.06,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2020,0.02,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2020,0.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2020,0.25,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2020,0.51,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2020,1.86,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2020,0.14,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2020,470,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2020,3230,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2020,1.13,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2020,1.13,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2020,0.14,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2021,4.16,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2021,2.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2021,0.71,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2021,0.15,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2021,0.4,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2021,0.71,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2021,1.19,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2021,0.91,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2021,2.03,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2021,0.88,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2021,1.3,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2021,0.91,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2021,0.48,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2021,2980,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2021,10.4,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2021,17.1,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2021,46.5,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2021,19,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2021,8,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2021,0.87,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2021,0.95,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2021,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2021,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2021,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2021,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2021,0,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2021,0.09,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2021,0.15,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2021,0.33,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2021,0.47,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2021,0.65,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2021,0.11,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2021,370,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2021,2610,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2021,0.91,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2021,0.91,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2021,0.11,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2022,8.67,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,<1 year old
+2022,2.47,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,1 year old
+2022,1.84,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,2-4 years old
+2022,0.45,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,5-17 years old
+2022,0.62,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,18-34 years old
+2022,1.13,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,35-49 years old
+2022,2.01,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,50-64 years old
+2022,1.78,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,Overall
+2022,4.66,"Per 100,000 population",Haemophilus influenzae,Case rates,Age,>=65 years old
+2022,1.84,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,White
+2022,2.2,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Black
+2022,1.78,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Overall
+2022,0.77,"Per 100,000 population",Haemophilus influenzae,Case rates,Race,Other races
+2022,5940,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Total cases
+2022,8.8,Percent,Haemophilus influenzae,Syndromes,ALL,Meningitis
+2022,21.5,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia without focus
+2022,49.7,Percent,Haemophilus influenzae,Syndromes,ALL,Bacteremia with pneumonia
+2022,14.6,Percent,Haemophilus influenzae,Syndromes,ALL,Other
+2022,6.3,Percent,Haemophilus influenzae,Syndromes,ALL,Unknown
+2022,1.81,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Female
+2022,1.76,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Male
+2022,0.61,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,<1 year old
+2022,0.21,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,1 year old
+2022,0.07,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,2-4 years old
+2022,0.03,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,5-17 years old
+2022,0.02,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,18-34 years old
+2022,0.06,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,35-49 years old
+2022,0.25,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,50-64 years old
+2022,0.66,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,65-74 years old
+2022,0.87,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,75-84 years old
+2022,1.55,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,>=85 years old
+2022,0.22,"Per 100,000 population",Haemophilus influenzae,Death rates,Age,Overall
+2022,720,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of deaths
+2022,5220,Counts,Haemophilus influenzae,Number of cases and deaths,ALL,Number of survivals
+2022,1.78,"Per 100,000 population",Haemophilus influenzae,Case rates,Overall,
+2022,1.78,"Per 100,000 population",Haemophilus influenzae,Case rates,Sex,Overall
+2022,0.22,"Per 100,000 population",Haemophilus influenzae,Death rates,Overall,
+2022,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2022,0.35,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2022,1.4,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2022,0.16,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2022,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2022,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2022,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2022,0.05,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2022,0.15,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2021,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2021,0.25,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2021,0.62,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2021,0.13,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2021,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2021,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2021,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2021,0.05,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2021,0.07,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2020,0.02,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2020,0.24,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2020,0.87,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2020,0.1,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2020,0.02,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2020,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2020,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2020,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2020,0.11,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2019,0.04,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2019,0.58,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2019,1.54,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2019,0.17,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2019,0.04,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2019,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2019,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2019,0.11,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2019,0.3,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2018,0.02,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2018,0.5,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2018,1.56,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2018,0.15,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2018,0.02,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2018,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2018,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2018,0.08,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2018,0.27,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2017,0.02,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2017,0.59,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2017,1.68,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2017,0.14,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2017,0.02,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2017,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2017,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2017,0.1,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2017,0.36,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2016,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2016,0.48,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2016,1.45,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2016,0.14,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2016,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2016,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2016,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2016,0.09,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2016,0.25,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2015,0.02,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2015,0.45,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2015,1.41,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2015,0.14,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2015,0.02,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2015,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2015,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2015,0.08,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2015,0.23,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2014,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2014,0.42,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2014,1.17,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2014,0.11,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2014,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2014,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2014,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2014,0.06,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2014,0.25,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2013,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2013,0.46,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2013,1.25,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2013,0.1,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2013,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2013,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2013,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2013,0.09,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2013,0.28,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2012,0.02,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2012,0.45,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2012,1.16,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2012,0.08,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2012,0.02,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2012,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2012,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2012,0.08,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2012,0.29,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2011,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2011,0.41,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2011,1.17,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2011,0.06,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2011,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2011,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2011,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2011,0.08,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2011,0.27,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2010,0.04,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2010,0.47,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2010,1.11,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2010,0.09,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2010,0.04,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2010,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2010,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2010,0.07,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2010,0.31,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2009,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2009,0.41,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2009,1.17,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2009,0.07,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2009,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2009,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2009,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2009,0.07,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2009,0.27,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2008,0.05,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2008,0.42,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2008,1.04,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2008,0.05,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2008,0.05,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2008,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2008,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2008,0.1,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2008,0.27,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2007,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2007,0.43,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2007,1.07,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2007,0.05,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2007,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2007,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2007,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2007,0.1,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2007,0.28,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2006,0.04,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2006,0.39,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2006,1.12,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2006,0.04,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2006,0.04,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2006,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2006,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2006,0.07,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2006,0.28,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2005,0.04,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2005,0.39,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2005,0.95,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2005,0.04,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2005,0.04,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2005,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2005,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2005,0.08,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2005,0.27,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2004,0.05,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2004,0.37,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2004,0.97,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2004,0.05,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2004,0.05,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2004,0.01,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2004,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2004,0.08,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2004,0.23,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2003,0.04,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2003,0.31,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2003,0.91,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2003,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2003,0.04,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2003,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2003,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2003,0.07,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2003,0.24,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2002,0.04,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2002,0.46,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2002,0.82,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2002,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2002,0.04,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2002,0.01,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2002,0.02,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2002,0.11,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2002,0.3,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2001,0.06,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2001,0.34,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2001,0.93,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2001,0.02,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2001,0.06,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2001,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2001,0.01,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2001,0.06,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2001,0.26,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2000,0.14,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+2000,0.31,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+2000,0.76,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+2000,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+2000,0.14,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+2000,0.01,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+2000,0.01,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+2000,0.08,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+2000,0.21,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+1999,0.13,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+1999,0.21,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+1999,0.95,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+1999,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+1999,0.13,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+1999,0.01,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+1999,0,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+1999,0.04,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+1999,0.16,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+1998,0.17,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+1998,0.38,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+1998,0.85,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+1998,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+1998,0.17,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+1998,0.01,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+1998,0.03,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+1998,0.06,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+1998,0.27,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+1997,0.3,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Hib
+1997,0.38,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-b
+1997,0.54,"Per 100,000 population",Haemophilus influenzae,Serotypes,Overall,Non-typeable
+1997,0.01,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hia
+1997,0.3,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hib
+1997,0.02,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hic
+1997,0.01,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hid
+1997,0.06,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hie
+1997,0.28,"Per 100,000 population",Haemophilus influenzae,Serotypes,a through f,Hif
+2022,2.31,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,<1 year old,Hia
+2022,0.36,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,1-4 years old,Hia
+2022,0.04,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,5-17 years old,Hia
+2022,0.03,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,18-34 years old,Hia
+2022,0.08,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,35-49 years old,Hia
+2022,0.2,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,50-64 years old,Hia
+2022,0.2,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,≥65 years old,Hia
+2022,0.36,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,<1 year old,Hib
+2022,0.09,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,1-4 years old,Hib
+2022,0.01,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,5-17 years old,Hib
+2022,0.01,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,18-34 years old,Hib
+2022,0.03,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,35-49 years old,Hib
+2022,0.03,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,50-64 years old,Hib
+2022,0.04,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,≥65 years old,Hib
+2022,0,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,<1 year old,Hic
+2022,0,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,1-4 years old,Hic
+2022,0,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,5-17 years old,Hic
+2022,0,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,18-34 years old,Hic
+2022,0,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,35-49 years old,Hic
+2022,0,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,50-64 years old,Hic
+2022,0,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,≥65 years old,Hic
+2022,0,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,<1 year old,Hid
+2022,0,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,1-4 years old,Hid
+2022,0,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,5-17 years old,Hid
+2022,0,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,18-34 years old,Hid
+2022,0,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,35-49 years old,Hid
+2022,0,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,50-64 years old,Hid
+2022,0,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,≥65 years old,Hid
+2022,0.08,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,<1 year old,Hie
+2022,0.01,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,1-4 years old,Hie
+2022,0.01,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,5-17 years old,Hie
+2022,0.01,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,18-34 years old,Hie
+2022,0.02,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,35-49 years old,Hie
+2022,0.09,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,50-64 years old,Hie
+2022,0.24,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,≥65 years old,Hie
+2022,0.28,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,<1 year old,Hif
+2022,0.17,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,1-4 years old,Hif
+2022,0.03,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,5-17 years old,Hif
+2022,0.03,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,18-34 years old,Hif
+2022,0.07,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,35-49 years old,Hif
+2022,0.29,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,50-64 years old,Hif
+2022,0.52,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,≥65 years old,Hif
+2022,4.35,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,<1 year old,Non-typeable
+2022,0.73,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,1-4 years old,Non-typeable
+2022,0.2,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,5-17 years old,Non-typeable
+2022,0.51,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,18-34 years old,Non-typeable
+2022,0.7,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,35-49 years old,Non-typeable
+2022,1.21,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,50-64 years old,Non-typeable
+2022,3.68,"Per 100,000 population",Haemophilus influenzae,Age and Serotypes,≥65 years old,Non-typeable

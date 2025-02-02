@@ -1,0 +1,20 @@
+Common Core
+Contact Name,Vax Views
+Contact Email,VaxView@cdc.gov
+Publisher,National Center for Immunization and Respiratory Diseases (NCIRD)
+References,IPSOS Knowledge Panel Omnibus and NORC AmeriSpeak Omnibus Surveys
+Bureau Code,009:20
+Program Code,009:020
+Homepage,https://www.cdc.gov/flu/fluvaxview/dashboard/vaccination-dashboard.html
+Language,English
+Suggested Citation,"National Center for Immunization and Respiratory Diseases, US Centers for Disease Control and Prevention. Cumulative Influenza Vaccination Coverage, Adults 18 years and older, by Age Group and Race/Ethnicity, United States, 2020-21, IPSOS Knowledge Panel Omnibus and NORC AmeriSpeak Omnibus Surveys"
+Data Quality
+Geospatial Resolution,National
+Update Frequency,Weekly
+Temporal Applicability,2020-2021
+Geographic Coverage,United States
+Topics
+Category,Vaccinations
+Tags,"flu, flu vaccination, vaccination, adults, age group, race, ethnicity"
+Licensing and Attribution
+License,Public Domain U.S. Government

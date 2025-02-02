@@ -1,0 +1,225 @@
+Data as of,Start Date,End Date,Education Level,Race or Hispanic Origin,Sex,Age Group,COVID-19 Deaths,Total Deaths
+02/03/2021,01/01/2020,01/30/2021,Associate degree or some college,Hispanic,Female,0-17 years,0,2
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Hispanic,Female,18-49 years,423,3117
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Hispanic,Female,50-64 years,857,4153
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Hispanic,Female,65 years and over,1793,10225
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Hispanic,Male,0-17 years,0,1
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Hispanic,Male,18-49 years,737,5676
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Hispanic,Male,50-64 years,1592,6183
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Hispanic,Male,65 years and over,2655,11544
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic American Indian or Alaska Native,Female,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic American Indian or Alaska Native,Female,18-49 years,82,591
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic American Indian or Alaska Native,Female,50-64 years,176,794
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic American Indian or Alaska Native,Female,65 years and over,362,1474
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic American Indian or Alaska Native,Male,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic American Indian or Alaska Native,Male,18-49 years,98,794
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic American Indian or Alaska Native,Male,50-64 years,200,890
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic American Indian or Alaska Native,Male,65 years and over,328,1370
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Asian,Female,0-17 years,0,1
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Asian,Female,18-49 years,50,530
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Asian,Female,50-64 years,99,859
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Asian,Female,65 years and over,528,4329
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Asian,Male,0-17 years,0,1
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Asian,Male,18-49 years,117,1153
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Asian,Male,50-64 years,329,1573
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Asian,Male,65 years and over,976,5344
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Black,Female,0-17 years,0,1
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Black,Female,18-49 years,486,5776
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Black,Female,50-64 years,1487,11624
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Black,Female,65 years and over,4026,27769
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Black,Male,0-17 years,0,2
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Black,Male,18-49 years,598,8501
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Black,Male,50-64 years,1586,11706
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Black,Male,65 years and over,3324,21412
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,18-49 years,15,77
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,50-64 years,23,140
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,65 years and over,23,204
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,18-49 years,19,121
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,50-64 years,44,161
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,65 years and over,40,271
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic White,Female,0-17 years,0,4
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic White,Female,18-49 years,409,14426
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic White,Female,50-64 years,2077,35242
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic White,Female,65 years and over,19108,198981
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic White,Male,0-17 years,0,6
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic White,Male,18-49 years,618,23605
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic White,Male,50-64 years,3036,45365
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Non-Hispanic White,Male,65 years and over,20535,191318
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Other/Unknown,Female,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Other/Unknown,Female,18-49 years,11,413
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Other/Unknown,Female,50-64 years,39,449
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Other/Unknown,Female,65 years and over,103,1151
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Other/Unknown,Male,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Other/Unknown,Male,18-49 years,26,673
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Other/Unknown,Male,50-64 years,54,572
+02/02/2021,01/01/2020,01/30/2021,Associate degree or some college,Other/Unknown,Male,65 years and over,144,1189
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Hispanic,Female,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Hispanic,Female,18-49 years,148,1207
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Hispanic,Female,50-64 years,331,1995
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Hispanic,Female,65 years and over,1120,6973
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Hispanic,Male,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Hispanic,Male,18-49 years,279,1648
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Hispanic,Male,50-64 years,966,3100
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Hispanic,Male,65 years and over,2049,9468
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic American Indian or Alaska Native,Female,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic American Indian or Alaska Native,Female,18-49 years,21,100
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic American Indian or Alaska Native,Female,50-64 years,47,216
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic American Indian or Alaska Native,Female,65 years and over,129,619
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic American Indian or Alaska Native,Male,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic American Indian or Alaska Native,Male,18-49 years,18,117
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic American Indian or Alaska Native,Male,50-64 years,42,189
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic American Indian or Alaska Native,Male,65 years and over,137,600
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Asian,Female,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Asian,Female,18-49 years,69,990
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Asian,Female,50-64 years,226,1797
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Asian,Female,65 years and over,1230,8630
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Asian,Male,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Asian,Male,18-49 years,156,1446
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Asian,Male,50-64 years,627,2931
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Asian,Male,65 years and over,2667,14877
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Black,Female,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Black,Female,18-49 years,254,2576
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Black,Female,50-64 years,710,5597
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Black,Female,65 years and over,2385,18763
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Black,Male,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Black,Male,18-49 years,243,2464
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Black,Male,50-64 years,878,5131
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Black,Male,65 years and over,2405,14985
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,18-49 years,3,28
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,50-64 years,6,34
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,65 years and over,16,119
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,18-49 years,6,40
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,50-64 years,9,64
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,65 years and over,27,148
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic White,Female,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic White,Female,18-49 years,271,9009
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic White,Female,50-64 years,1241,23436
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic White,Female,65 years and over,15888,170713
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic White,Male,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic White,Male,18-49 years,389,12479
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic White,Male,50-64 years,2326,32260
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Non-Hispanic White,Male,65 years and over,27925,252824
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Other/Unknown,Female,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Other/Unknown,Female,18-49 years,7,203
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Other/Unknown,Female,50-64 years,23,278
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Other/Unknown,Female,65 years and over,113,937
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Other/Unknown,Male,0-17 years,0,0
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Other/Unknown,Male,18-49 years,13,217
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Other/Unknown,Male,50-64 years,42,314
+02/02/2021,01/01/2020,01/30/2021,Bachelor’s degree or more,Other/Unknown,Male,65 years and over,166,1100
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Hispanic,Female,0-17 years,30,2837
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Hispanic,Female,18-49 years,1552,9268
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Hispanic,Female,50-64 years,4438,16059
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Hispanic,Female,65 years and over,17262,77911
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Hispanic,Male,0-17 years,43,4032
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Hispanic,Male,18-49 years,4558,28423
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Hispanic,Male,50-64 years,10561,33870
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Hispanic,Male,65 years and over,21978,74487
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic American Indian or Alaska Native,Female,0-17 years,1,154
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic American Indian or Alaska Native,Female,18-49 years,163,1303
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic American Indian or Alaska Native,Female,50-64 years,311,1666
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic American Indian or Alaska Native,Female,65 years and over,907,4281
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic American Indian or Alaska Native,Male,0-17 years,3,227
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic American Indian or Alaska Native,Male,18-49 years,259,2467
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic American Indian or Alaska Native,Male,50-64 years,478,2498
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic American Indian or Alaska Native,Male,65 years and over,986,4116
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Asian,Female,0-17 years,2,391
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Asian,Female,18-49 years,102,823
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Asian,Female,50-64 years,315,2280
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Asian,Female,65 years and over,3626,24021
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Asian,Male,0-17 years,5,478
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Asian,Male,18-49 years,195,2001
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Asian,Male,50-64 years,735,3885
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Asian,Male,65 years and over,3101,15748
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Black,Female,0-17 years,17,3338
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Black,Female,18-49 years,956,12486
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Black,Female,50-64 years,3338,24904
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Black,Female,65 years and over,15411,96954
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Black,Male,0-17 years,29,4953
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Black,Male,18-49 years,1520,30351
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Black,Male,50-64 years,5251,43914
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Black,Male,65 years and over,15884,88867
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,0-17 years,2,48
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,18-49 years,27,207
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,50-64 years,55,341
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,65 years and over,113,812
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,0-17 years,1,59
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,18-49 years,54,400
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,50-64 years,106,499
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,65 years and over,141,777
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic White,Female,0-17 years,21,5342
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic White,Female,18-49 years,862,30105
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic White,Female,50-64 years,5199,81308
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic White,Female,65 years and over,76871,670295
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic White,Male,0-17 years,23,7762
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic White,Male,18-49 years,1478,67013
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic White,Male,50-64 years,8904,144741
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Non-Hispanic White,Male,65 years and over,66453,527593
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Other/Unknown,Female,0-17 years,2,481
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Other/Unknown,Female,18-49 years,19,695
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Other/Unknown,Female,50-64 years,80,911
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Other/Unknown,Female,65 years and over,394,3201
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Other/Unknown,Male,0-17 years,1,674
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Other/Unknown,Male,18-49 years,44,1601
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Other/Unknown,Male,50-64 years,141,1503
+02/02/2021,01/01/2020,01/30/2021,High school graduate/GED or less,Other/Unknown,Male,65 years and over,383,2813
+02/02/2021,01/01/2020,01/30/2021,Unknown,Hispanic,Female,0-17 years,0,236
+02/02/2021,01/01/2020,01/30/2021,Unknown,Hispanic,Female,18-49 years,49,221
+02/02/2021,01/01/2020,01/30/2021,Unknown,Hispanic,Female,50-64 years,162,550
+02/02/2021,01/01/2020,01/30/2021,Unknown,Hispanic,Female,65 years and over,684,2406
+02/02/2021,01/01/2020,01/30/2021,Unknown,Hispanic,Male,0-17 years,0,324
+02/02/2021,01/01/2020,01/30/2021,Unknown,Hispanic,Male,18-49 years,175,937
+02/02/2021,01/01/2020,01/30/2021,Unknown,Hispanic,Male,50-64 years,531,1793
+02/02/2021,01/01/2020,01/30/2021,Unknown,Hispanic,Male,65 years and over,1140,3533
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic American Indian or Alaska Native,Female,0-17 years,0,22
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic American Indian or Alaska Native,Female,18-49 years,1,20
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic American Indian or Alaska Native,Female,50-64 years,4,29
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic American Indian or Alaska Native,Female,65 years and over,26,116
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic American Indian or Alaska Native,Male,0-17 years,0,17
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic American Indian or Alaska Native,Male,18-49 years,2,26
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic American Indian or Alaska Native,Male,50-64 years,13,64
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic American Indian or Alaska Native,Male,65 years and over,37,116
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Asian,Female,0-17 years,0,26
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Asian,Female,18-49 years,7,40
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Asian,Female,50-64 years,20,126
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Asian,Female,65 years and over,239,1183
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Asian,Male,0-17 years,0,34
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Asian,Male,18-49 years,10,93
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Asian,Male,50-64 years,50,285
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Asian,Male,65 years and over,226,886
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Black,Female,0-17 years,1,307
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Black,Female,18-49 years,31,299
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Black,Female,50-64 years,92,720
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Black,Female,65 years and over,486,2532
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Black,Male,0-17 years,2,380
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Black,Male,18-49 years,36,629
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Black,Male,50-64 years,276,2038
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Black,Male,65 years and over,872,4061
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,0-17 years,0,2
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,18-49 years,1,2
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,50-64 years,3,12
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Native Hawaiian or Other Pacific Islander,Female,65 years and over,8,30
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,0-17 years,0,6
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,18-49 years,2,9
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,50-64 years,3,16
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic Native Hawaiian or Other Pacific Islander,Male,65 years and over,9,26
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic White,Female,0-17 years,1,527
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic White,Female,18-49 years,26,649
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic White,Female,50-64 years,189,2470
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic White,Female,65 years and over,1562,11197
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic White,Male,0-17 years,1,676
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic White,Male,18-49 years,60,1441
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic White,Male,50-64 years,471,6154
+02/02/2021,01/01/2020,01/30/2021,Unknown,Non-Hispanic White,Male,65 years and over,2228,14853
+02/02/2021,01/01/2020,01/30/2021,Unknown,Other/Unknown,Female,0-17 years,0,65
+02/02/2021,01/01/2020,01/30/2021,Unknown,Other/Unknown,Female,18-49 years,10,137
+02/02/2021,01/01/2020,01/30/2021,Unknown,Other/Unknown,Female,50-64 years,48,417
+02/02/2021,01/01/2020,01/30/2021,Unknown,Other/Unknown,Female,65 years and over,300,1264
+02/02/2021,01/01/2020,01/30/2021,Unknown,Other/Unknown,Male,0-17 years,1,92
+02/02/2021,01/01/2020,01/30/2021,Unknown,Other/Unknown,Male,18-49 years,29,351
+02/02/2021,01/01/2020,01/30/2021,Unknown,Other/Unknown,Male,50-64 years,181,1429
+02/02/2021,01/01/2020,01/30/2021,Unknown,Other/Unknown,Male,65 years and over,627,2708

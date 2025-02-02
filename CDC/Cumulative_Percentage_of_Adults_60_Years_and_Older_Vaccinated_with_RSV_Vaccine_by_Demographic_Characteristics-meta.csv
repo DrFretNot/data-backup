@@ -1,0 +1,21 @@
+Common Core
+Contact Name,VaxView Team
+Contact Email,VaxView@cdc.gov
+Publisher,National Center for Immunization and Respiratory Diseases (NCIRD)
+Bureau Code,009:20
+Program Code,009:020
+Geographic Coverage,"United States- National, Region, State"
+Temporal Applicability,2023-2024
+Update Frequency,Weekly
+Homepage,https://www.cdc.gov/vaccines/imz-managers/coverage/rsvvaxview/adults-60-coverage-intent.html
+Language,English
+Data Quality
+Suggested Citation,"National Center for Immunization and Respiratory Diseases, U.S. Centers for Disease Control and Prevention. Cumulative Percentage of Adults 60 Years and Older Vaccinated with RSV Vaccine by Demographic, United States"
+Geospatial Resolution,"National, Region, State"
+Footnotes,"National estimates include 50 states, Washington D.C., Puerto Rico, and U.S. Virgin Islands. The Office of Intergovernmental and External Affairs hosts 10 Regional Offices that directly serve state and local organizations; information about Regions and which states are included in each region is available at https://www.hhs.gov/about/agencies/iea/regional-offices/index.html. Vaccination coverage with the updated 2023-24 COVID-19 vaccine is defined as receipt of at least one vaccination since September 14, 2023. Vaccination coverage estimates are based on all interviews through the current week and represent approximately the cumulative percent vaccinated by mid-week. Each week, estimates for prior weeks are recalculated using the additional interviews conducted that week (combined with all previous interviews). Cumulative vaccination coverage estimates are suppressed when the cumulative sample size is <30 or current week sample size is <5. Confidence Intervals (CI) describe the level of uncertainty around an estimate because a sample was taken. 95% CIs represent the range of values that would result if the data collection had been repeated many times. For a 95% confidence interval, if the sampling method is repeated many times, the true value would fall within this interval at least 95% of the time. Wider CIs reflect larger random error in estimates resulting from survey sampling. Estimates from the NIS-ACM may differ from estimates based on other data sources, and in addition to random error associated with taking a sample, are subject to errors resulting from incomplete sample frame (exclusion of households without cell phones), selection bias (survey respondents may be more likely to be vaccinated than non-respondents), and errors in self-reported vaccination status. Estimates are weighted to selected sociodemographic characteristics of the U.S. population to reduce possible bias from incomplete sample frame and selection bias. The ‘Multiple or Other Races, Non-Hispanic’ category includes non-Hispanic persons who selected multiple races or a race other than American Indian/Alaskan Native, Asian, Black, Native Hawaiian or other Pacific Islander, or White."
+Topics
+Category,Vaccinations
+Tags,"vaccination, rsv, older adults, nis-acm"
+Licensing and Attribution
+License,Public Domain U.S. Government
+Source Link,https://www.cdc.gov/vaccines/imz-managers/coverage/respvaxview/index.html

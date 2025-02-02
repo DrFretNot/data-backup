@@ -1,0 +1,19 @@
+Common Core
+Contact Name,National Center for Health Statistics
+Contact Email,cdcinfo@cdc.gov
+Publisher,National Center for Health Statistics
+Public Access Level,public
+Issued,2021-10-06
+Bureau Code,009:20
+Program Code,009:020
+Update Frequency,irregular
+Homepage,https://www.cdc.gov/nchs/covid19/covid-19-mortality-data-files.htm
+Data Quality
+Suggested Citation,National Center for Health Statistics. AH Provisional COVID-19 Death Counts by Quarter and County. Date accessed [Last accessed date]. Available from https://data.cdc.gov/d/dnhi-s2bf.
+Footnotes,"Deaths with confirmed or presumed COVID-19, coded to ICD–10 code U07.1. Number of deaths reported in this table are the total number of deaths received and coded as of the date of analysis and do not represent all deaths that occurred in that period. Data during this period are incomplete because of the lag in time between when the death occurred and when the death certificate is completed, submitted to NCHS and processed for reporting purposes."
+Topics
+Category,NCHS
+Tags,"nchs, nvss, deaths, mortality, provisional, united states, county, quarterly, covid-19, coronavirus, all causes"
+Licensing and Attribution
+License,Public Domain U.S. Government
+Source Link,https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm
